@@ -1,0 +1,1380 @@
+city,venue,dates,gender,match_type,result,team1,team2,outcome.winner,outcome.runs,outcome.wickets,outcome.method,toss.winner,toss.decision,player_of_match,
+1,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/13/2017,male,ODI,,Australia,Pakistan,Australia,92,0,,Australia,bat,MS Wade
+2,,Melbourne Cricket Ground,1/15/2017,male,ODI,,Australia,Pakistan,Pakistan,0,6,,Australia,bat,Mohammad Hafeez
+3,Perth,Western Australia Cricket Association Ground,1/19/2017,male,ODI,,Australia,Pakistan,Australia,0,7,,Australia,field,SPD Smith
+4,,Sydney Cricket Ground,1/22/2017,male,ODI,,Australia,Pakistan,Australia,86,0,,Australia,bat,DA Warner
+5,,Adelaide Oval,1/26/2017,male,ODI,,Australia,Pakistan,Australia,57,0,,Australia,bat,DA Warner
+6,,Sydney Cricket Ground,12/4/2016,male,ODI,,Australia,New Zealand,Australia,68,0,,Australia,bat,SPD Smith
+7,Canberra,Manuka Oval,12/6/2016,male,ODI,,Australia,New Zealand,Australia,116,0,,New Zealand,field,DA Warner
+8,,Melbourne Cricket Ground,12/9/2016,male,ODI,,Australia,New Zealand,Australia,117,0,,Australia,bat,DA Warner
+9,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",7/4/2016,male,ODI,,Scotland,Afghanistan,No Result,0,0,,Scotland,field,
+10,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",7/6/2016,male,ODI,,Scotland,Afghanistan,Afghanistan,78,0,,Afghanistan,bat,
+11,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",9/8/2016,male,ODI,,Scotland,Hong Kong,No Result,0,0,,Hong Kong,field,
+12,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",9/10/2016,male,ODI,,Scotland,Hong Kong,Scotland,53,0,,Scotland,bat,
+13,,Harare Sports Club,6/11/2016,male,ODI,,Zimbabwe,India,India,0,9,,India,field,KL Rahul
+14,,Harare Sports Club,6/13/2016,male,ODI,,Zimbabwe,India,India,0,8,,India,field,YS Chahal
+15,,Harare Sports Club,6/15/2016,male,ODI,,Zimbabwe,India,India,0,10,,Zimbabwe,bat,KL Rahul
+16,Christchurch,Hagley Oval,12/26/2016,male,ODI,,New Zealand,Bangladesh,New Zealand,77,0,,New Zealand,bat,TWM Latham
+17,Nelson,Saxton Oval,12/29/2016,male,ODI,,New Zealand,Bangladesh,New Zealand,67,0,,Bangladesh,field,NT Broom
+18,Nelson,Saxton Oval,12/31/2016,male,ODI,,New Zealand,Bangladesh,New Zealand,0,8,,Bangladesh,bat,KS Williamson
+19,Auckland,Eden Park,1/30/2017,male,ODI,,New Zealand,Australia,New Zealand,6,0,,Australia,field,MP Stoinis
+20,Hamilton,Seddon Park,2/5/2017,male,ODI,,New Zealand,Australia,New Zealand,24,0,,New Zealand,bat,TA Boult
+21,Hamilton,Seddon Park,2/19/2017,male,ODI,,New Zealand,South Africa,South Africa,0,4,,South Africa,field,Q de Kock
+22,Christchurch,Hagley Oval,2/22/2017,male,ODI,,New Zealand,South Africa,New Zealand,6,0,,South Africa,field,LRPL Taylor
+23,Wellington,Westpac Stadium,2/25/2017,male,ODI,,New Zealand,South Africa,South Africa,159,0,,South Africa,bat,AB de Villiers
+24,Hamilton,Seddon Park,3/1/2017,male,ODI,,New Zealand,South Africa,New Zealand,0,7,,South Africa,bat,MJ Guptill
+25,Auckland,Eden Park,3/4/2017,male,ODI,,New Zealand,South Africa,South Africa,0,6,,South Africa,field,K Rabada
+26,London,Kennington Oval,6/1/2017,male,ODI,,England,Bangladesh,England,0,8,,England,field,JE Root
+27,Birmingham,Edgbaston,6/2/2017,male,ODI,,Australia,New Zealand,No Result,0,0,,New Zealand,bat,
+28,London,Kennington Oval,6/3/2017,male,ODI,,South Africa,Sri Lanka,South Africa,96,0,,Sri Lanka,field,Imran Tahir
+29,Birmingham,Edgbaston,6/4/2017,male,ODI,,India,Pakistan,India,124,0,,Pakistan,field,Yuvraj Singh
+30,London,Kennington Oval,6/5/2017,male,ODI,,Australia,Bangladesh,No Result,0,0,,Bangladesh,bat,
+31,Cardiff,Sophia Gardens,6/6/2017,male,ODI,,England,New Zealand,England,87,0,,New Zealand,field,JT Ball
+32,Birmingham,Edgbaston,6/7/2017,male,ODI,,Pakistan,South Africa,Pakistan,19,0,,South Africa,bat,Hasan Ali
+33,London,Kennington Oval,6/8/2017,male,ODI,,India,Sri Lanka,Sri Lanka,0,7,,Sri Lanka,field,BKG Mendis
+34,Cardiff,Sophia Gardens,6/9/2017,male,ODI,,Bangladesh,New Zealand,Bangladesh,0,5,,New Zealand,bat,Shakib Al Hasan
+35,Birmingham,Edgbaston,6/10/2017,male,ODI,,England,Australia,England,40,0,,England,field,BA Stokes
+36,London,Kennington Oval,6/11/2017,male,ODI,,India,South Africa,India,0,8,,India,field,JJ Bumrah
+37,Cardiff,Sophia Gardens,6/12/2017,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,3,,Pakistan,field,Sarfraz Ahmed
+38,Cardiff,Sophia Gardens,6/14/2017,male,ODI,,England,Pakistan,Pakistan,0,8,,Pakistan,field,Hasan Ali
+39,Birmingham,Edgbaston,6/15/2017,male,ODI,,Bangladesh,India,India,0,9,,India,field,RG Sharma
+40,London,Kennington Oval,6/18/2017,male,ODI,,India,Pakistan,Pakistan,180,0,,India,field,Fakhar Zaman
+41,Hong Kong,"Mission Road Ground, Mong Kok",11/4/2016,male,ODI,,Hong Kong,Papua New Guinea,Hong Kong,106,0,,Hong Kong,bat,Babar Hayat
+42,Hong Kong,"Mission Road Ground, Mong Kok",11/6/2016,male,ODI,,Hong Kong,Papua New Guinea,Papua New Guinea,14,0,,Papua New Guinea,bat,CA Soper
+43,Hong Kong,"Mission Road Ground, Mong Kok",11/8/2016,male,ODI,,Hong Kong,Papua New Guinea,Hong Kong,0,7,,Papua New Guinea,bat,Anshuman Rath
+44,Antigua,"Sir Vivian Richards Stadium, North Sound",3/3/2017,male,ODI,,West Indies,England,England,45,0,,West Indies,field,EJG Morgan
+45,Antigua,"Sir Vivian Richards Stadium, North Sound",3/5/2017,male,ODI,,West Indies,England,England,0,4,,West Indies,bat,JE Root
+46,Barbados,"Kensington Oval, Bridgetown",3/9/2017,male,ODI,,West Indies,England,England,186,0,,West Indies,field,AD Hales
+47,Bristol,County Ground,5/5/2017,male,ODI,,England,Ireland,England,0,7,,Ireland,bat,AU Rashid
+48,London,Lord's,5/7/2017,male,ODI,,England,Ireland,England,85,0,,Ireland,field,JE Root
+49,Mirpur,Shere Bangla National Stadium,10/7/2016,male,ODI,,Bangladesh,England,England,21,0,,England,bat,JT Ball
+50,Mirpur,Shere Bangla National Stadium,10/9/2016,male,ODI,,Bangladesh,England,Bangladesh,34,0,,England,field,Mashrafe Mortaza
+51,Chittagong,Zahur Ahmed Chowdhury Stadium,10/12/2016,male,ODI,,Bangladesh,England,England,0,4,,England,field,AU Rashid
+52,Dharmasala,Himachal Pradesh Cricket Association Stadium,10/16/2016,male,ODI,,India,New Zealand,India,0,6,,India,field,HH Pandya
+53,Delhi,Feroz Shah Kotla,10/20/2016,male,ODI,,India,New Zealand,New Zealand,6,0,,India,field,KS Williamson
+54,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/23/2016,male,ODI,,India,New Zealand,India,0,7,,India,field,V Kohli
+55,Ranchi,JSCA International Stadium Complex,10/26/2016,male,ODI,,India,New Zealand,New Zealand,19,0,,New Zealand,bat,MJ Guptill
+56,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,10/29/2016,male,ODI,,India,New Zealand,India,190,0,,India,bat,A Mishra
+57,Leeds,Headingley,5/24/2017,male,ODI,,England,South Africa,England,72,0,,South Africa,field,MM Ali
+58,Southampton,The Rose Bowl,5/27/2017,male,ODI,,England,South Africa,England,2,0,,South Africa,field,BA Stokes
+59,London,Lord's,5/29/2017,male,ODI,,England,South Africa,South Africa,0,7,,South Africa,field,K Rabada
+60,Dublin,Malahide,5/12/2017,male,ODI,,Ireland,Bangladesh,No Result,0,0,,Ireland,field,
+61,Dublin,Malahide,5/14/2017,male,ODI,,Ireland,New Zealand,New Zealand,51,0,,Ireland,field,MJ Santner
+62,Dublin,Clontarf Cricket Club Ground,5/17/2017,male,ODI,,Bangladesh,New Zealand,New Zealand,0,4,,New Zealand,field,JDS Neesham
+63,Dublin,Malahide,5/19/2017,male,ODI,,Ireland,Bangladesh,Bangladesh,0,8,,Bangladesh,field,Mustafizur Rahman
+64,Dublin,Malahide,5/21/2017,male,ODI,,Ireland,New Zealand,New Zealand,190,0,,Ireland,field,TWM Latham
+65,Dublin,Clontarf Cricket Club Ground,5/24/2017,male,ODI,,Bangladesh,New Zealand,Bangladesh,0,5,,Bangladesh,field,Mushfiqur Rahim
+66,Pune,Maharashtra Cricket Association Stadium,1/15/2017,male,ODI,,India,England,India,0,3,,India,field,KM Jadhav
+67,Cuttack,Barabati Stadium,1/19/2017,male,ODI,,India,England,India,15,0,,England,field,Yuvraj Singh
+68,Kolkata,Eden Gardens,1/22/2017,male,ODI,,India,England,England,5,0,,India,field,BA Stokes
+69,Greater Noida,Greater Noida Sports Complex Ground,3/15/2017,male,ODI,,Afghanistan,Ireland,Afghanistan,30,0,,Afghanistan,bat,WTS Porterfield
+70,Greater Noida,Greater Noida Sports Complex Ground,3/17/2017,male,ODI,,Afghanistan,Ireland,Afghanistan,34,0,,Afghanistan,bat,PR Stirling
+71,Greater Noida,Greater Noida Sports Complex Ground,3/19/2017,male,ODI,,Afghanistan,Ireland,Ireland,0,6,,Afghanistan,bat,PR Stirling
+72,Greater Noida,Greater Noida Sports Complex Ground,3/22/2017,male,ODI,,Afghanistan,Ireland,Ireland,0,3,,Afghanistan,bat,KJ O'Brien
+73,Greater Noida,Greater Noida Sports Complex Ground,3/24/2017,male,ODI,,Afghanistan,Ireland,Afghanistan,0,7,,Ireland,bat,Rahmat Shah
+74,,Sharjah Cricket Stadium,9/30/2016,male,ODI,,Pakistan,West Indies,Pakistan,111,0,,West Indies,field,Babar Azam
+75,,Sharjah Cricket Stadium,10/2/2016,male,ODI,,Pakistan,West Indies,Pakistan,59,0,,Pakistan,bat,Babar Azam
+76,Abu Dhabi,Sheikh Zayed Stadium,10/5/2016,male,ODI,,Pakistan,West Indies,Pakistan,136,0,,Pakistan,bat,Babar Azam
+77,Mirpur,Shere Bangla National Stadium,9/25/2016,male,ODI,,Bangladesh,Afghanistan,Bangladesh,7,0,,Bangladesh,bat,Shakib Al Hasan
+78,Mirpur,Shere Bangla National Stadium,9/28/2016,male,ODI,,Bangladesh,Afghanistan,Afghanistan,0,2,,Afghanistan,field,Mohammad Nabi
+79,Mirpur,Shere Bangla National Stadium,10/1/2016,male,ODI,,Bangladesh,Afghanistan,Bangladesh,141,0,,Bangladesh,bat,Tamim Iqbal
+80,,Harare Sports Club,11/14/2016,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,0,8,,Sri Lanka,field,DM de Silva
+81,,Harare Sports Club,11/16/2016,male,ODI,,Sri Lanka,West Indies,West Indies,62,0,,Sri Lanka,field,JO Holder
+82,Bulawayo,Queens Sports Club,11/19/2016,male,ODI,,Zimbabwe,West Indies,No Result,0,0,,Zimbabwe,bat,SD Hope
+83,Bulawayo,Queens Sports Club,11/21/2016,male,ODI,,Zimbabwe,Sri Lanka,No Result,0,0,,Zimbabwe,bat,
+84,Bulawayo,Queens Sports Club,11/23/2016,male,ODI,,Sri Lanka,West Indies,Sri Lanka,1,0,,West Indies,field,BKG Mendis
+85,Bulawayo,Queens Sports Club,11/25/2016,male,ODI,,Zimbabwe,West Indies,Zimbabwe,5,0,,Zimbabwe,bat,TS Chisoro
+86,Bulawayo,Queens Sports Club,11/27/2016,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,0,6,,Zimbabwe,bat,BKG Mendis
+87,Abu Dhabi,Sheikh Zayed Stadium,4/2/2017,male,ODI,,United Arab Emirates,Papua New Guinea,Papua New Guinea,26,0,,Papua New Guinea,bat,
+88,Guyana,Providence Stadium,4/7/2017,male,ODI,,West Indies,Pakistan,West Indies,0,4,,West Indies,field,JN Mohammed
+89,Guyana,Providence Stadium,4/9/2017,male,ODI,,West Indies,Pakistan,Pakistan,74,0,,West Indies,field,Babar Azam
+90,Guyana,Providence Stadium,4/11/2017,male,ODI,,West Indies,Pakistan,Pakistan,0,6,,West Indies,bat,Shoaib Malik
+91,Abu Dhabi,Sheikh Zayed Stadium,1/22/2017,male,ODI,,Hong Kong,Scotland,Hong Kong,0,7,,Hong Kong,field,Babar Hayat
+92,,Dubai International Cricket Stadium,1/24/2017,male,ODI,,United Arab Emirates,Scotland,United Arab Emirates,0,4,,Scotland,bat,Adnan Mufti
+93,,Dubai International Cricket Stadium,1/26/2017,male,ODI,,United Arab Emirates,Hong Kong,United Arab Emirates,0,6,,United Arab Emirates,field,Imran Haider
+94,,Harare Sports Club,2/16/2017,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,12,0,,Afghanistan,bat,Asghar Stanikzai
+95,,Harare Sports Club,2/19/2017,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,54,0,,Afghanistan,bat,Rashid Khan
+96,,Harare Sports Club,2/21/2017,male,ODI,,Zimbabwe,Afghanistan,Zimbabwe,3,0,,Zimbabwe,bat,TL Chatara
+97,,Harare Sports Club,2/24/2017,male,ODI,,Zimbabwe,Afghanistan,Zimbabwe,0,7,,Afghanistan,bat,CB Mpofu
+98,,Harare Sports Club,2/26/2017,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,106,0,,Afghanistan,bat,Rahmat Shah
+99,Dubai,ICC Global Cricket Academy,3/2/2017,male,ODI,,United Arab Emirates,Ireland,Ireland,85,0,,United Arab Emirates,field,WTS Porterfield
+100,Dubai,ICC Global Cricket Academy,3/4/2017,male,ODI,,United Arab Emirates,Ireland,Ireland,0,8,,United Arab Emirates,bat,WTS Porterfield
+101,,Rangiri Dambulla International Stadium,3/25/2017,male,ODI,,Sri Lanka,Bangladesh,Bangladesh,90,0,,Sri Lanka,field,Tamim Iqbal
+102,,Rangiri Dambulla International Stadium,3/28/2017,male,ODI,,Sri Lanka,Bangladesh,No Result,0,0,,Sri Lanka,bat,
+103,Colombo,Sinhalese Sports Club Ground,4/1/2017,male,ODI,,Sri Lanka,Bangladesh,Sri Lanka,70,0,,Bangladesh,field,NLTC Perera
+104,Abu Dhabi,Sheikh Zayed Stadium,4/4/2017,male,ODI,,United Arab Emirates,Papua New Guinea,United Arab Emirates,103,0,,United Arab Emirates,bat,
+105,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",6/15/2017,male,ODI,,Scotland,Zimbabwe,Scotland,26,0,,Scotland,bat,
+106,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",6/17/2017,male,ODI,,Scotland,Zimbabwe,Zimbabwe,0,6,,Scotland,bat,
+107,St Lucia,"Darren Sammy National Cricket Stadium, Gros Islet",6/9/2017,male,ODI,,West Indies,Afghanistan,Afghanistan,63,0,,Afghanistan,bat,Rashid Khan
+108,St Lucia,"Darren Sammy National Cricket Stadium, Gros Islet",6/11/2017,male,ODI,,West Indies,Afghanistan,West Indies,0,4,,Afghanistan,bat,SD Hope
+109,Trinidad,"Queen's Park Oval, Port of Spain",6/23/2017,male,ODI,,West Indies,India,No Result,0,0,,West Indies,field,
+110,Trinidad,"Queen's Park Oval, Port of Spain",6/25/2017,male,ODI,,West Indies,India,India,105,0,,West Indies,field,AM Rahane
+111,Antigua,"Sir Vivian Richards Stadium, North Sound",6/30/2017,male,ODI,,West Indies,India,India,93,0,,West Indies,field,MS Dhoni
+112,Antigua,"Sir Vivian Richards Stadium, North Sound",7/2/2017,male,ODI,,West Indies,India,West Indies,11,0,,West Indies,bat,JO Holder
+113,Jamaica,"Sabina Park, Kingston",7/6/2017,male,ODI,,West Indies,India,India,0,8,,West Indies,bat,V Kohli
+114,,Galle International Stadium,6/30/2017,male,ODI,,Sri Lanka,Zimbabwe,Zimbabwe,0,6,,Sri Lanka,bat,SF Mire
+115,,Galle International Stadium,7/2/2017,male,ODI,,Sri Lanka,Zimbabwe,Sri Lanka,0,7,,Sri Lanka,field,PADLR Sandakan
+116,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/6/2017,male,ODI,,Sri Lanka,Zimbabwe,Sri Lanka,0,8,,Sri Lanka,field,MD Gunathilaka
+117,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/8/2017,male,ODI,,Sri Lanka,Zimbabwe,Zimbabwe,0,4,,Sri Lanka,bat,CR Ervine
+118,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/10/2017,male,ODI,,Sri Lanka,Zimbabwe,Zimbabwe,0,3,,Zimbabwe,field,Sikandar Raza
+119,Belfast,"Civil Service Cricket Club, Stormont",6/13/2006,male,ODI,,Ireland,England,England,38,0,,England,bat,ME Trescothick
+120,Cardiff,Sophia Gardens,8/30/2006,male,ODI,,England,Pakistan,No Result,0,0,,Pakistan,field,
+121,London,Lord's,9/2/2006,male,ODI,,England,Pakistan,Pakistan,0,7,,Pakistan,field,Shoaib Akhtar
+122,Southampton,The Rose Bowl,9/5/2006,male,ODI,,England,Pakistan,Pakistan,0,2,,Pakistan,field,Younis Khan
+123,Nottingham,Trent Bridge,9/8/2006,male,ODI,,England,Pakistan,England,0,8,,Pakistan,bat,IR Bell
+124,Birmingham,Edgbaston,9/10/2006,male,ODI,,England,Pakistan,England,0,3,,England,field,SI Mahmood
+125,London,Lord's,6/17/2006,male,ODI,,England,Sri Lanka,Sri Lanka,20,0,,England,field,WU Tharanga
+126,London,Kennington Oval,6/20/2006,male,ODI,,England,Sri Lanka,Sri Lanka,46,0,,Sri Lanka,bat,ST Jayasuriya
+127,Chester-le-Street,Riverside Ground,6/24/2006,male,ODI,,England,Sri Lanka,Sri Lanka,0,8,,England,bat,DPMD Jayawardene
+128,Manchester,Old Trafford,6/28/2006,male,ODI,,England,Sri Lanka,Sri Lanka,33,0,,Sri Lanka,bat,DPMD Jayawardene
+129,Leeds,Headingley,7/1/2006,male,ODI,,England,Sri Lanka,Sri Lanka,0,8,,England,bat,ST Jayasuriya
+130,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/15/2006,male,ODI,,Australia,South Africa,South Africa,0,5,,Australia,bat,SM Pollock
+131,Melbourne,Docklands Stadium,1/20/2006,male,ODI,,Australia,South Africa,Australia,59,0,,Australia,bat,B Lee
+132,Melbourne,Docklands Stadium,2/3/2006,male,ODI,,Australia,South Africa,Australia,80,0,,Australia,bat,MEK Hussey
+133,,Sydney Cricket Ground,2/5/2006,male,ODI,,Australia,South Africa,Australia,57,0,,Australia,bat,AC Gilchrist
+134,,Sydney Cricket Ground,1/22/2006,male,ODI,,Australia,Sri Lanka,Sri Lanka,51,0,,Sri Lanka,bat,ST Jayasuriya
+135,,Adelaide Oval,1/26/2006,male,ODI,,Australia,Sri Lanka,Australia,0,5,,Sri Lanka,bat,A Symonds
+136,Perth,Western Australia Cricket Association Ground,1/29/2006,male,ODI,,Australia,Sri Lanka,Australia,0,6,,Sri Lanka,bat,AC Gilchrist
+137,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/17/2006,male,ODI,,South Africa,Sri Lanka,Sri Lanka,94,0,,South Africa,field,KC Sangakkara
+138,,Adelaide Oval,1/24/2006,male,ODI,,South Africa,Sri Lanka,South Africa,9,0,,South Africa,bat,HH Dippenaar
+139,Perth,Western Australia Cricket Association Ground,1/31/2006,male,ODI,,South Africa,Sri Lanka,South Africa,0,5,,Sri Lanka,bat,GC Smith
+140,Hobart,Bellerive Oval,2/7/2006,male,ODI,,South Africa,Sri Lanka,Sri Lanka,76,0,,Sri Lanka,bat,HMCM Bandara
+141,Christchurch,Jade Stadium,1/3/2006,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,5,,New Zealand,field,WU Tharanga
+142,Wellington,Westpac Stadium,1/6/2006,male,ODI,,New Zealand,Sri Lanka,New Zealand,21,0,,New Zealand,bat,JS Patel
+143,Peshawar,Arbab Niaz Stadium,2/6/2006,male,ODI,,Pakistan,India,Pakistan,7,0,,Pakistan,field,Salman Butt
+144,,Adelaide Oval,2/10/2006,male,ODI,,Australia,Sri Lanka,Sri Lanka,22,0,,Sri Lanka,bat,KC Sangakkara
+145,,Rawalpindi Cricket Stadium,2/11/2006,male,ODI,,Pakistan,India,India,0,7,,Pakistan,bat,IK Pathan
+146,,Sydney Cricket Ground,2/12/2006,male,ODI,,Australia,Sri Lanka,Australia,167,0,,Australia,bat,A Symonds
+147,Lahore,Gaddafi Stadium,2/13/2006,male,ODI,,Pakistan,India,India,0,5,,India,field,MS Dhoni
+148,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/14/2006,male,ODI,,Australia,Sri Lanka,Australia,0,9,,Sri Lanka,bat,AC Gilchrist
+149,,Multan Cricket Stadium,2/16/2006,male,ODI,,Pakistan,India,India,0,5,,India,field,RP Singh
+150,Wellington,Westpac Stadium,2/18/2006,male,ODI,,New Zealand,West Indies,New Zealand,81,0,,New Zealand,bat,NJ Astle
+151,Karachi,National Stadium,2/19/2006,male,ODI,,Pakistan,India,India,0,8,,India,field,Yuvraj Singh
+152,Bogra,Shaheed Chandu Stadium,2/20/2006,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,0,5,,Bangladesh,bat,PDRL Perera
+153,Bogra,Shaheed Chandu Stadium,2/22/2006,male,ODI,,Bangladesh,Sri Lanka,Bangladesh,0,4,,Bangladesh,field,Aftab Ahmed
+154,,Chittagong Divisional Stadium,2/25/2006,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,78,0,,Bangladesh,field,KC Sangakkara
+155,,Chittagong Divisional Stadium,4/23/2006,male,ODI,,Bangladesh,Australia,Australia,0,4,,Bangladesh,bat,AC Gilchrist
+156,Fatullah,Narayanganj Osmani Stadium,4/26/2006,male,ODI,,Bangladesh,Australia,Australia,67,0,,Australia,bat,A Symonds
+157,Fatullah,Narayanganj Osmani Stadium,4/28/2006,male,ODI,,Bangladesh,Australia,Australia,0,9,,Bangladesh,bat,MJ Cosgrove
+158,,Queenstown Events Centre,2/22/2006,male,ODI,,New Zealand,West Indies,New Zealand,0,3,,New Zealand,field,DL Vettori
+159,Christchurch,Jade Stadium,2/25/2006,male,ODI,,New Zealand,West Indies,New Zealand,21,0,,New Zealand,bat,NJ Astle
+160,Napier,McLean Park,3/1/2006,male,ODI,,New Zealand,West Indies,New Zealand,91,0,,West Indies,field,L Vincent
+161,Auckland,Eden Park,3/4/2006,male,ODI,,New Zealand,West Indies,West Indies,0,3,,New Zealand,bat,DR Smith
+162,Delhi,Feroz Shah Kotla,3/28/2006,male,ODI,,India,England,India,39,0,,England,field,Harbhajan Singh
+163,Faridabad,Nahar Singh Stadium,3/31/2006,male,ODI,,India,England,India,0,4,,England,bat,SK Raina
+164,Margao,"Nehru Stadium, Fatorda",4/3/2006,male,ODI,,India,England,India,49,0,,India,bat,Yuvraj Singh
+165,Jamshedpur,Keenan Stadium,4/12/2006,male,ODI,,India,England,England,0,5,,India,bat,AJ Strauss
+166,Indore,Maharani Usharaje Trust Cricket Ground,4/15/2006,male,ODI,,India,England,India,0,7,,India,field,S Sreesanth
+167,Centurion,SuperSport Park,2/26/2006,male,ODI,,South Africa,Australia,South Africa,0,6,,Australia,bat,GC Smith
+168,Cape Town,Newlands,3/3/2006,male,ODI,,South Africa,Australia,South Africa,196,0,,South Africa,bat,M Ntini
+169,Port Elizabeth,St George's Park,3/5/2006,male,ODI,,South Africa,Australia,Australia,24,0,,South Africa,field,B Lee
+170,Durban,Kingsmead,3/10/2006,male,ODI,,South Africa,Australia,Australia,0,1,,South Africa,bat,HH Dippenaar
+171,Johannesburg,New Wanderers Stadium,3/12/2006,male,ODI,,South Africa,Australia,South Africa,0,1,,Australia,bat,HH Gibbs
+172,Colombo,R Premadasa Stadium,3/17/2006,male,ODI,,Sri Lanka,Pakistan,No Result,0,0,,Sri Lanka,field,
+173,Colombo,R Premadasa Stadium,3/19/2006,male,ODI,,Sri Lanka,Pakistan,Pakistan,0,4,,Pakistan,field,Abdul Razzaq
+174,Colombo,Sinhalese Sports Club Ground,3/22/2006,male,ODI,,Sri Lanka,Pakistan,Pakistan,0,4,,Pakistan,field,Shahid Afridi
+175,Antigua,"Antigua Recreation Ground, St John's",4/29/2006,male,ODI,,West Indies,Zimbabwe,West Indies,0,5,,West Indies,field,JE Taylor
+176,Antigua,"Antigua Recreation Ground, St John's",4/30/2006,male,ODI,,West Indies,Zimbabwe,West Indies,98,0,,West Indies,bat,JE Taylor
+177,St Lucia,"Beausejour Stadium, Gros Islet",5/10/2006,male,ODI,,West Indies,Zimbabwe,West Indies,0,10,,Zimbabwe,bat,CH Gayle
+178,Trinidad,"Queen's Park Oval, Port of Spain",5/13/2006,male,ODI,,West Indies,Zimbabwe,No Result,0,0,,West Indies,bat,
+179,Trinidad,"Queen's Park Oval, Port of Spain",5/14/2006,male,ODI,,West Indies,Zimbabwe,West Indies,104,0,,West Indies,bat,RR Sarwan
+180,Jamaica,"Sabina Park, Kingston",5/20/2006,male,ODI,,West Indies,India,West Indies,1,0,,India,field,RR Sarwan
+181,St Kitts,"Warner Park, Basseterre",5/23/2006,male,ODI,,West Indies,India,West Indies,0,4,,India,bat,RR Sarwan
+182,Trinidad,"Queen's Park Oval, Port of Spain",5/26/2006,male,ODI,,West Indies,India,West Indies,0,6,,West Indies,field,DJ Bravo
+183,Trinidad,"Queen's Park Oval, Port of Spain",5/28/2006,male,ODI,,West Indies,India,West Indies,19,0,,India,field,DJ Bravo
+184,Abu Dhabi,Sheikh Zayed Stadium,4/18/2006,male,ODI,,India,Pakistan,Pakistan,0,6,,India,bat,Younis Khan
+185,Abu Dhabi,Sheikh Zayed Stadium,4/19/2006,male,ODI,,India,Pakistan,India,51,0,,India,bat,R Dravid
+186,Jamaica,"Sabina Park, Kingston",3/13/2007,male,ODI,,West Indies,Pakistan,West Indies,54,0,,Pakistan,field,DR Smith
+187,St Kitts,"Warner Park, Basseterre",3/14/2007,male,ODI,,Australia,Scotland,Australia,203,0,,Scotland,field,RT Ponting
+188,Trinidad,"Queen's Park Oval, Port of Spain",3/15/2007,male,ODI,,Bermuda,Sri Lanka,Sri Lanka,243,0,,Sri Lanka,bat,DPMD Jayawardene
+189,Jamaica,"Sabina Park, Kingston",3/15/2007,male,ODI,,Ireland,Zimbabwe,No Result,0,0,,Zimbabwe,field,JP Bray
+190,St Kitts,"Warner Park, Basseterre",3/16/2007,male,ODI,,Netherlands,South Africa,South Africa,221,0,,Netherlands,field,HH Gibbs
+191,St Lucia,"Beausejour Stadium, Gros Islet",3/16/2007,male,ODI,,England,New Zealand,New Zealand,0,6,,New Zealand,field,SB Styris
+192,Trinidad,"Queen's Park Oval, Port of Spain",3/17/2007,male,ODI,,Bangladesh,India,Bangladesh,0,5,,India,bat,Mashrafe Mortaza
+193,Jamaica,"Sabina Park, Kingston",3/17/2007,male,ODI,,Ireland,Pakistan,Ireland,0,3,,Ireland,field,NJ O'Brien
+194,St Kitts,"Warner Park, Basseterre",3/18/2007,male,ODI,,Australia,Netherlands,Australia,229,0,,Australia,bat,BJ Hodge
+195,St Lucia,"Beausejour Stadium, Gros Islet",3/18/2007,male,ODI,,Canada,England,England,51,0,,Canada,field,PD Collingwood
+196,Trinidad,"Queen's Park Oval, Port of Spain",3/19/2007,male,ODI,,Bermuda,India,India,257,0,,Bermuda,field,V Sehwag
+197,Jamaica,"Sabina Park, Kingston",3/19/2007,male,ODI,,West Indies,Zimbabwe,West Indies,0,6,,West Indies,field,SC Williams
+198,St Kitts,"Warner Park, Basseterre",3/20/2007,male,ODI,,Scotland,South Africa,South Africa,0,7,,South Africa,field,GC Smith
+199,St Lucia,"Beausejour Stadium, Gros Islet",3/20/2007,male,ODI,,Kenya,New Zealand,New Zealand,148,0,,Kenya,field,LRPL Taylor
+200,Trinidad,"Queen's Park Oval, Port of Spain",3/21/2007,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,198,0,,Bangladesh,field,ST Jayasuriya
+201,Jamaica,"Sabina Park, Kingston",3/21/2007,male,ODI,,Pakistan,Zimbabwe,Pakistan,93,0,,Zimbabwe,field,Imran Nazir
+202,St Kitts,"Warner Park, Basseterre",3/22/2007,male,ODI,,Netherlands,Scotland,Netherlands,0,8,,Netherlands,field,WF Stelling
+203,St Lucia,"Beausejour Stadium, Gros Islet",3/22/2007,male,ODI,,Canada,New Zealand,New Zealand,114,0,,Canada,field,L Vincent
+204,Trinidad,"Queen's Park Oval, Port of Spain",3/23/2007,male,ODI,,India,Sri Lanka,Sri Lanka,69,0,,India,field,M Muralitharan
+205,Jamaica,"Sabina Park, Kingston",3/23/2007,male,ODI,,West Indies,Ireland,West Indies,0,8,,Ireland,bat,S Chanderpaul
+206,St Kitts,"Warner Park, Basseterre",3/24/2007,male,ODI,,Australia,South Africa,Australia,83,0,,South Africa,field,ML Hayden
+207,St Lucia,"Beausejour Stadium, Gros Islet",3/24/2007,male,ODI,,England,Kenya,England,0,7,,Kenya,bat,EC Joyce
+208,Trinidad,"Queen's Park Oval, Port of Spain",3/25/2007,male,ODI,,Bangladesh,Bermuda,Bangladesh,0,7,,Bangladesh,field,Mohammad Ashraful
+209,Antigua,"Sir Vivian Richards Stadium, North Sound",3/27/2007,male,ODI,,West Indies,Australia,Australia,103,0,,West Indies,field,ML Hayden
+210,Guyana,Providence Stadium,3/28/2007,male,ODI,,South Africa,Sri Lanka,South Africa,0,1,,Sri Lanka,bat,CK Langeveldt
+211,Antigua,"Sir Vivian Richards Stadium, North Sound",3/29/2007,male,ODI,,West Indies,New Zealand,New Zealand,0,7,,New Zealand,field,JDP Oram
+212,Guyana,Providence Stadium,3/30/2007,male,ODI,,England,Ireland,England,48,0,,England,bat,PD Collingwood
+213,Antigua,"Sir Vivian Richards Stadium, North Sound",3/31/2007,male,ODI,,Australia,Bangladesh,Australia,0,10,,Australia,field,GD McGrath
+214,Guyana,Providence Stadium,4/1/2007,male,ODI,,West Indies,Sri Lanka,Sri Lanka,113,0,,West Indies,field,ST Jayasuriya
+215,Antigua,"Sir Vivian Richards Stadium, North Sound",4/2/2007,male,ODI,,Bangladesh,New Zealand,New Zealand,0,9,,New Zealand,field,SE Bond
+216,Guyana,Providence Stadium,4/3/2007,male,ODI,,Ireland,South Africa,South Africa,0,7,,South Africa,field,JH Kallis
+217,Antigua,"Sir Vivian Richards Stadium, North Sound",4/4/2007,male,ODI,,England,Sri Lanka,Sri Lanka,2,0,,England,field,RS Bopara
+218,Guyana,Providence Stadium,4/7/2007,male,ODI,,Bangladesh,South Africa,Bangladesh,67,0,,South Africa,field,Mohammad Ashraful
+219,Antigua,"Sir Vivian Richards Stadium, North Sound",4/8/2007,male,ODI,,Australia,England,Australia,0,7,,England,bat,SW Tait
+220,Guyana,Providence Stadium,4/9/2007,male,ODI,,Ireland,New Zealand,New Zealand,129,0,,New Zealand,bat,PG Fulton
+221,Grenada,"National Cricket Stadium, St George's",4/10/2007,male,ODI,,West Indies,South Africa,South Africa,67,0,,West Indies,field,AB de Villiers
+222,Barbados,"Kensington Oval, Bridgetown",4/11/2007,male,ODI,,Bangladesh,England,England,0,4,,England,field,SI Mahmood
+223,Grenada,"National Cricket Stadium, St George's",4/12/2007,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,0,6,,New Zealand,bat,WPUJC Vaas
+224,Barbados,"Kensington Oval, Bridgetown",4/13/2007,male,ODI,,Australia,Ireland,Australia,0,9,,Australia,field,GD McGrath
+225,Grenada,"National Cricket Stadium, St George's",4/14/2007,male,ODI,,New Zealand,South Africa,New Zealand,0,5,,New Zealand,field,CD McMillan
+226,Barbados,"Kensington Oval, Bridgetown",4/15/2007,male,ODI,,Bangladesh,Ireland,Ireland,74,0,,Ireland,bat,WTS Porterfield
+227,Grenada,"National Cricket Stadium, St George's",4/16/2007,male,ODI,,Australia,Sri Lanka,Australia,0,7,,Sri Lanka,bat,NW Bracken
+228,Barbados,"Kensington Oval, Bridgetown",4/17/2007,male,ODI,,England,South Africa,South Africa,0,9,,England,bat,AJ Hall
+229,Grenada,"National Cricket Stadium, St George's",4/18/2007,male,ODI,,Ireland,Sri Lanka,Sri Lanka,0,8,,Sri Lanka,field,MF Maharoof
+230,Barbados,"Kensington Oval, Bridgetown",4/19/2007,male,ODI,,West Indies,Bangladesh,West Indies,99,0,,Bangladesh,field,RR Sarwan
+231,Grenada,"National Cricket Stadium, St George's",4/20/2007,male,ODI,,Australia,New Zealand,Australia,215,0,,Australia,bat,ML Hayden
+232,Barbados,"Kensington Oval, Bridgetown",4/21/2007,male,ODI,,West Indies,England,England,0,1,,England,field,KP Pietersen
+233,Jamaica,"Sabina Park, Kingston",4/24/2007,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,81,0,,Sri Lanka,bat,DPMD Jayawardene
+234,St Lucia,"Beausejour Stadium, Gros Islet",4/25/2007,male,ODI,,Australia,South Africa,Australia,0,7,,South Africa,bat,GD McGrath
+235,Barbados,"Kensington Oval, Bridgetown",4/28/2007,male,ODI,,Australia,Sri Lanka,Australia,53,0,,Australia,bat,AC Gilchrist
+236,,Harare Sports Club,8/6/2006,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,0,8,,Zimbabwe,bat,Shahriar Nafees
+237,Durban,Kingsmead,11/22/2006,male,ODI,,South Africa,India,South Africa,157,0,,South Africa,bat,JH Kallis
+238,Cape Town,Newlands,11/26/2006,male,ODI,,South Africa,India,South Africa,106,0,,South Africa,bat,JM Kemp
+239,Port Elizabeth,St George's Park,11/29/2006,male,ODI,,South Africa,India,South Africa,80,0,,South Africa,bat,HH Gibbs
+240,Centurion,SuperSport Park,12/3/2006,male,ODI,,South Africa,India,South Africa,0,9,,South Africa,field,SM Pollock
+241,Hobart,Bellerive Oval,1/14/2007,male,ODI,,Australia,New Zealand,Australia,105,0,,Australia,bat,A Symonds
+242,,Sydney Cricket Ground,1/21/2007,male,ODI,,Australia,New Zealand,Australia,0,2,,New Zealand,bat,MJ Clarke
+243,Perth,Western Australia Cricket Association Ground,1/28/2007,male,ODI,,Australia,New Zealand,Australia,8,0,,Australia,bat,RT Ponting
+244,,Melbourne Cricket Ground,2/4/2007,male,ODI,,Australia,New Zealand,Australia,0,5,,New Zealand,bat,RT Ponting
+245,,Melbourne Cricket Ground,1/12/2007,male,ODI,,Australia,England,Australia,0,8,,England,bat,AC Gilchrist
+246,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/19/2007,male,ODI,,Australia,England,Australia,0,4,,England,bat,MEK Hussey
+247,,Adelaide Oval,1/26/2007,male,ODI,,Australia,England,Australia,0,9,,England,bat,MG Johnson
+248,,Sydney Cricket Ground,2/2/2007,male,ODI,,Australia,England,England,92,0,,England,bat,EC Joyce
+249,Hobart,Bellerive Oval,1/16/2007,male,ODI,,England,New Zealand,England,0,3,,New Zealand,bat,A Flintoff
+250,,Adelaide Oval,1/23/2007,male,ODI,,England,New Zealand,New Zealand,90,0,,New Zealand,bat,JDP Oram
+251,Perth,Western Australia Cricket Association Ground,1/30/2007,male,ODI,,England,New Zealand,New Zealand,58,0,,New Zealand,bat,L Vincent
+252,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/6/2007,male,ODI,,England,New Zealand,England,14,0,,England,bat,PD Collingwood
+253,,Melbourne Cricket Ground,2/9/2007,male,ODI,,Australia,England,England,0,4,,Australia,bat,PD Collingwood
+254,,Sydney Cricket Ground,2/11/2007,male,ODI,,Australia,England,England,34,0,,England,bat,
+255,Nairobi,Gymkhana Club Ground,8/12/2006,male,ODI,,Kenya,Bangladesh,Bangladesh,0,6,,Bangladesh,field,Mashrafe Mortaza
+256,Nairobi,Gymkhana Club Ground,8/13/2006,male,ODI,,Kenya,Bangladesh,Bangladesh,0,2,,Kenya,bat,Mashrafe Mortaza
+257,Nairobi,Gymkhana Club Ground,8/15/2006,male,ODI,,Kenya,Bangladesh,Bangladesh,0,6,,Bangladesh,field,Mashrafe Mortaza
+258,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/7/2006,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,37,0,,Bangladesh,field,WU Tharanga
+259,Ahmedabad,"Sardar Patel Stadium, Motera",10/8/2006,male,ODI,,West Indies,Zimbabwe,West Indies,0,9,,Zimbabwe,bat,CH Gayle
+260,Ahmedabad,"Sardar Patel Stadium, Motera",10/10/2006,male,ODI,,Sri Lanka,Zimbabwe,Sri Lanka,144,0,,Sri Lanka,bat,WU Tharanga
+261,Jaipur,Sawai Mansingh Stadium,10/11/2006,male,ODI,,Bangladesh,West Indies,West Indies,0,10,,Bangladesh,bat,CH Gayle
+262,Jaipur,Sawai Mansingh Stadium,10/13/2006,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,101,0,,Zimbabwe,field,Shahriar Nafees
+263,Mumbai,Brabourne Stadium,10/14/2006,male,ODI,,Sri Lanka,West Indies,Sri Lanka,0,9,,West Indies,bat,MF Maharoof
+264,Jaipur,Sawai Mansingh Stadium,10/15/2006,male,ODI,,India,England,India,0,4,,India,field,MM Patel
+265,Mumbai,Brabourne Stadium,10/16/2006,male,ODI,,New Zealand,South Africa,New Zealand,87,0,,South Africa,field,SP Fleming
+266,Jaipur,Sawai Mansingh Stadium,10/17/2006,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,4,,Sri Lanka,bat,Abdul Razzaq
+267,Mumbai,Brabourne Stadium,10/18/2006,male,ODI,,Australia,West Indies,West Indies,10,0,,West Indies,bat,RS Morton
+268,Mumbai,Brabourne Stadium,10/20/2006,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,0,7,,New Zealand,bat,M Muralitharan
+269,Jaipur,Sawai Mansingh Stadium,10/21/2006,male,ODI,,Australia,England,Australia,0,6,,Australia,field,DR Martyn
+270,Ahmedabad,"Sardar Patel Stadium, Motera",10/24/2006,male,ODI,,South Africa,Sri Lanka,South Africa,78,0,,Sri Lanka,field,SM Pollock
+271,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/25/2006,male,ODI,,New Zealand,Pakistan,New Zealand,51,0,,Pakistan,field,SP Fleming
+272,Ahmedabad,"Sardar Patel Stadium, Motera",10/26/2006,male,ODI,,India,West Indies,West Indies,0,3,,West Indies,field,S Chanderpaul
+273,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/27/2006,male,ODI,,Pakistan,South Africa,South Africa,124,0,,South Africa,bat,M Ntini
+274,Ahmedabad,"Sardar Patel Stadium, Motera",10/28/2006,male,ODI,,England,West Indies,England,0,3,,West Indies,bat,CH Gayle
+275,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/29/2006,male,ODI,,India,Australia,Australia,0,6,,India,bat,DR Martyn
+276,Chandigarh,"Punjab Cricket Association Stadium, Mohali",11/1/2006,male,ODI,,Australia,New Zealand,Australia,34,0,,New Zealand,field,GD McGrath
+277,Jaipur,Sawai Mansingh Stadium,11/2/2006,male,ODI,,South Africa,West Indies,West Indies,0,6,,South Africa,bat,CH Gayle
+278,Mumbai,Brabourne Stadium,11/5/2006,male,ODI,,Australia,West Indies,Australia,0,8,,West Indies,bat,SR Watson
+279,Centurion,SuperSport Park,2/4/2007,male,ODI,,South Africa,Pakistan,South Africa,164,0,,Pakistan,field,JH Kallis
+280,Durban,Kingsmead,2/7/2007,male,ODI,,South Africa,Pakistan,Pakistan,141,0,,Pakistan,bat,Younis Khan
+281,Port Elizabeth,St George's Park,2/9/2007,male,ODI,,South Africa,Pakistan,No Result,0,0,,Pakistan,bat,
+282,Cape Town,Newlands,2/11/2007,male,ODI,,South Africa,Pakistan,South Africa,0,10,,South Africa,field,SM Pollock
+283,Johannesburg,New Wanderers Stadium,2/14/2007,male,ODI,,South Africa,Pakistan,South Africa,0,9,,Pakistan,bat,SM Pollock
+284,Napier,McLean Park,12/28/2006,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,0,7,,New Zealand,bat,ST Jayasuriya
+285,Christchurch,Jade Stadium,1/2/2007,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,4,,New Zealand,field,MJ Mason
+286,Auckland,Eden Park,1/6/2007,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,189,0,,Sri Lanka,bat,ST Jayasuriya
+287,Wellington,Westpac Stadium,2/16/2007,male,ODI,,New Zealand,Australia,New Zealand,0,10,,New Zealand,field,SE Bond
+288,Auckland,Eden Park,2/18/2007,male,ODI,,New Zealand,Australia,New Zealand,0,5,,New Zealand,field,LRPL Taylor
+289,Hamilton,Seddon Park,2/20/2007,male,ODI,,New Zealand,Australia,New Zealand,0,1,,Australia,bat,ML Hayden
+290,Bloemfontein,Goodyear Park,9/15/2006,male,ODI,,South Africa,Zimbabwe,South Africa,0,5,,Zimbabwe,bat,HH Dippenaar
+291,Kuala Lumpur,Kinrara Academy Oval,9/14/2006,male,ODI,,India,West Indies,West Indies,29,0,,India,bat,SR Tendulkar
+292,Kuala Lumpur,Kinrara Academy Oval,9/16/2006,male,ODI,,Australia,India,No Result,0,0,,Australia,bat,
+293,Kuala Lumpur,Kinrara Academy Oval,9/18/2006,male,ODI,,Australia,West Indies,West Indies,0,3,,Australia,bat,MEK Hussey
+294,Kuala Lumpur,Kinrara Academy Oval,9/20/2006,male,ODI,,India,West Indies,India,16,0,,India,bat,Harbhajan Singh
+295,Kuala Lumpur,Kinrara Academy Oval,9/22/2006,male,ODI,,Australia,India,Australia,18,0,,Australia,bat,B Lee
+296,Kuala Lumpur,Kinrara Academy Oval,9/24/2006,male,ODI,,Australia,West Indies,Australia,127,0,,Australia,bat,B Lee
+297,Colombo,Sinhalese Sports Club Ground,8/18/2006,male,ODI,,Sri Lanka,India,No Result,0,0,,India,bat,
+298,Potchefstroom,Sedgars Park,9/20/2006,male,ODI,,South Africa,Zimbabwe,South Africa,171,0,,South Africa,bat,MV Boucher
+299,Faisalabad,Iqbal Stadium,12/7/2006,male,ODI,,Pakistan,West Indies,Pakistan,0,2,,Pakistan,field,Inzamam-ul-Haq
+300,Lahore,Gaddafi Stadium,12/10/2006,male,ODI,,Pakistan,West Indies,Pakistan,0,7,,Pakistan,field,Naved-ul-Hasan
+301,,Multan Cricket Stadium,12/13/2006,male,ODI,,Pakistan,West Indies,West Indies,0,7,,Pakistan,bat,MN Samuels
+302,Karachi,National Stadium,12/16/2006,male,ODI,,Pakistan,West Indies,Pakistan,0,7,,Pakistan,field,Naved-ul-Hasan
+303,London,Lord's,7/1/2007,male,ODI,,England,West Indies,England,79,0,,West Indies,field,FH Edwards
+304,Birmingham,Edgbaston,7/4/2007,male,ODI,,England,West Indies,West Indies,61,0,,England,field,S Chanderpaul
+305,Nottingham,Trent Bridge,7/7/2007,male,ODI,,England,West Indies,West Indies,93,0,,West Indies,bat,DBL Powell
+306,Southampton,The Rose Bowl,8/21/2007,male,ODI,,England,India,England,104,0,,India,field,IR Bell
+307,Bristol,County Ground,8/24/2007,male,ODI,,England,India,India,9,0,,India,bat,R Dravid
+308,Birmingham,Edgbaston,8/27/2007,male,ODI,,England,India,England,42,0,,India,field,IR Bell
+309,Manchester,Old Trafford,8/30/2007,male,ODI,,England,India,England,0,3,,India,bat,SCJ Broad
+310,Leeds,Headingley,9/2/2007,male,ODI,,England,India,India,38,0,,England,field,SC Ganguly
+311,London,Kennington Oval,9/5/2007,male,ODI,,England,India,India,0,2,,England,bat,SR Tendulkar
+312,London,Lord's,9/8/2007,male,ODI,,England,India,England,0,7,,India,bat,KP Pietersen
+313,Potchefstroom,Sedgars Park,11/27/2006,male,ODI,,Bermuda,Canada,Canada,0,5,,Canada,field,S Dhaniram
+314,Benoni,Willowmoore Park,12/2/2006,male,ODI,,Bermuda,Netherlands,Bermuda,0,6,,Netherlands,bat,S Mukuddem
+315,Benoni,Willowmoore Park,11/30/2006,male,ODI,,Bermuda,Canada,Canada,0,3,,Canada,field,GR Codrington
+316,Benoni,Willowmoore Park,12/1/2006,male,ODI,,Canada,Netherlands,Netherlands,0,1,,Netherlands,field,WF Stelling
+317,East London,Buffalo Park,9/18/2006,male,ODI,,South Africa,Zimbabwe,South Africa,0,6,,Zimbabwe,bat,AJ Hall
+318,Bogra,Shaheed Chandu Stadium,12/3/2006,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,6,,Bangladesh,field,SC Williams
+319,Bogra,Shaheed Chandu Stadium,12/5/2006,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,26,0,,Zimbabwe,field,Abdur Razzak
+320,Mirpur,Shere Bangla National Stadium,12/8/2006,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,8,,Bangladesh,field,Aftab Ahmed
+321,Mirpur,Shere Bangla National Stadium,12/9/2006,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,3,,Bangladesh,field,GB Brent
+322,Nairobi,Gymkhana Club Ground,2/2/2007,male,ODI,,Bermuda,Canada,Canada,56,0,,Bermuda,field,JM Davison
+323,Nairobi,Ruaraka Sports Club Ground,2/4/2007,male,ODI,,Bermuda,Netherlands,Netherlands,0,8,,Netherlands,field,RN ten Doeschate
+324,Nairobi,Gymkhana Club Ground,2/4/2007,male,ODI,,Kenya,Scotland,Scotland,77,0,,Scotland,bat,RM Haq
+325,Nairobi,Jaffery Sports Club Ground,2/5/2007,male,ODI,,Kenya,Canada,Kenya,158,0,,Kenya,bat,TM Odoyo
+326,Chennai,"MA Chidambaram Stadium, Chepauk",1/27/2007,male,ODI,,India,West Indies,West Indies,0,3,,West Indies,field,MN Samuels
+327,Vadodara,Indian Petrochemicals Corporation Limited Sports Complex Ground,1/31/2007,male,ODI,,India,West Indies,India,160,0,,West Indies,field,SR Tendulkar
+328,Kolkata,Eden Gardens,2/8/2007,male,ODI,,India,Sri Lanka,No Result,0,0,,India,field,
+329,Rajkot,Madhavrao Scindia Cricket Ground,2/11/2007,male,ODI,,India,Sri Lanka,Sri Lanka,5,0,,India,field,KC Sangakkara
+330,Visakhapatnam,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,2/17/2007,male,ODI,,India,Sri Lanka,India,0,7,,India,field,LPC Silva
+331,Margao,"Nehru Stadium, Fatorda",2/14/2007,male,ODI,,India,Sri Lanka,India,0,5,,Sri Lanka,bat,Z Khan
+332,Glasgow,Titwood,8/16/2007,male,ODI,,Scotland,India,India,0,7,,India,field,G Gambhir
+333,Mirpur,Shere Bangla National Stadium,5/10/2007,male,ODI,,Bangladesh,India,India,0,5,,Bangladesh,bat,MS Dhoni
+334,Mirpur,Shere Bangla National Stadium,5/12/2007,male,ODI,,Bangladesh,India,India,46,0,,India,bat,G Gambhir
+335,Bangalore,M Chinnaswamy Stadium,6/6/2007,male,ODI,,Africa XI,Asia XI,Asia XI,34,0,,Asia XI,bat,SM Pollock
+336,Chennai,"MA Chidambaram Stadium, Chepauk",6/9/2007,male,ODI,,Africa XI,Asia XI,Asia XI,31,0,,Asia XI,bat,CRD Fernando
+337,Chennai,"MA Chidambaram Stadium, Chepauk",6/10/2007,male,ODI,,Africa XI,Asia XI,Asia XI,13,0,,Asia XI,bat,MS Dhoni
+338,,Rangiri Dambulla International Stadium,10/1/2007,male,ODI,,Sri Lanka,England,Sri Lanka,119,0,,Sri Lanka,bat,MF Maharoof
+339,,Rangiri Dambulla International Stadium,10/4/2007,male,ODI,,Sri Lanka,England,England,65,0,,England,bat,OA Shah
+340,Colombo,R Premadasa Stadium,10/10/2007,male,ODI,,Sri Lanka,England,England,0,5,,Sri Lanka,bat,AN Cook
+341,Colombo,R Premadasa Stadium,10/13/2007,male,ODI,,Sri Lanka,England,Sri Lanka,107,0,,Sri Lanka,bat,CRD Fernando
+342,,Adelaide Oval,12/14/2007,male,ODI,,Australia,New Zealand,Australia,0,7,,New Zealand,bat,RT Ponting
+343,,Sydney Cricket Ground,12/16/2007,male,ODI,,Australia,New Zealand,No Result,0,0,,New Zealand,bat,
+344,Hobart,Bellerive Oval,12/20/2007,male,ODI,,Australia,New Zealand,Australia,114,0,,New Zealand,field,RT Ponting
+345,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/3/2008,male,ODI,,Australia,India,No Result,0,0,,India,bat,
+346,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/5/2008,male,ODI,,India,Sri Lanka,No Result,0,0,,India,bat,
+347,,Sydney Cricket Ground,2/8/2008,male,ODI,,Australia,Sri Lanka,Australia,128,0,,Australia,bat,NW Bracken
+348,,Melbourne Cricket Ground,2/10/2008,male,ODI,,Australia,India,India,0,5,,Australia,bat,I Sharma
+349,Perth,Western Australia Cricket Association Ground,2/15/2008,male,ODI,,Australia,Sri Lanka,Australia,63,0,,Australia,bat,AC Gilchrist
+350,,Adelaide Oval,2/17/2008,male,ODI,,Australia,India,Australia,50,0,,Australia,bat,MJ Clarke
+351,,Adelaide Oval,2/19/2008,male,ODI,,India,Sri Lanka,India,0,2,,Sri Lanka,bat,KC Sangakkara
+352,,Melbourne Cricket Ground,2/22/2008,male,ODI,,Australia,Sri Lanka,Australia,24,0,,Sri Lanka,field,MEK Hussey
+353,,Sydney Cricket Ground,2/24/2008,male,ODI,,Australia,India,Australia,18,0,,Australia,bat,RT Ponting
+354,Hobart,Bellerive Oval,2/26/2008,male,ODI,,India,Sri Lanka,India,0,7,,India,field,P Kumar
+355,,Melbourne Cricket Ground,2/29/2008,male,ODI,,Australia,Sri Lanka,Sri Lanka,13,0,,Sri Lanka,bat,AC Gilchrist
+356,,Sydney Cricket Ground,3/2/2008,male,ODI,,Australia,India,India,0,6,,Australia,bat,SR Tendulkar
+357,Brisbane,"Brisbane Cricket Ground, Woolloongabba",3/4/2008,male,ODI,,Australia,India,India,9,0,,India,bat,P Kumar
+358,Belfast,"Civil Service Cricket Club, Stormont",6/23/2007,male,ODI,,Ireland,India,India,0,9,,India,field,G Gambhir
+359,Belfast,"Civil Service Cricket Club, Stormont",6/24/2007,male,ODI,,Ireland,South Africa,South Africa,42,0,,Ireland,field,AR Cusack
+360,Belfast,"Civil Service Cricket Club, Stormont",6/26/2007,male,ODI,,India,South Africa,South Africa,0,4,,South Africa,field,JH Kallis
+361,Belfast,"Civil Service Cricket Club, Stormont",6/29/2007,male,ODI,,India,South Africa,India,0,6,,India,field,SR Tendulkar
+362,Belfast,"Civil Service Cricket Club, Stormont",7/1/2007,male,ODI,,India,South Africa,India,0,6,,India,field,Yuvraj Singh
+363,Colombo,P Saravanamuttu Stadium,7/20/2007,male,ODI,,Sri Lanka,Bangladesh,Sri Lanka,70,0,,Bangladesh,field,CRD Fernando
+364,Colombo,R Premadasa Stadium,7/23/2007,male,ODI,,Sri Lanka,Bangladesh,Sri Lanka,0,5,,Sri Lanka,field,ST Jayasuriya
+365,Colombo,R Premadasa Stadium,7/25/2007,male,ODI,,Sri Lanka,Bangladesh,Sri Lanka,39,0,,Bangladesh,field,J Mubarak
+366,Belfast,"Civil Service Cricket Club, Stormont",7/13/2007,male,ODI,,Netherlands,Scotland,No Result,0,0,,Scotland,bat,
+367,Dublin,Clontarf Cricket Club Ground,7/14/2007,male,ODI,,Ireland,West Indies,No Result,0,0,,Ireland,bat,
+368,Nairobi,Gymkhana Club Ground,10/18/2007,male,ODI,,Kenya,Canada,Kenya,0,4,,Kenya,field,
+369,Nairobi,Gymkhana Club Ground,10/20/2007,male,ODI,,Kenya,Canada,Kenya,0,4,,Canada,bat,
+370,Chester-le-Street,Riverside Ground,6/15/2008,male,ODI,,England,New Zealand,England,114,0,,New Zealand,field,KP Pietersen
+371,Birmingham,Edgbaston,6/18/2008,male,ODI,,England,New Zealand,No Result,0,0,,New Zealand,field,
+372,Bristol,County Ground,6/21/2008,male,ODI,,England,New Zealand,New Zealand,22,0,,England,field,KD Mills
+373,London,Kennington Oval,6/25/2008,male,ODI,,England,New Zealand,New Zealand,0,1,,New Zealand,field,SB Styris
+374,London,Lord's,6/28/2008,male,ODI,,England,New Zealand,New Zealand,51,0,,England,field,SB Styris
+375,Leeds,Headingley,8/22/2008,male,ODI,,England,South Africa,England,20,0,,England,bat,KP Pietersen
+376,Nottingham,Trent Bridge,8/26/2008,male,ODI,,England,South Africa,England,0,10,,South Africa,bat,SCJ Broad
+377,London,Kennington Oval,8/29/2008,male,ODI,,England,South Africa,England,126,0,,South Africa,field,SR Patel
+378,London,Lord's,8/31/2008,male,ODI,,England,South Africa,England,0,7,,England,field,A Flintoff
+379,Cardiff,Sophia Gardens,9/3/2008,male,ODI,,England,South Africa,No Result,0,0,,England,field,
+380,Bangalore,M Chinnaswamy Stadium,9/29/2007,male,ODI,,India,Australia,No Result,0,0,,Australia,bat,
+381,Kochi,Nehru Stadium,10/2/2007,male,ODI,,India,Australia,Australia,84,0,,India,field,BJ Haddin
+382,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",10/5/2007,male,ODI,,India,Australia,Australia,47,0,,Australia,bat,A Symonds
+383,Chandigarh,Sector 16 Stadium,10/8/2007,male,ODI,,India,Australia,India,8,0,,India,bat,MS Dhoni
+384,Vadodara,Reliance Stadium,10/11/2007,male,ODI,,India,Australia,Australia,0,9,,India,bat,MG Johnson
+385,Nagpur,Vidarbha Cricket Association Ground,10/14/2007,male,ODI,,India,Australia,Australia,18,0,,Australia,bat,A Symonds
+386,Mumbai,Wankhede Stadium,10/17/2007,male,ODI,,India,Australia,India,0,2,,Australia,bat,M Kartik
+387,Guwahati,Nehru Stadium,11/5/2007,male,ODI,,India,Pakistan,India,0,5,,Pakistan,bat,MS Dhoni
+388,Chandigarh,"Punjab Cricket Association Stadium, Mohali",11/8/2007,male,ODI,,India,Pakistan,Pakistan,0,4,,India,bat,Younis Khan
+389,Kanpur,Green Park,11/11/2007,male,ODI,,India,Pakistan,India,46,0,,Pakistan,field,Yuvraj Singh
+390,Gwalior,Captain Roop Singh Stadium,11/15/2007,male,ODI,,India,Pakistan,India,0,6,,Pakistan,bat,SR Tendulkar
+391,Jaipur,Sawai Mansingh Stadium,11/18/2007,male,ODI,,India,Pakistan,Pakistan,31,0,,India,field,Shoaib Malik
+392,Durban,Kingsmead,11/25/2007,male,ODI,,South Africa,New Zealand,South Africa,0,2,,South Africa,field,AB de Villiers
+393,Port Elizabeth,St George's Park,11/30/2007,male,ODI,,South Africa,New Zealand,New Zealand,0,7,,South Africa,bat,JM How
+394,Cape Town,Newlands,12/2/2007,male,ODI,,South Africa,New Zealand,South Africa,0,5,,New Zealand,bat,HH Gibbs
+395,Centurion,SuperSport Park,1/20/2008,male,ODI,,South Africa,West Indies,South Africa,0,6,,South Africa,field,JP Duminy
+396,Cape Town,Newlands,1/25/2008,male,ODI,,South Africa,West Indies,South Africa,86,0,,South Africa,bat,SM Pollock
+397,Port Elizabeth,St George's Park,1/27/2008,male,ODI,,South Africa,West Indies,South Africa,0,7,,West Indies,bat,JH Kallis
+398,Durban,Kingsmead,2/1/2008,male,ODI,,South Africa,West Indies,South Africa,0,5,,West Indies,bat,AB de Villiers
+399,Johannesburg,New Wanderers Stadium,2/3/2008,male,ODI,,South Africa,West Indies,South Africa,0,8,,South Africa,field,HH Gibbs
+400,Lahore,Gaddafi Stadium,10/18/2007,male,ODI,,Pakistan,South Africa,South Africa,45,0,,South Africa,bat,AB de Villiers
+401,Lahore,Gaddafi Stadium,10/20/2007,male,ODI,,Pakistan,South Africa,Pakistan,25,0,,Pakistan,bat,Mohammad Yousuf
+402,Faisalabad,Iqbal Stadium,10/23/2007,male,ODI,,Pakistan,South Africa,Pakistan,0,6,,South Africa,bat,Shahid Afridi
+403,,Multan Cricket Stadium,10/26/2007,male,ODI,,Pakistan,South Africa,South Africa,0,7,,Pakistan,bat,SM Pollock
+404,Lahore,Gaddafi Stadium,10/29/2007,male,ODI,,Pakistan,South Africa,South Africa,14,0,,South Africa,bat,M Ntini
+405,Auckland,Eden Park,12/26/2007,male,ODI,,New Zealand,Bangladesh,New Zealand,0,6,,New Zealand,field,JM How
+406,Napier,McLean Park,12/28/2007,male,ODI,,New Zealand,Bangladesh,New Zealand,102,0,,New Zealand,bat,PG Fulton
+407,,Queenstown Events Centre,12/31/2007,male,ODI,,New Zealand,Bangladesh,New Zealand,0,10,,New Zealand,field,DL Vettori
+408,Wellington,Westpac Stadium,2/9/2008,male,ODI,,New Zealand,England,New Zealand,0,6,,England,bat,SB Styris
+409,Hamilton,Seddon Park,2/12/2008,male,ODI,,New Zealand,England,New Zealand,0,10,,New Zealand,field,JD Ryder
+410,Auckland,Eden Park,2/15/2008,male,ODI,,New Zealand,England,England,0,6,,England,field,PD Collingwood
+411,Napier,McLean Park,2/20/2008,male,ODI,,New Zealand,England,No Result,0,0,,New Zealand,field,JM How
+412,Christchurch,AMI Stadium,2/23/2008,male,ODI,,New Zealand,England,New Zealand,34,0,,New Zealand,field,BB McCullum
+413,Bulawayo,Queens Sports Club,8/22/2007,male,ODI,,Zimbabwe,South Africa,South Africa,0,5,,Zimbabwe,bat,GB Brent
+414,,Harare Sports Club,8/25/2007,male,ODI,,Zimbabwe,South Africa,South Africa,0,8,,South Africa,field,HH Gibbs
+415,,Harare Sports Club,8/26/2007,male,ODI,,Zimbabwe,South Africa,South Africa,28,0,,South Africa,bat,AB de Villiers
+416,Nairobi,Gymkhana Club Ground,10/25/2007,male,ODI,,Kenya,Bermuda,Kenya,0,8,,Kenya,field,
+417,Nairobi,Gymkhana Club Ground,10/27/2007,male,ODI,,Kenya,Bermuda,Kenya,0,3,,Bermuda,bat,
+418,Nairobi,Gymkhana Club Ground,10/28/2007,male,ODI,,Kenya,Bermuda,Kenya,0,1,,Bermuda,bat,
+419,,Harare Sports Club,11/30/2007,male,ODI,,Zimbabwe,West Indies,Zimbabwe,30,0,,West Indies,field,CJ Chibhabha
+420,,Harare Sports Club,12/2/2007,male,ODI,,Zimbabwe,West Indies,West Indies,110,0,,Zimbabwe,field,RS Morton
+421,Bulawayo,Queens Sports Club,12/7/2007,male,ODI,,Zimbabwe,West Indies,West Indies,0,5,,West Indies,field,JE Taylor
+422,Trinidad,"Queen's Park Oval, Port of Spain",4/10/2008,male,ODI,,West Indies,Sri Lanka,West Indies,0,1,,West Indies,field,DJ Bravo
+423,Trinidad,"Queen's Park Oval, Port of Spain",4/12/2008,male,ODI,,West Indies,Sri Lanka,West Indies,0,7,,West Indies,field,S Chanderpaul
+424,St Lucia,"Beausejour Stadium, Gros Islet",4/15/2008,male,ODI,,West Indies,Sri Lanka,No Result,0,0,,West Indies,field,
+425,St Vincent,"Arnos Vale Ground, Kingstown",6/24/2008,male,ODI,,West Indies,Australia,Australia,84,0,,West Indies,field,SE Marsh
+426,Grenada,"National Cricket Stadium, St George's",6/27/2008,male,ODI,,West Indies,Australia,Australia,63,0,,Australia,bat,MJ Clarke
+427,Grenada,"National Cricket Stadium, St George's",6/29/2008,male,ODI,,West Indies,Australia,Australia,0,7,,Australia,field,SR Watson
+428,St Kitts,"Warner Park, Basseterre",7/4/2008,male,ODI,,West Indies,Australia,Australia,1,0,,West Indies,field,A Symonds
+429,St Kitts,"Warner Park, Basseterre",7/6/2008,male,ODI,,West Indies,Australia,Australia,169,0,,Australia,bat,L Ronchi
+430,,Chittagong Divisional Stadium,3/9/2008,male,ODI,,Bangladesh,South Africa,South Africa,0,9,,Bangladesh,bat,GC Smith
+431,Mirpur,Shere Bangla National Stadium,3/12/2008,male,ODI,,Bangladesh,South Africa,South Africa,0,7,,Bangladesh,bat,A Nel
+432,Mirpur,Shere Bangla National Stadium,3/14/2008,male,ODI,,Bangladesh,South Africa,South Africa,0,7,,Bangladesh,bat,JA Morkel
+433,King City,Maple Leaf North-West Ground,6/29/2008,male,ODI,,Canada,Bermuda,Bermuda,11,0,,Canada,field,S Dhaniram
+434,Ayr,Cambusdoon New Ground,8/12/2008,male,ODI,,Scotland,Kenya,No Result,0,0,,Scotland,field,
+435,Belfast,"Civil Service Cricket Club, Stormont",8/25/2008,male,ODI,,Ireland,Kenya,No Result,0,0,,Kenya,field,
+436,Dublin,Clontarf Cricket Club Ground,7/29/2008,male,ODI,,Netherlands,Scotland,Scotland,0,6,,Netherlands,bat,
+437,Dublin,Clontarf Cricket Club Ground,7/31/2008,male,ODI,,Ireland,Scotland,Ireland,0,7,,Ireland,field,
+438,Nairobi,Gymkhana Club Ground,10/17/2008,male,ODI,,Ireland,Zimbabwe,Zimbabwe,156,0,,Zimbabwe,bat,
+439,Karachi,National Stadium,1/21/2008,male,ODI,,Pakistan,Zimbabwe,Pakistan,104,0,,Zimbabwe,field,Nasir Jamshed
+440,Sind,"Niaz Stadium, Hyderabad",1/24/2008,male,ODI,,Pakistan,Zimbabwe,Pakistan,0,5,,Zimbabwe,bat,Sohail Tanvir
+441,,Multan Cricket Stadium,1/27/2008,male,ODI,,Pakistan,Zimbabwe,Pakistan,37,0,,Pakistan,bat,Shahid Afridi
+442,Faisalabad,Iqbal Stadium,1/30/2008,male,ODI,,Pakistan,Zimbabwe,Pakistan,0,7,,Zimbabwe,bat,Shoaib Malik
+443,,Sheikhupura Stadium,2/2/2008,male,ODI,,Pakistan,Zimbabwe,Pakistan,0,7,,Zimbabwe,bat,Younis Khan
+444,Lahore,Gaddafi Stadium,6/24/2008,male,ODI,,Bangladesh,United Arab Emirates,Bangladesh,96,0,,Bangladesh,bat,Mohammad Ashraful
+445,Karachi,National Stadium,6/24/2008,male,ODI,,Pakistan,Hong Kong,Pakistan,155,0,,Pakistan,bat,Sohail Tanvir
+446,Lahore,Gaddafi Stadium,6/25/2008,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,131,0,,Bangladesh,field,KC Sangakkara
+447,Karachi,National Stadium,6/25/2008,male,ODI,,Hong Kong,India,India,256,0,,India,bat,SK Raina
+448,Lahore,Gaddafi Stadium,6/26/2008,male,ODI,,Sri Lanka,United Arab Emirates,Sri Lanka,142,0,,Sri Lanka,bat,BAW Mendis
+449,Karachi,National Stadium,6/26/2008,male,ODI,,Pakistan,India,India,0,6,,Pakistan,bat,SK Raina
+450,Karachi,National Stadium,6/28/2008,male,ODI,,Bangladesh,India,India,0,7,,Bangladesh,bat,SK Raina
+451,Karachi,National Stadium,6/29/2008,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,64,0,,Pakistan,field,KC Sangakkara
+452,Karachi,National Stadium,6/30/2008,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,158,0,,Sri Lanka,bat,ST Jayasuriya
+453,Karachi,National Stadium,7/2/2008,male,ODI,,Pakistan,India,Pakistan,0,8,,India,bat,Younis Khan
+454,Karachi,National Stadium,7/3/2008,male,ODI,,India,Sri Lanka,India,0,6,,Sri Lanka,bat,MS Dhoni
+455,Karachi,National Stadium,7/4/2008,male,ODI,,Pakistan,Bangladesh,Pakistan,0,10,,Bangladesh,bat,Abdur Rauf
+456,Karachi,National Stadium,7/6/2008,male,ODI,,India,Sri Lanka,Sri Lanka,100,0,,India,field,BAW Mendis
+457,Darwin,Marrara Cricket Ground,8/30/2008,male,ODI,,Australia,Bangladesh,Australia,180,0,,Bangladesh,field,MEK Hussey
+458,Darwin,Marrara Cricket Ground,9/3/2008,male,ODI,,Australia,Bangladesh,Australia,0,8,,Bangladesh,bat,SE Marsh
+459,Darwin,Marrara Cricket Ground,9/6/2008,male,ODI,,Australia,Bangladesh,Australia,73,0,,Australia,bat,Tamim Iqbal
+460,,Rangiri Dambulla International Stadium,8/18/2008,male,ODI,,Sri Lanka,India,Sri Lanka,0,8,,India,bat,BAW Mendis
+461,,Rangiri Dambulla International Stadium,8/20/2008,male,ODI,,Sri Lanka,India,India,0,3,,India,field,Z Khan
+462,Colombo,R Premadasa Stadium,8/24/2008,male,ODI,,Sri Lanka,India,India,33,0,,India,bat,MS Dhoni
+463,Colombo,R Premadasa Stadium,8/29/2008,male,ODI,,Sri Lanka,India,Sri Lanka,112,0,,Sri Lanka,bat,KMDN Kulasekara
+464,Lahore,Gaddafi Stadium,4/8/2008,male,ODI,,Pakistan,Bangladesh,Pakistan,152,0,,Pakistan,bat,Mohammad Yousuf
+465,Faisalabad,Iqbal Stadium,4/11/2008,male,ODI,,Pakistan,Bangladesh,Pakistan,0,7,,Bangladesh,bat,Salman Butt
+466,Lahore,Gaddafi Stadium,4/13/2008,male,ODI,,Pakistan,Bangladesh,Pakistan,23,0,,Pakistan,bat,Salman Butt
+467,,Multan Cricket Stadium,4/16/2008,male,ODI,,Pakistan,Bangladesh,Pakistan,0,7,,Bangladesh,bat,Shakib Al Hasan
+468,Karachi,National Stadium,4/19/2008,male,ODI,,Pakistan,Bangladesh,Pakistan,150,0,,Pakistan,bat,Mohammad Asif
+469,Mirpur,Shere Bangla National Stadium,6/8/2008,male,ODI,,Bangladesh,Pakistan,Pakistan,70,0,,Bangladesh,field,Salman Butt
+470,Mirpur,Shere Bangla National Stadium,6/10/2008,male,ODI,,India,Pakistan,India,140,0,,India,bat,V Sehwag
+471,Mirpur,Shere Bangla National Stadium,6/12/2008,male,ODI,,Bangladesh,India,India,0,7,,Bangladesh,bat,G Gambhir
+472,Mirpur,Shere Bangla National Stadium,6/14/2008,male,ODI,,India,Pakistan,Pakistan,25,0,,Pakistan,bat,Younis Khan
+473,London,Kennington Oval,9/4/2009,male,ODI,,England,Australia,Australia,4,0,,England,field,CJ Ferguson
+474,London,Lord's,9/6/2009,male,ODI,,England,Australia,Australia,39,0,,England,field,MG Johnson
+475,Southampton,The Rose Bowl,9/9/2009,male,ODI,,England,Australia,Australia,0,6,,England,bat,CL White
+476,London,Lord's,9/12/2009,male,ODI,,England,Australia,Australia,0,7,,England,bat,B Lee
+477,Nottingham,Trent Bridge,9/15/2009,male,ODI,,England,Australia,Australia,0,4,,England,bat,RT Ponting
+478,Nottingham,Trent Bridge,9/17/2009,male,ODI,,England,Australia,Australia,111,0,,Australia,bat,TD Paine
+479,Chester-le-Street,Riverside Ground,9/20/2009,male,ODI,,England,Australia,England,0,4,,England,field,GP Swann
+480,Potchefstroom,Senwes Park,11/7/2008,male,ODI,,South Africa,Bangladesh,South Africa,61,0,,South Africa,bat,DW Steyn
+481,Durban,Kingsmead,4/3/2009,male,ODI,,South Africa,Australia,Australia,141,0,,Australia,bat,MEK Hussey
+482,Centurion,SuperSport Park,4/5/2009,male,ODI,,South Africa,Australia,South Africa,0,7,,Australia,bat,WD Parnell
+483,Cape Town,Newlands,4/9/2009,male,ODI,,South Africa,Australia,South Africa,25,0,,South Africa,bat,JH Kallis
+484,Port Elizabeth,St George's Park,4/13/2009,male,ODI,,South Africa,Australia,South Africa,61,0,,Australia,field,HH Gibbs
+485,Johannesburg,New Wanderers Stadium,4/17/2009,male,ODI,,South Africa,Australia,Australia,47,0,,South Africa,field,NM Hauritz
+486,,Melbourne Cricket Ground,1/16/2009,male,ODI,,Australia,South Africa,South Africa,0,3,,Australia,bat,JA Morkel
+487,Hobart,Bellerive Oval,1/18/2009,male,ODI,,Australia,South Africa,Australia,5,0,,South Africa,field,SE Marsh
+488,,Sydney Cricket Ground,1/23/2009,male,ODI,,Australia,South Africa,South Africa,0,3,,Australia,bat,JA Morkel
+489,,Adelaide Oval,1/26/2009,male,ODI,,Australia,South Africa,South Africa,0,8,,Australia,bat,AB de Villiers
+490,Perth,Western Australia Cricket Association Ground,1/30/2009,male,ODI,,Australia,South Africa,South Africa,39,0,,South Africa,bat,HM Amla
+491,Perth,Western Australia Cricket Association Ground,2/1/2009,male,ODI,,Australia,New Zealand,New Zealand,0,2,,Australia,bat,KD Mills
+492,,Melbourne Cricket Ground,2/6/2009,male,ODI,,Australia,New Zealand,New Zealand,0,6,,New Zealand,field,MJ Clarke
+493,,Sydney Cricket Ground,2/8/2009,male,ODI,,Australia,New Zealand,Australia,32,0,,New Zealand,field,BJ Haddin
+494,,Adelaide Oval,2/10/2009,male,ODI,,Australia,New Zealand,Australia,0,6,,New Zealand,bat,DJ Hussey
+495,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/13/2009,male,ODI,,Australia,New Zealand,No Result,0,0,,New Zealand,field,
+496,Guyana,Providence Stadium,3/20/2009,male,ODI,,West Indies,England,England,1,0,,England,bat,PD Collingwood
+497,Guyana,Providence Stadium,3/22/2009,male,ODI,,West Indies,England,West Indies,21,0,,West Indies,bat,S Chanderpaul
+498,Barbados,"Kensington Oval, Bridgetown",3/27/2009,male,ODI,,West Indies,England,West Indies,0,8,,West Indies,field,DJ Bravo
+499,Barbados,"Kensington Oval, Bridgetown",3/29/2009,male,ODI,,West Indies,England,England,0,9,,England,field,AJ Strauss
+500,St Lucia,"Beausejour Stadium, Gros Islet",4/3/2009,male,ODI,,West Indies,England,England,26,0,,West Indies,field,A Flintoff
+501,Bloemfontein,OUTsurance Oval,10/31/2008,male,ODI,,South Africa,Kenya,South Africa,159,0,,South Africa,bat,JP Duminy
+502,Rajkot,Madhavrao Scindia Cricket Ground,11/14/2008,male,ODI,,India,England,India,158,0,,England,field,Yuvraj Singh
+503,Indore,Maharani Usharaje Trust Cricket Ground,11/17/2008,male,ODI,,India,England,India,54,0,,India,bat,Yuvraj Singh
+504,Kanpur,Green Park,11/20/2008,male,ODI,,India,England,India,16,0,,England,bat,Harbhajan Singh
+505,Bangalore,M Chinnaswamy Stadium,11/23/2008,male,ODI,,India,England,India,19,0,,England,field,V Sehwag
+506,Cuttack,Barabati Stadium,11/26/2008,male,ODI,,India,England,India,0,6,,India,field,V Sehwag
+507,Colombo,R Premadasa Stadium,8/27/2008,male,ODI,,Sri Lanka,India,India,46,0,,India,bat,SK Raina
+508,Napier,McLean Park,3/3/2009,male,ODI,,New Zealand,India,India,53,0,,India,bat,MS Dhoni
+509,Hamilton,Seddon Park,3/11/2009,male,ODI,,New Zealand,India,India,84,0,,New Zealand,bat,V Sehwag
+510,Auckland,Eden Park,3/14/2009,male,ODI,,New Zealand,India,New Zealand,0,8,,India,bat,JD Ryder
+511,Wellington,Westpac Stadium,3/6/2009,male,ODI,,New Zealand,India,No Result,0,0,,India,bat,
+512,Christchurch,AMI Stadium,3/8/2009,male,ODI,,New Zealand,India,India,58,0,,New Zealand,field,SR Tendulkar
+513,,Queenstown Events Centre,12/31/2008,male,ODI,,New Zealand,West Indies,No Result,0,0,,New Zealand,field,
+514,Wellington,Westpac Stadium,1/7/2009,male,ODI,,New Zealand,West Indies,New Zealand,0,7,,New Zealand,field,DL Vettori
+515,Abu Dhabi,Sheikh Zayed Stadium,11/12/2008,male,ODI,,Pakistan,West Indies,Pakistan,0,4,,West Indies,bat,CH Gayle
+516,Abu Dhabi,Sheikh Zayed Stadium,11/14/2008,male,ODI,,Pakistan,West Indies,Pakistan,24,0,,Pakistan,bat,Sohail Tanvir
+517,,Harare Sports Club,11/20/2008,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,0,6,,Sri Lanka,field,M Muralitharan
+518,,Harare Sports Club,11/22/2008,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,0,9,,Zimbabwe,bat,BAW Mendis
+519,,Harare Sports Club,11/24/2008,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,5,0,,Zimbabwe,field,H Masakadza
+520,,Harare Sports Club,11/30/2008,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,19,0,,Zimbabwe,field,M Muralitharan
+521,Jamaica,"Sabina Park, Kingston",6/26/2009,male,ODI,,West Indies,India,India,20,0,,India,bat,Yuvraj Singh
+522,Jamaica,"Sabina Park, Kingston",6/28/2009,male,ODI,,West Indies,India,West Indies,0,8,,India,bat,R Rampaul
+523,St Lucia,"Beausejour Stadium, Gros Islet",7/3/2009,male,ODI,,West Indies,India,India,0,6,,India,field,MS Dhoni
+524,St Lucia,"Beausejour Stadium, Gros Islet",7/5/2009,male,ODI,,West Indies,India,No Result,0,0,,India,field,
+525,Mirpur,Shere Bangla National Stadium,1/10/2009,male,ODI,,Bangladesh,Zimbabwe,Zimbabwe,38,0,,Bangladesh,field,E Chigumbura
+526,Mirpur,Shere Bangla National Stadium,1/14/2009,male,ODI,,Bangladesh,Sri Lanka,Bangladesh,0,5,,Bangladesh,field,Shakib Al Hasan
+527,Mirpur,Shere Bangla National Stadium,1/23/2009,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,6,,Bangladesh,field,Mashrafe Mortaza
+528,Bristol,County Ground,5/24/2009,male,ODI,,England,West Indies,England,0,6,,England,field,PD Collingwood
+529,Birmingham,Edgbaston,5/26/2009,male,ODI,,England,West Indies,England,58,0,,West Indies,field,MJ Prior
+530,Belfast,"Civil Service Cricket Club, Stormont",8/27/2009,male,ODI,,Ireland,England,England,3,0,,England,bat,DT Johnston
+531,Nairobi,Gymkhana Club Ground,1/31/2009,male,ODI,,Kenya,Zimbabwe,Zimbabwe,0,4,,Kenya,bat,
+532,Karachi,National Stadium,1/20/2009,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,8,,Sri Lanka,bat,Salman Butt
+533,Karachi,National Stadium,1/21/2009,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,129,0,,Pakistan,field,TM Dilshan
+534,Lahore,Gaddafi Stadium,1/24/2009,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,234,0,,Sri Lanka,bat,TM Dilshan
+535,,Rangiri Dambulla International Stadium,1/28/2009,male,ODI,,Sri Lanka,India,India,0,6,,India,field,ST Jayasuriya
+536,Colombo,R Premadasa Stadium,1/31/2009,male,ODI,,Sri Lanka,India,India,15,0,,India,bat,I Sharma
+537,Colombo,R Premadasa Stadium,2/3/2009,male,ODI,,Sri Lanka,India,India,147,0,,India,bat,Yuvraj Singh
+538,Colombo,R Premadasa Stadium,2/5/2009,male,ODI,,Sri Lanka,India,India,67,0,,India,bat,G Gambhir
+539,Colombo,R Premadasa Stadium,2/8/2009,male,ODI,,Sri Lanka,India,Sri Lanka,68,0,,Sri Lanka,bat,KC Sangakkara
+540,Centurion,SuperSport Park,11/22/2009,male,ODI,,South Africa,England,England,0,7,,England,field,PD Collingwood
+541,Cape Town,Newlands,11/27/2009,male,ODI,,South Africa,England,South Africa,112,0,,South Africa,bat,AB de Villiers
+542,Port Elizabeth,St George's Park,11/29/2009,male,ODI,,South Africa,England,England,0,7,,South Africa,bat,JM Anderson
+543,Benoni,Willowmoore Park,4/1/2009,male,ODI,,Ireland,Scotland,Ireland,0,7,,Ireland,field,WTS Porterfield
+544,Benoni,Willowmoore Park,4/8/2009,male,ODI,,Canada,Scotland,Canada,148,0,,Scotland,field,A Bagai
+545,Benoni,Willowmoore Park,4/19/2009,male,ODI,,Afghanistan,Scotland,Afghanistan,89,0,,Afghanistan,bat,Mohammad Nabi
+546,,Dubai Sports City Cricket Stadium,4/22/2009,male,ODI,,Australia,Pakistan,Pakistan,0,4,,Australia,bat,Shahid Afridi
+547,,Dubai Sports City Cricket Stadium,4/24/2009,male,ODI,,Australia,Pakistan,Australia,0,6,,Pakistan,bat,A Symonds
+548,Abu Dhabi,Sheikh Zayed Stadium,4/27/2009,male,ODI,,Australia,Pakistan,Australia,27,0,,Australia,bat,MJ Clarke
+549,Abu Dhabi,Sheikh Zayed Stadium,5/1/2009,male,ODI,,Australia,Pakistan,Australia,0,8,,Pakistan,bat,DE Bollinger
+550,Abu Dhabi,Sheikh Zayed Stadium,5/3/2009,male,ODI,,Australia,Pakistan,Pakistan,0,7,,Australia,bat,Kamran Akmal
+551,Dominica,"Windsor Park, Roseau",7/26/2009,male,ODI,,West Indies,Bangladesh,Bangladesh,52,0,,West Indies,field,Abdur Razzak
+552,Dominica,"Windsor Park, Roseau",7/28/2009,male,ODI,,West Indies,Bangladesh,Bangladesh,0,3,,West Indies,bat,Shakib Al Hasan
+553,St Kitts,"Warner Park, Basseterre",7/31/2009,male,ODI,,West Indies,Bangladesh,Bangladesh,0,3,,West Indies,bat,Mahmudullah
+554,,Rangiri Dambulla International Stadium,7/30/2009,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,36,0,,Pakistan,field,M Muralitharan
+555,,Rangiri Dambulla International Stadium,8/1/2009,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,0,6,,Sri Lanka,field,CK Kapugedera
+556,,Rangiri Dambulla International Stadium,8/3/2009,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,0,6,,Sri Lanka,field,DPMD Jayawardene
+557,Colombo,R Premadasa Stadium,8/7/2009,male,ODI,,Sri Lanka,Pakistan,Pakistan,146,0,,Pakistan,bat,Umar Akmal
+558,Colombo,R Premadasa Stadium,8/9/2009,male,ODI,,Sri Lanka,Pakistan,Pakistan,132,0,,Pakistan,bat,Naved-ul-Hasan
+559,Colombo,R Premadasa Stadium,9/8/2009,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,97,0,,Sri Lanka,bat,TT Samaraweera
+560,Colombo,R Premadasa Stadium,9/12/2009,male,ODI,,Sri Lanka,India,Sri Lanka,139,0,,Sri Lanka,bat,AD Mathews
+561,Colombo,R Premadasa Stadium,9/11/2009,male,ODI,,India,New Zealand,India,0,6,,New Zealand,bat,A Nehra
+562,Colombo,R Premadasa Stadium,9/14/2009,male,ODI,,Sri Lanka,India,India,46,0,,India,bat,SR Tendulkar
+563,,Melbourne Cricket Ground,2/7/2010,male,ODI,,Australia,West Indies,Australia,113,0,,West Indies,field,SR Watson
+564,,Adelaide Oval,2/9/2010,male,ODI,,Australia,West Indies,Australia,0,8,,West Indies,bat,DE Bollinger
+565,,Sydney Cricket Ground,2/12/2010,male,ODI,,Australia,West Indies,No Result,0,0,,West Indies,field,
+566,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/14/2010,male,ODI,,Australia,West Indies,Australia,50,0,,West Indies,field,RT Ponting
+567,,Melbourne Cricket Ground,2/19/2010,male,ODI,,Australia,West Indies,Australia,125,0,,Australia,bat,JR Hopes
+568,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/22/2010,male,ODI,,Australia,Pakistan,Australia,0,5,,Pakistan,bat,CL White
+569,,Sydney Cricket Ground,1/24/2010,male,ODI,,Australia,Pakistan,Australia,140,0,,Pakistan,field,SR Watson
+570,,Adelaide Oval,1/26/2010,male,ODI,,Australia,Pakistan,Australia,40,0,,Australia,bat,RJ Harris
+571,Perth,Western Australia Cricket Association Ground,1/29/2010,male,ODI,,Australia,Pakistan,Australia,135,0,,Australia,bat,RJ Harris
+572,Perth,Western Australia Cricket Association Ground,1/31/2010,male,ODI,,Australia,Pakistan,Australia,0,2,,Pakistan,bat,CJ McKay
+573,Bulawayo,Queens Sports Club,8/9/2009,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,0,8,,Bangladesh,field,Mohammad Ashraful
+574,Bulawayo,Queens Sports Club,8/11/2009,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,49,0,,Zimbabwe,field,Shakib Al Hasan
+575,Bulawayo,Queens Sports Club,8/14/2009,male,ODI,,Zimbabwe,Bangladesh,Zimbabwe,69,0,,Bangladesh,field,E Chigumbura
+576,Bulawayo,Queens Sports Club,8/16/2009,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,0,4,,Zimbabwe,bat,CK Coventry
+577,Bulawayo,Queens Sports Club,8/18/2009,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,0,5,,Zimbabwe,bat,Dolar Mahmud
+578,Toronto,Maple Leaf North-West Ground,8/19/2009,male,ODI,,Canada,Kenya,Canada,0,9,,Canada,field,Khurram Chohan
+579,Centurion,SuperSport Park,9/22/2009,male,ODI,,South Africa,Sri Lanka,Sri Lanka,55,0,,South Africa,field,TM Dilshan
+580,Johannesburg,New Wanderers Stadium,9/23/2009,male,ODI,,Pakistan,West Indies,Pakistan,0,5,,West Indies,bat,Umar Akmal
+581,Centurion,SuperSport Park,9/24/2009,male,ODI,,South Africa,New Zealand,South Africa,0,5,,South Africa,field,WD Parnell
+582,Johannesburg,New Wanderers Stadium,9/25/2009,male,ODI,,England,Sri Lanka,England,0,6,,England,field,PD Collingwood
+583,Johannesburg,New Wanderers Stadium,9/26/2009,male,ODI,,Australia,West Indies,Australia,50,0,,West Indies,field,MG Johnson
+584,Centurion,SuperSport Park,9/26/2009,male,ODI,,India,Pakistan,Pakistan,54,0,,Pakistan,bat,Shoaib Malik
+585,Johannesburg,New Wanderers Stadium,9/27/2009,male,ODI,,New Zealand,Sri Lanka,New Zealand,38,0,,Sri Lanka,field,DL Vettori
+586,Centurion,SuperSport Park,9/27/2009,male,ODI,,South Africa,England,England,22,0,,England,bat,OA Shah
+587,Centurion,SuperSport Park,9/28/2009,male,ODI,,Australia,India,No Result,0,0,,Australia,bat,
+588,Johannesburg,New Wanderers Stadium,9/29/2009,male,ODI,,England,New Zealand,New Zealand,0,4,,New Zealand,field,GD Elliott
+589,Centurion,SuperSport Park,9/30/2009,male,ODI,,Australia,Pakistan,Australia,0,2,,Australia,field,MEK Hussey
+590,Johannesburg,New Wanderers Stadium,9/30/2009,male,ODI,,India,West Indies,India,0,7,,India,field,V Kohli
+591,Centurion,SuperSport Park,10/2/2009,male,ODI,,Australia,England,Australia,0,9,,England,bat,SR Watson
+592,Johannesburg,New Wanderers Stadium,10/3/2009,male,ODI,,New Zealand,Pakistan,New Zealand,0,5,,Pakistan,bat,DL Vettori
+593,Centurion,SuperSport Park,10/5/2009,male,ODI,,Australia,New Zealand,Australia,0,6,,New Zealand,bat,SR Watson
+594,Vadodara,Reliance Stadium,10/25/2009,male,ODI,,India,Australia,Australia,4,0,,Australia,bat,MEK Hussey
+595,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",10/28/2009,male,ODI,,India,Australia,India,99,0,,Australia,field,MS Dhoni
+596,Delhi,Feroz Shah Kotla,10/31/2009,male,ODI,,India,Australia,India,0,6,,Australia,bat,Yuvraj Singh
+597,Chandigarh,"Punjab Cricket Association Stadium, Mohali",11/2/2009,male,ODI,,India,Australia,Australia,24,0,,India,field,SR Watson
+598,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",11/5/2009,male,ODI,,India,Australia,Australia,3,0,,Australia,bat,SR Tendulkar
+599,Guwahati,Nehru Stadium,11/8/2009,male,ODI,,India,Australia,Australia,0,6,,India,bat,DE Bollinger
+600,Mirpur,Shere Bangla National Stadium,10/27/2009,male,ODI,,Bangladesh,Zimbabwe,Zimbabwe,0,5,,Zimbabwe,field,E Chigumbura
+601,Mirpur,Shere Bangla National Stadium,10/29/2009,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,7,,Zimbabwe,bat,Abdur Razzak
+602,Mirpur,Shere Bangla National Stadium,10/31/2009,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,4,,Bangladesh,field,Tamim Iqbal
+603,Chittagong,Zohur Ahmed Chowdhury Stadium,11/3/2009,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,6,,Zimbabwe,bat,Nazmul Hossain
+604,Chittagong,Zohur Ahmed Chowdhury Stadium,11/5/2009,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,1,,Bangladesh,field,Naeem Islam
+605,Napier,McLean Park,2/5/2010,male,ODI,,New Zealand,Bangladesh,New Zealand,146,0,,New Zealand,bat,JDP Oram
+606,Dunedin,University Oval,2/8/2010,male,ODI,,New Zealand,Bangladesh,New Zealand,0,5,,New Zealand,field,LRPL Taylor
+607,Christchurch,AMI Stadium,2/11/2010,male,ODI,,New Zealand,Bangladesh,New Zealand,0,3,,New Zealand,field,MJ Guptill
+608,Napier,McLean Park,3/3/2010,male,ODI,,New Zealand,Australia,New Zealand,0,2,,Australia,bat,LRPL Taylor
+609,Auckland,Eden Park,3/6/2010,male,ODI,,New Zealand,Australia,Australia,12,0,,Australia,bat,DL Vettori
+610,Hamilton,Seddon Park,3/9/2010,male,ODI,,New Zealand,Australia,Australia,0,6,,Australia,field,BJ Haddin
+611,Auckland,Eden Park,3/11/2010,male,ODI,,New Zealand,Australia,Australia,0,6,,Australia,field,CL White
+612,Wellington,Westpac Stadium,3/13/2010,male,ODI,,New Zealand,Australia,New Zealand,51,0,,Australia,field,TG Southee
+613,Dublin,Clontarf Cricket Club Ground,6/17/2010,male,ODI,,Ireland,Australia,Australia,39,0,,Australia,bat,JR Hopes
+614,Southampton,The Rose Bowl,6/22/2010,male,ODI,,England,Australia,England,0,4,,Australia,bat,EJG Morgan
+615,Cardiff,Sophia Gardens,6/24/2010,male,ODI,,England,Australia,England,0,4,,Australia,bat,SCJ Broad
+616,Manchester,Old Trafford,6/27/2010,male,ODI,,England,Australia,England,0,1,,England,field,GP Swann
+617,London,Kennington Oval,6/30/2010,male,ODI,,England,Australia,Australia,78,0,,England,field,RJ Harris
+618,London,Lord's,7/3/2010,male,ODI,,England,Australia,Australia,42,0,,Australia,bat,SW Tait
+619,Nottingham,Trent Bridge,7/8/2010,male,ODI,,England,Bangladesh,England,0,6,,Bangladesh,bat,IR Bell
+620,Bristol,County Ground,7/10/2010,male,ODI,,England,Bangladesh,Bangladesh,5,0,,England,field,Mashrafe Mortaza
+621,Birmingham,Edgbaston,7/12/2010,male,ODI,,England,Bangladesh,England,144,0,,Bangladesh,field,AJ Strauss
+622,Mirpur,Shere Bangla National Stadium,2/28/2010,male,ODI,,Bangladesh,England,England,0,6,,England,field,Tamim Iqbal
+623,Mirpur,Shere Bangla National Stadium,3/2/2010,male,ODI,,Bangladesh,England,England,0,2,,England,field,EJG Morgan
+624,Chittagong,Zohur Ahmed Chowdhury Stadium,3/5/2010,male,ODI,,Bangladesh,England,England,45,0,,Bangladesh,field,C Kieswetter
+625,Chester-le-Street,Riverside Ground,9/10/2010,male,ODI,,England,Pakistan,England,24,0,,Pakistan,field,SM Davies
+626,Leeds,Headingley,9/12/2010,male,ODI,,England,Pakistan,England,0,4,,Pakistan,bat,AJ Strauss
+627,London,Kennington Oval,9/17/2010,male,ODI,,England,Pakistan,Pakistan,23,0,,Pakistan,bat,Umar Gul
+628,London,Lord's,9/20/2010,male,ODI,,England,Pakistan,Pakistan,38,0,,Pakistan,bat,Abdul Razzaq
+629,Southampton,The Rose Bowl,9/22/2010,male,ODI,,England,Pakistan,England,121,0,,England,bat,EJG Morgan
+630,Abu Dhabi,Sheikh Zayed Stadium,11/3/2009,male,ODI,,New Zealand,Pakistan,Pakistan,138,0,,Pakistan,bat,Shahid Afridi
+631,Abu Dhabi,Sheikh Zayed Stadium,11/6/2009,male,ODI,,New Zealand,Pakistan,New Zealand,64,0,,New Zealand,bat,BB McCullum
+632,Abu Dhabi,Sheikh Zayed Stadium,11/9/2009,male,ODI,,New Zealand,Pakistan,New Zealand,7,0,,New Zealand,bat,Mohammad Amir
+633,Benoni,Willowmoore Park,11/8/2009,male,ODI,,South Africa,Zimbabwe,South Africa,45,0,,Zimbabwe,field,T Taibu
+634,Centurion,SuperSport Park,11/10/2009,male,ODI,,South Africa,Zimbabwe,South Africa,212,0,,Zimbabwe,field,JP Duminy
+635,Rajkot,Madhavrao Scindia Cricket Ground,12/15/2009,male,ODI,,India,Sri Lanka,India,3,0,,Sri Lanka,field,V Sehwag
+636,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",12/18/2009,male,ODI,,India,Sri Lanka,Sri Lanka,0,3,,India,bat,TM Dilshan
+637,Cuttack,Barabati Stadium,12/21/2009,male,ODI,,India,Sri Lanka,India,0,7,,Sri Lanka,bat,RA Jadeja
+638,Kolkata,Eden Gardens,12/24/2009,male,ODI,,India,Sri Lanka,India,0,7,,Sri Lanka,bat,G Gambhir
+639,Delhi,Feroz Shah Kotla,12/27/2009,male,ODI,,India,Sri Lanka,No Result,0,0,,India,field,
+640,Mirpur,Shere Bangla National Stadium,2/19/2011,male,ODI,,Bangladesh,India,India,87,0,,Bangladesh,field,V Sehwag
+641,Chennai,"MA Chidambaram Stadium, Chepauk",2/20/2011,male,ODI,,Kenya,New Zealand,New Zealand,0,10,,Kenya,bat,HK Bennett
+642,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2/20/2011,male,ODI,,Sri Lanka,Canada,Sri Lanka,210,0,,Sri Lanka,bat,DPMD Jayawardene
+643,Ahmedabad,"Sardar Patel Stadium, Motera",2/21/2011,male,ODI,,Australia,Zimbabwe,Australia,91,0,,Australia,bat,SR Watson
+644,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",2/22/2011,male,ODI,,England,Netherlands,England,0,6,,Netherlands,bat,RN ten Doeschate
+645,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2/23/2011,male,ODI,,Kenya,Pakistan,Pakistan,205,0,,Pakistan,bat,Umar Akmal
+646,Delhi,Feroz Shah Kotla,2/24/2011,male,ODI,,South Africa,West Indies,South Africa,0,7,,South Africa,field,AB de Villiers
+647,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",2/25/2011,male,ODI,,Australia,New Zealand,Australia,0,7,,Australia,field,MG Johnson
+648,Mirpur,Shere Bangla National Stadium,2/25/2011,male,ODI,,Bangladesh,Ireland,Bangladesh,27,0,,Bangladesh,bat,Tamim Iqbal
+649,Colombo,R Premadasa Stadium,2/26/2011,male,ODI,,Sri Lanka,Pakistan,Pakistan,11,0,,Pakistan,bat,Shahid Afridi
+650,Bangalore,M Chinnaswamy Stadium,2/27/2011,male,ODI,,India,England,No Result,0,0,,India,bat,AJ Strauss
+651,Delhi,Feroz Shah Kotla,2/28/2011,male,ODI,,Netherlands,West Indies,West Indies,215,0,,Netherlands,field,KAJ Roach
+652,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",2/28/2011,male,ODI,,Canada,Zimbabwe,Zimbabwe,175,0,,Zimbabwe,bat,T Taibu
+653,Colombo,R Premadasa Stadium,3/1/2011,male,ODI,,Sri Lanka,Kenya,Sri Lanka,0,9,,Kenya,bat,SL Malinga
+654,Bangalore,M Chinnaswamy Stadium,3/2/2011,male,ODI,,England,Ireland,Ireland,0,3,,England,bat,KJ O'Brien
+655,Chandigarh,"Punjab Cricket Association Stadium, Mohali",3/3/2011,male,ODI,,Netherlands,South Africa,South Africa,231,0,,Netherlands,field,AB de Villiers
+656,Colombo,R Premadasa Stadium,3/3/2011,male,ODI,,Canada,Pakistan,Pakistan,46,0,,Pakistan,bat,Shahid Afridi
+657,Ahmedabad,"Sardar Patel Stadium, Motera",3/4/2011,male,ODI,,New Zealand,Zimbabwe,New Zealand,0,10,,Zimbabwe,bat,MJ Guptill
+658,Mirpur,Shere Bangla National Stadium,3/4/2011,male,ODI,,Bangladesh,West Indies,West Indies,0,9,,Bangladesh,bat,KAJ Roach
+659,Colombo,R Premadasa Stadium,3/5/2011,male,ODI,,Sri Lanka,Australia,No Result,0,0,,Sri Lanka,bat,
+660,Bangalore,M Chinnaswamy Stadium,3/6/2011,male,ODI,,India,Ireland,India,0,5,,India,field,Yuvraj Singh
+661,Chennai,"MA Chidambaram Stadium, Chepauk",3/6/2011,male,ODI,,England,South Africa,England,6,0,,England,bat,RS Bopara
+662,Delhi,Feroz Shah Kotla,3/7/2011,male,ODI,,Canada,Kenya,Canada,0,5,,Kenya,bat,H Osinde
+663,,Pallekele International Cricket Stadium,3/8/2011,male,ODI,,New Zealand,Pakistan,New Zealand,110,0,,New Zealand,bat,LRPL Taylor
+664,Delhi,Feroz Shah Kotla,3/9/2011,male,ODI,,India,Netherlands,India,0,5,,Netherlands,bat,Yuvraj Singh
+665,,Pallekele International Cricket Stadium,3/10/2011,male,ODI,,Sri Lanka,Zimbabwe,Sri Lanka,139,0,,Zimbabwe,field,TM Dilshan
+666,Chandigarh,"Punjab Cricket Association Stadium, Mohali",3/11/2011,male,ODI,,Ireland,West Indies,West Indies,44,0,,Ireland,field,KA Pollard
+667,Chittagong,Zahur Ahmed Chowdhury Stadium,3/11/2011,male,ODI,,Bangladesh,England,Bangladesh,0,2,,Bangladesh,field,Imrul Kayes
+668,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",3/12/2011,male,ODI,,India,South Africa,South Africa,0,3,,India,bat,DW Steyn
+669,Mumbai,Wankhede Stadium,3/13/2011,male,ODI,,Canada,New Zealand,New Zealand,97,0,,Canada,field,BB McCullum
+670,Bangalore,M Chinnaswamy Stadium,3/13/2011,male,ODI,,Australia,Kenya,Australia,60,0,,Australia,bat,CO Obuya
+671,,Pallekele International Cricket Stadium,3/14/2011,male,ODI,,Pakistan,Zimbabwe,Pakistan,0,7,,Zimbabwe,bat,Umar Gul
+672,Chittagong,Zahur Ahmed Chowdhury Stadium,3/14/2011,male,ODI,,Bangladesh,Netherlands,Bangladesh,0,6,,Netherlands,bat,Imrul Kayes
+673,Kolkata,Eden Gardens,3/15/2011,male,ODI,,Ireland,South Africa,South Africa,131,0,,Ireland,field,JP Duminy
+674,Bangalore,M Chinnaswamy Stadium,3/16/2011,male,ODI,,Australia,Canada,Australia,0,7,,Canada,bat,SR Watson
+675,Chennai,"MA Chidambaram Stadium, Chepauk",3/17/2011,male,ODI,,England,West Indies,England,18,0,,England,bat,JC Tredwell
+676,Mumbai,Wankhede Stadium,3/18/2011,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,112,0,,Sri Lanka,bat,KC Sangakkara
+677,Kolkata,Eden Gardens,3/18/2011,male,ODI,,Ireland,Netherlands,Ireland,0,6,,Ireland,field,PR Stirling
+678,Colombo,R Premadasa Stadium,3/19/2011,male,ODI,,Australia,Pakistan,Pakistan,0,4,,Australia,bat,Umar Akmal
+679,Mirpur,Shere Bangla National Stadium,3/19/2011,male,ODI,,Bangladesh,South Africa,South Africa,206,0,,South Africa,bat,LL Tsotsobe
+680,Kolkata,Eden Gardens,3/20/2011,male,ODI,,Kenya,Zimbabwe,Zimbabwe,161,0,,Zimbabwe,bat,CR Ervine
+681,Chennai,"MA Chidambaram Stadium, Chepauk",3/20/2011,male,ODI,,India,West Indies,India,80,0,,India,bat,Yuvraj Singh
+682,Mirpur,Shere Bangla National Stadium,3/23/2011,male,ODI,,Pakistan,West Indies,Pakistan,0,10,,West Indies,bat,Mohammad Hafeez
+683,Ahmedabad,"Sardar Patel Stadium, Motera",3/24/2011,male,ODI,,India,Australia,India,0,5,,Australia,bat,Yuvraj Singh
+684,Mirpur,Shere Bangla National Stadium,3/25/2011,male,ODI,,New Zealand,South Africa,New Zealand,49,0,,New Zealand,bat,JDP Oram
+685,Colombo,R Premadasa Stadium,3/26/2011,male,ODI,,Sri Lanka,England,Sri Lanka,0,10,,England,bat,TM Dilshan
+686,Colombo,R Premadasa Stadium,3/29/2011,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,0,5,,New Zealand,bat,KC Sangakkara
+687,Chandigarh,"Punjab Cricket Association Stadium, Mohali",3/30/2011,male,ODI,,India,Pakistan,India,29,0,,India,bat,SR Tendulkar
+688,Mumbai,Wankhede Stadium,4/2/2011,male,ODI,,India,Sri Lanka,India,0,6,,Sri Lanka,bat,MS Dhoni
+689,Mirpur,Shere Bangla National Stadium,1/4/2010,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,0,7,,Sri Lanka,field,TM Dilshan
+690,Mirpur,Shere Bangla National Stadium,1/5/2010,male,ODI,,India,Sri Lanka,Sri Lanka,0,5,,Sri Lanka,field,TT Samaraweera
+691,Mirpur,Shere Bangla National Stadium,1/7/2010,male,ODI,,Bangladesh,India,India,0,6,,Bangladesh,bat,MS Dhoni
+692,Mirpur,Shere Bangla National Stadium,1/8/2010,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,0,9,,Sri Lanka,field,WU Tharanga
+693,Mirpur,Shere Bangla National Stadium,1/10/2010,male,ODI,,India,Sri Lanka,India,0,8,,Sri Lanka,bat,Z Khan
+694,Mirpur,Shere Bangla National Stadium,1/11/2010,male,ODI,,Bangladesh,India,India,0,6,,India,field,V Kohli
+695,Mirpur,Shere Bangla National Stadium,1/13/2010,male,ODI,,India,Sri Lanka,Sri Lanka,0,4,,Sri Lanka,field,KMDN Kulasekara
+696,Guyana,Providence Stadium,3/4/2010,male,ODI,,West Indies,Zimbabwe,Zimbabwe,2,0,,Zimbabwe,bat,V Sibanda
+697,Guyana,Providence Stadium,3/6/2010,male,ODI,,West Indies,Zimbabwe,West Indies,0,4,,Zimbabwe,bat,N Deonarine
+698,St Vincent,"Arnos Vale Ground, Kingstown",3/10/2010,male,ODI,,West Indies,Zimbabwe,West Indies,141,0,,Zimbabwe,field,DJG Sammy
+699,St Vincent,"Arnos Vale Ground, Kingstown",3/12/2010,male,ODI,,West Indies,Zimbabwe,West Indies,0,4,,West Indies,field,DJ Bravo
+700,St Vincent,"Arnos Vale Ground, Kingstown",3/14/2010,male,ODI,,West Indies,Zimbabwe,West Indies,0,4,,West Indies,field,CH Gayle
+701,Antigua,"Sir Vivian Richards Stadium, North Sound",5/22/2010,male,ODI,,West Indies,South Africa,South Africa,66,0,,West Indies,field,HM Amla
+702,Antigua,"Sir Vivian Richards Stadium, North Sound",5/24/2010,male,ODI,,West Indies,South Africa,South Africa,17,0,,South Africa,bat,HM Amla
+703,Dominica,"Windsor Park, Roseau",5/28/2010,male,ODI,,West Indies,South Africa,South Africa,67,0,,South Africa,bat,AB de Villiers
+704,Dominica,"Windsor Park, Roseau",5/30/2010,male,ODI,,West Indies,South Africa,South Africa,0,7,,West Indies,bat,HM Amla
+705,Trinidad,"Queen's Park Oval, Port of Spain",6/3/2010,male,ODI,,West Indies,South Africa,South Africa,0,1,,West Indies,bat,JH Kallis
+706,Jaipur,Sawai Mansingh Stadium,2/21/2010,male,ODI,,India,South Africa,India,1,0,,South Africa,field,RA Jadeja
+707,Gwalior,Captain Roop Singh Stadium,2/24/2010,male,ODI,,India,South Africa,India,153,0,,India,bat,SR Tendulkar
+708,Ahmedabad,"Sardar Patel Stadium, Motera",2/27/2010,male,ODI,,India,South Africa,South Africa,90,0,,South Africa,bat,AB de Villiers
+709,,Melbourne Cricket Ground,11/3/2010,male,ODI,,Australia,Sri Lanka,Sri Lanka,0,1,,Australia,bat,AD Mathews
+710,,Sydney Cricket Ground,11/5/2010,male,ODI,,Australia,Sri Lanka,Sri Lanka,29,0,,Sri Lanka,bat,WU Tharanga
+711,Brisbane,"Brisbane Cricket Ground, Woolloongabba",11/7/2010,male,ODI,,Australia,Sri Lanka,Australia,0,8,,Sri Lanka,bat,CJ McKay
+712,,Melbourne Cricket Ground,1/16/2011,male,ODI,,Australia,England,Australia,0,6,,England,bat,SR Watson
+713,Hobart,Bellerive Oval,1/21/2011,male,ODI,,Australia,England,Australia,46,0,,England,field,SE Marsh
+714,,Sydney Cricket Ground,1/23/2011,male,ODI,,Australia,England,Australia,0,4,,England,bat,B Lee
+715,,Adelaide Oval,1/26/2011,male,ODI,,Australia,England,England,21,0,,England,bat,IJL Trott
+716,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/30/2011,male,ODI,,Australia,England,Australia,51,0,,Australia,bat,CR Woakes
+717,,Sydney Cricket Ground,2/2/2011,male,ODI,,Australia,England,Australia,0,2,,England,bat,IJL Trott
+718,Perth,Western Australia Cricket Association Ground,2/6/2011,male,ODI,,Australia,England,Australia,57,0,,Australia,bat,AC Voges
+719,Belfast,"Civil Service Cricket Club, Stormont",7/16/2010,male,ODI,,Ireland,Bangladesh,Bangladesh,0,6,,Ireland,bat,Shafiul Islam
+720,Amstelveen,VRA Ground,7/7/2010,male,ODI,,Canada,Ireland,Ireland,0,5,,Canada,bat,KJ O'Brien
+721,Ayr,Cambusdoon New Ground,8/16/2010,male,ODI,,Scotland,Afghanistan,Afghanistan,0,9,,Scotland,bat,
+722,Ayr,Cambusdoon New Ground,8/17/2010,male,ODI,,Scotland,Afghanistan,Scotland,0,6,,Afghanistan,bat,
+723,Bulawayo,Queens Sports Club,5/28/2010,male,ODI,,Zimbabwe,India,Zimbabwe,0,6,,India,bat,BRM Taylor
+724,Bulawayo,Queens Sports Club,5/30/2010,male,ODI,,India,Sri Lanka,India,0,7,,India,field,RG Sharma
+725,Bulawayo,Queens Sports Club,6/1/2010,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,0,9,,Sri Lanka,field,S Randiv
+726,,Harare Sports Club,6/3/2010,male,ODI,,Zimbabwe,India,Zimbabwe,0,7,,Zimbabwe,field,BRM Taylor
+727,,Harare Sports Club,6/5/2010,male,ODI,,India,Sri Lanka,Sri Lanka,0,6,,Sri Lanka,field,LD Chandimal
+728,,Harare Sports Club,6/7/2010,male,ODI,,Zimbabwe,Sri Lanka,Zimbabwe,0,8,,Zimbabwe,field,BRM Taylor
+729,,Harare Sports Club,6/9/2010,male,ODI,,Zimbabwe,Sri Lanka,Sri Lanka,0,9,,Sri Lanka,field,TM Dilshan
+730,,Rangiri Dambulla International Stadium,6/15/2010,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,16,0,,Sri Lanka,bat,Shahid Afridi
+731,,Rangiri Dambulla International Stadium,6/16/2010,male,ODI,,Bangladesh,India,India,0,6,,Bangladesh,bat,G Gambhir
+732,,Rangiri Dambulla International Stadium,6/18/2010,male,ODI,,Sri Lanka,Bangladesh,Sri Lanka,126,0,,Sri Lanka,bat,TM Dilshan
+733,,Rangiri Dambulla International Stadium,6/19/2010,male,ODI,,India,Pakistan,India,0,3,,Pakistan,bat,G Gambhir
+734,,Rangiri Dambulla International Stadium,6/21/2010,male,ODI,,Bangladesh,Pakistan,Pakistan,139,0,,Pakistan,bat,Shahid Afridi
+735,,Rangiri Dambulla International Stadium,6/22/2010,male,ODI,,Sri Lanka,India,Sri Lanka,0,7,,Sri Lanka,field,MF Maharoof
+736,,Rangiri Dambulla International Stadium,6/24/2010,male,ODI,,Sri Lanka,India,India,81,0,,India,bat,KD Karthik
+737,,Rangiri Dambulla International Stadium,8/10/2010,male,ODI,,India,New Zealand,New Zealand,200,0,,New Zealand,bat,LRPL Taylor
+738,,Rangiri Dambulla International Stadium,8/16/2010,male,ODI,,Sri Lanka,India,India,0,6,,Sri Lanka,bat,V Sehwag
+739,,Rangiri Dambulla International Stadium,8/13/2010,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,0,3,,New Zealand,bat,WU Tharanga
+740,,Rangiri Dambulla International Stadium,8/25/2010,male,ODI,,India,New Zealand,India,105,0,,India,bat,V Sehwag
+741,,Rangiri Dambulla International Stadium,8/22/2010,male,ODI,,Sri Lanka,India,Sri Lanka,0,8,,India,bat,NLTC Perera
+742,,Rangiri Dambulla International Stadium,8/28/2010,male,ODI,,Sri Lanka,India,Sri Lanka,74,0,,Sri Lanka,bat,TM Dilshan
+743,Abu Dhabi,Sheikh Zayed Stadium,10/29/2010,male,ODI,,Pakistan,South Africa,South Africa,0,8,,Pakistan,bat,LL Tsotsobe
+744,Abu Dhabi,Sheikh Zayed Stadium,10/31/2010,male,ODI,,Pakistan,South Africa,Pakistan,0,1,,South Africa,bat,Abdul Razzaq
+745,,Dubai International Cricket Stadium,11/2/2010,male,ODI,,Pakistan,South Africa,South Africa,2,0,,Pakistan,field,HM Amla
+746,,Dubai International Cricket Stadium,11/5/2010,male,ODI,,Pakistan,South Africa,Pakistan,0,1,,South Africa,bat,Younis Khan
+747,,Dubai International Cricket Stadium,11/8/2010,male,ODI,,Pakistan,South Africa,South Africa,57,0,,South Africa,bat,JH Kallis
+748,Bloemfontein,OUTsurance Oval,10/15/2010,male,ODI,,South Africa,Zimbabwe,South Africa,64,0,,South Africa,bat,CA Ingram
+749,Potchefstroom,Senwes Park,10/17/2010,male,ODI,,South Africa,Zimbabwe,South Africa,0,8,,Zimbabwe,bat,J Theron
+750,Benoni,Willowmoore Park,10/22/2010,male,ODI,,South Africa,Zimbabwe,South Africa,272,0,,South Africa,bat,JP Duminy
+751,Durban,Kingsmead,1/12/2011,male,ODI,,South Africa,India,South Africa,135,0,,South Africa,bat,LL Tsotsobe
+752,Johannesburg,New Wanderers Stadium,1/15/2011,male,ODI,,South Africa,India,India,1,0,,India,bat,MM Patel
+753,Cape Town,Newlands,1/18/2011,male,ODI,,South Africa,India,India,0,2,,South Africa,bat,YK Pathan
+754,Port Elizabeth,St George's Park,1/21/2011,male,ODI,,South Africa,India,South Africa,48,0,,South Africa,bat,JP Duminy
+755,Centurion,SuperSport Park,1/23/2011,male,ODI,,South Africa,India,South Africa,33,0,,India,field,HM Amla
+756,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,10/20/2010,male,ODI,,India,Australia,India,0,5,,India,field,V Kohli
+757,Dublin,Clontarf Cricket Club Ground,8/18/2010,male,ODI,,Ireland,Netherlands,Ireland,0,9,,Netherlands,bat,
+758,Skating and Curling Club,Toronto Cricket,9/6/2010,male,ODI,,Canada,Ireland,Canada,4,0,,Ireland,bat,R Gunasekera
+759,Colombo,Sinhalese Sports Club Ground,1/31/2011,male,ODI,,Sri Lanka,West Indies,No Result,0,0,,West Indies,bat,
+760,Colombo,Sinhalese Sports Club Ground,2/3/2011,male,ODI,,Sri Lanka,West Indies,Sri Lanka,0,8,,Sri Lanka,field,WU Tharanga
+761,Colombo,Sinhalese Sports Club Ground,2/6/2011,male,ODI,,Sri Lanka,West Indies,Sri Lanka,26,0,,West Indies,field,KC Sangakkara
+762,Guwahati,Nehru Stadium,11/28/2010,male,ODI,,India,New Zealand,India,40,0,,New Zealand,field,V Kohli
+763,Jaipur,Sawai Mansingh Stadium,12/1/2010,male,ODI,,India,New Zealand,India,0,8,,India,field,G Gambhir
+764,Vadodara,Reliance Stadium,12/4/2010,male,ODI,,India,New Zealand,India,0,9,,India,field,G Gambhir
+765,Bangalore,M Chinnaswamy Stadium,12/7/2010,male,ODI,,India,New Zealand,India,0,5,,India,field,YK Pathan
+766,Chennai,"MA Chidambaram Stadium, Chepauk",12/10/2010,male,ODI,,India,New Zealand,India,0,8,,New Zealand,bat,Yuvraj Singh
+767,,Rangiri Dambulla International Stadium,8/19/2010,male,ODI,,Sri Lanka,New Zealand,No Result,0,0,,New Zealand,field,
+768,Wellington,Westpac Stadium,1/22/2011,male,ODI,,New Zealand,Pakistan,New Zealand,0,9,,Pakistan,bat,TG Southee
+769,,Queenstown Events Centre,1/26/2011,male,ODI,,New Zealand,Pakistan,No Result,0,0,,New Zealand,field,
+770,Christchurch,AMI Stadium,1/29/2011,male,ODI,,New Zealand,Pakistan,Pakistan,43,0,,New Zealand,field,Mohammad Hafeez
+771,Napier,McLean Park,2/1/2011,male,ODI,,New Zealand,Pakistan,Pakistan,0,2,,New Zealand,bat,Misbah-ul-Haq
+772,Hamilton,Seddon Park,2/3/2011,male,ODI,,New Zealand,Pakistan,Pakistan,41,0,,New Zealand,field,Ahmed Shehzad
+773,Auckland,Eden Park,2/5/2011,male,ODI,,New Zealand,Pakistan,New Zealand,57,0,,Pakistan,field,JD Ryder
+774,London,Kennington Oval,6/28/2011,male,ODI,,England,Sri Lanka,England,110,0,,Sri Lanka,field,JM Anderson
+775,Leeds,Headingley,7/1/2011,male,ODI,,England,Sri Lanka,Sri Lanka,69,0,,England,field,DPMD Jayawardene
+776,London,Lord's,7/3/2011,male,ODI,,England,Sri Lanka,Sri Lanka,0,6,,England,bat,LD Chandimal
+777,Nottingham,Trent Bridge,7/6/2011,male,ODI,,England,Sri Lanka,England,0,10,,England,field,AN Cook
+778,Manchester,Old Trafford,7/9/2011,male,ODI,,England,Sri Lanka,England,16,0,,England,bat,IJL Trott
+779,Chester-le-Street,Riverside Ground,9/3/2011,male,ODI,,England,India,No Result,0,0,,England,field,
+780,Southampton,The Rose Bowl,9/6/2011,male,ODI,,England,India,England,0,7,,England,field,AN Cook
+781,London,Kennington Oval,9/9/2011,male,ODI,,England,India,England,0,3,,England,field,RA Jadeja
+782,London,Lord's,9/11/2011,male,ODI,,England,India,No Result,0,0,,England,field,RS Bopara
+783,Cardiff,Sophia Gardens,9/16/2011,male,ODI,,England,India,England,0,6,,England,field,JM Bairstow
+784,Mirpur,Shere Bangla National Stadium,10/5/2010,male,ODI,,Bangladesh,New Zealand,Bangladesh,9,0,,Bangladesh,bat,Shakib Al Hasan
+785,Mirpur,Shere Bangla National Stadium,10/11/2010,male,ODI,,Bangladesh,New Zealand,Bangladesh,0,7,,Bangladesh,field,Suhrawadi Shuvo
+786,Mirpur,Shere Bangla National Stadium,10/14/2010,male,ODI,,Bangladesh,New Zealand,Bangladesh,9,0,,New Zealand,field,Shakib Al Hasan
+787,Mirpur,Shere Bangla National Stadium,10/17/2010,male,ODI,,Bangladesh,New Zealand,Bangladesh,3,0,,Bangladesh,bat,Rubel Hossain
+788,Dublin,Clontarf Cricket Club Ground,8/25/2011,male,ODI,,Ireland,England,England,11,0,,Ireland,field,EJG Morgan
+789,Mirpur,Shere Bangla National Stadium,12/1/2010,male,ODI,,Bangladesh,Zimbabwe,Zimbabwe,9,0,,Bangladesh,field,CB Mpofu
+790,Mirpur,Shere Bangla National Stadium,12/3/2010,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,6,,Bangladesh,field,Abdur Razzak
+791,Mirpur,Shere Bangla National Stadium,12/6/2010,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,65,0,,Zimbabwe,field,Abdur Razzak
+792,Chittagong,Zahur Ahmed Chowdhury Stadium,12/12/2010,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,6,,Zimbabwe,bat,Tamim Iqbal
+793,St Lucia,"Beausejour Stadium, Gros Islet",4/23/2011,male,ODI,,West Indies,Pakistan,Pakistan,0,8,,West Indies,bat,Mohammad Hafeez
+794,St Lucia,"Beausejour Stadium, Gros Islet",4/25/2011,male,ODI,,West Indies,Pakistan,Pakistan,0,7,,Pakistan,field,Ahmed Shehzad
+795,Barbados,"Kensington Oval, Bridgetown",4/28/2011,male,ODI,,West Indies,Pakistan,Pakistan,0,3,,Pakistan,field,Misbah-ul-Haq
+796,Barbados,"Kensington Oval, Bridgetown",5/2/2011,male,ODI,,West Indies,Pakistan,West Indies,1,0,,West Indies,field,Mohammad Hafeez
+797,Guyana,Providence Stadium,5/5/2011,male,ODI,,West Indies,Pakistan,West Indies,0,10,,Pakistan,bat,LMP Simmons
+798,Trinidad,"Queen's Park Oval, Port of Spain",6/6/2011,male,ODI,,West Indies,India,India,0,4,,West Indies,bat,RG Sharma
+799,Trinidad,"Queen's Park Oval, Port of Spain",6/8/2011,male,ODI,,West Indies,India,India,0,7,,India,field,V Kohli
+800,Antigua,"Sir Vivian Richards Stadium, North Sound",6/11/2011,male,ODI,,West Indies,India,India,0,3,,India,field,AD Russell
+801,Antigua,"Sir Vivian Richards Stadium, North Sound",6/13/2011,male,ODI,,West Indies,India,West Indies,103,0,,India,field,A Martin
+802,Jamaica,"Sabina Park, Kingston",6/16/2011,male,ODI,,West Indies,India,West Indies,0,7,,West Indies,field,AD Russell
+803,Mirpur,Shere Bangla National Stadium,4/9/2011,male,ODI,,Bangladesh,Australia,Australia,60,0,,Bangladesh,field,MJ Clarke
+804,Mirpur,Shere Bangla National Stadium,4/11/2011,male,ODI,,Bangladesh,Australia,Australia,0,9,,Bangladesh,bat,SR Watson
+805,Mirpur,Shere Bangla National Stadium,4/13/2011,male,ODI,,Bangladesh,Australia,Australia,66,0,,Australia,bat,MEK Hussey
+806,Aberdeen,Mannofield Park,6/29/2011,male,ODI,,Scotland,Netherlands,Scotland,0,5,,Scotland,field,
+807,Centurion,SuperSport Park,10/19/2011,male,ODI,,South Africa,Australia,Australia,93,0,,South Africa,field,RT Ponting
+808,Port Elizabeth,St George's Park,10/23/2011,male,ODI,,South Africa,Australia,South Africa,80,0,,South Africa,bat,M Morkel
+809,Durban,Kingsmead,10/28/2011,male,ODI,,South Africa,Australia,Australia,0,3,,South Africa,bat,SR Watson
+810,Paarl,Boland Park,1/11/2012,male,ODI,,South Africa,Sri Lanka,South Africa,258,0,,South Africa,bat,M Morkel
+811,East London,Buffalo Park,1/14/2012,male,ODI,,South Africa,Sri Lanka,South Africa,0,5,,South Africa,field,JP Duminy
+812,Bloemfontein,Chevrolet Park,1/17/2012,male,ODI,,South Africa,Sri Lanka,South Africa,4,0,,Sri Lanka,bat,F du Plessis
+813,Kimberley,De Beers Diamond Oval,1/20/2012,male,ODI,,South Africa,Sri Lanka,Sri Lanka,0,5,,South Africa,bat,NLTC Perera
+814,Johannesburg,New Wanderers Stadium,1/22/2012,male,ODI,,South Africa,Sri Lanka,Sri Lanka,0,2,,Sri Lanka,field,KC Sangakkara
+815,,Pallekele International Cricket Stadium,8/10/2011,male,ODI,,Sri Lanka,Australia,Australia,0,7,,Sri Lanka,bat,MG Johnson
+816,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",8/14/2011,male,ODI,,Sri Lanka,Australia,Australia,0,8,,Sri Lanka,bat,RT Ponting
+817,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",8/16/2011,male,ODI,,Sri Lanka,Australia,Sri Lanka,78,0,,Australia,field,WU Tharanga
+818,Colombo,R Premadasa Stadium,8/20/2011,male,ODI,,Sri Lanka,Australia,Australia,0,5,,Sri Lanka,bat,XJ Doherty
+819,Colombo,R Premadasa Stadium,8/22/2011,male,ODI,,Sri Lanka,Australia,Sri Lanka,0,4,,Sri Lanka,field,SL Malinga
+820,,Melbourne Cricket Ground,2/5/2012,male,ODI,,Australia,India,Australia,65,0,,India,field,MS Wade
+821,Perth,Western Australia Cricket Association Ground,2/8/2012,male,ODI,,India,Sri Lanka,India,0,4,,Sri Lanka,bat,R Ashwin
+822,Perth,Western Australia Cricket Association Ground,2/10/2012,male,ODI,,Australia,Sri Lanka,Australia,5,0,,Sri Lanka,field,MJ Clarke
+823,,Adelaide Oval,2/12/2012,male,ODI,,Australia,India,India,0,4,,Australia,bat,G Gambhir
+824,,Adelaide Oval,2/14/2012,male,ODI,,India,Sri Lanka,No Result,0,0,,Sri Lanka,bat,MS Dhoni
+825,,Sydney Cricket Ground,2/17/2012,male,ODI,,Australia,Sri Lanka,Sri Lanka,0,8,,Australia,bat,NLTC Perera
+826,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/19/2012,male,ODI,,Australia,India,Australia,110,0,,Australia,bat,BW Hilfenhaus
+827,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/21/2012,male,ODI,,India,Sri Lanka,Sri Lanka,51,0,,Sri Lanka,bat,KMDN Kulasekara
+828,Hobart,Bellerive Oval,2/24/2012,male,ODI,,Australia,Sri Lanka,Sri Lanka,0,3,,Australia,bat,DPMD Jayawardene
+829,,Sydney Cricket Ground,2/26/2012,male,ODI,,Australia,India,Australia,87,0,,Australia,bat,DA Warner
+830,Hobart,Bellerive Oval,2/28/2012,male,ODI,,India,Sri Lanka,India,0,7,,India,field,V Kohli
+831,,Melbourne Cricket Ground,3/2/2012,male,ODI,,Australia,Sri Lanka,Sri Lanka,9,0,,Sri Lanka,bat,LD Chandimal
+832,Brisbane,"Brisbane Cricket Ground, Woolloongabba",3/4/2012,male,ODI,,Australia,Sri Lanka,Australia,15,0,,Australia,bat,DA Warner
+833,,Adelaide Oval,3/6/2012,male,ODI,,Australia,Sri Lanka,Sri Lanka,0,8,,Australia,bat,TM Dilshan
+834,,Adelaide Oval,3/8/2012,male,ODI,,Australia,Sri Lanka,Australia,16,0,,Sri Lanka,field,CJ McKay
+835,Dunedin,University Oval,2/3/2012,male,ODI,,New Zealand,Zimbabwe,New Zealand,90,0,,Zimbabwe,field,MJ Guptill
+836,Whangarei,Cobham Oval (New),2/6/2012,male,ODI,,New Zealand,Zimbabwe,New Zealand,141,0,,Zimbabwe,field,RJ Nicol
+837,Napier,McLean Park,2/9/2012,male,ODI,,New Zealand,Zimbabwe,New Zealand,202,0,,New Zealand,bat,BB McCullum
+838,Wellington,Westpac Stadium,2/25/2012,male,ODI,,New Zealand,South Africa,South Africa,0,6,,New Zealand,bat,AB de Villiers
+839,Napier,McLean Park,2/29/2012,male,ODI,,New Zealand,South Africa,South Africa,0,6,,South Africa,field,M Morkel
+840,Auckland,Eden Park,3/3/2012,male,ODI,,New Zealand,South Africa,South Africa,0,5,,South Africa,field,M de Lange
+841,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",10/14/2011,male,ODI,,India,England,India,126,0,,India,bat,MS Dhoni
+842,Delhi,Feroz Shah Kotla,10/17/2011,male,ODI,,India,England,India,0,8,,England,bat,V Kohli
+843,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/20/2011,male,ODI,,India,England,India,0,5,,England,bat,AM Rahane
+844,Mumbai,Wankhede Stadium,10/23/2011,male,ODI,,India,England,India,0,6,,England,bat,SK Raina
+845,Kolkata,Eden Gardens,10/25/2011,male,ODI,,India,England,India,95,0,,England,field,RA Jadeja
+846,,Harare Sports Club,8/12/2011,male,ODI,,Zimbabwe,Bangladesh,Zimbabwe,0,4,,Zimbabwe,field,BV Vitori
+847,,Harare Sports Club,8/14/2011,male,ODI,,Zimbabwe,Bangladesh,Zimbabwe,0,7,,Zimbabwe,field,BV Vitori
+848,,Harare Sports Club,8/16/2011,male,ODI,,Zimbabwe,Bangladesh,Zimbabwe,5,0,,Bangladesh,field,Mushfiqur Rahim
+849,Bulawayo,Queens Sports Club,8/19/2011,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,0,6,,Bangladesh,field,Rubel Hossain
+850,Bulawayo,Queens Sports Club,8/21/2011,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,93,0,,Zimbabwe,field,Shakib Al Hasan
+851,Bulawayo,Queens Sports Club,9/8/2011,male,ODI,,Zimbabwe,Pakistan,Pakistan,5,0,,Pakistan,bat,Younis Khan
+852,,Harare Sports Club,9/11/2011,male,ODI,,Zimbabwe,Pakistan,Pakistan,0,10,,Zimbabwe,bat,Mohammad Hafeez
+853,,Harare Sports Club,9/14/2011,male,ODI,,Zimbabwe,Pakistan,Pakistan,28,0,,Zimbabwe,field,Aizaz Cheema
+854,Dublin,Clontarf Cricket Club Ground,9/19/2011,male,ODI,,Ireland,Canada,Ireland,133,0,,Canada,field,
+855,Dublin,Clontarf Cricket Club Ground,9/20/2011,male,ODI,,Ireland,Canada,Ireland,56,0,,Ireland,bat,
+856,,Harare Sports Club,10/20/2011,male,ODI,,Zimbabwe,New Zealand,New Zealand,0,9,,Zimbabwe,bat,RJ Nicol
+857,,Harare Sports Club,10/22/2011,male,ODI,,Zimbabwe,New Zealand,New Zealand,0,4,,New Zealand,field,MJ Guptill
+858,Bulawayo,Queens Sports Club,10/25/2011,male,ODI,,Zimbabwe,New Zealand,Zimbabwe,0,1,,New Zealand,bat,MN Waller
+859,,Dubai International Cricket Stadium,11/11/2011,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,8,,Sri Lanka,bat,Shahid Afridi
+860,,Dubai International Cricket Stadium,11/14/2011,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,25,0,,Sri Lanka,bat,SL Malinga
+861,,Dubai International Cricket Stadium,11/18/2011,male,ODI,,Pakistan,Sri Lanka,Pakistan,21,0,,Pakistan,bat,Mohammad Hafeez
+862,,Sharjah Cricket Stadium,11/20/2011,male,ODI,,Pakistan,Sri Lanka,Pakistan,26,0,,Pakistan,bat,Shahid Afridi
+863,Abu Dhabi,Sheikh Zayed Stadium,11/23/2011,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,3,,Sri Lanka,bat,Umar Akmal
+864,Abu Dhabi,Sheikh Zayed Stadium,2/13/2012,male,ODI,,England,Pakistan,England,130,0,,England,bat,AN Cook
+865,Abu Dhabi,Sheikh Zayed Stadium,2/15/2012,male,ODI,,England,Pakistan,England,20,0,,England,bat,AN Cook
+866,,Dubai International Cricket Stadium,2/18/2012,male,ODI,,England,Pakistan,England,0,9,,Pakistan,bat,KP Pietersen
+867,,Dubai International Cricket Stadium,2/21/2012,male,ODI,,England,Pakistan,England,0,4,,Pakistan,bat,KP Pietersen
+868,Mirpur,Shere Bangla National Stadium,10/13/2011,male,ODI,,Bangladesh,West Indies,West Indies,40,0,,Bangladesh,field,LMP Simmons
+869,Mirpur,Shere Bangla National Stadium,10/15/2011,male,ODI,,Bangladesh,West Indies,West Indies,0,8,,Bangladesh,bat,MN Samuels
+870,Chittagong,Zahur Ahmed Chowdhury Stadium,10/18/2011,male,ODI,,Bangladesh,West Indies,Bangladesh,0,8,,Bangladesh,field,Shakib Al Hasan
+871,Southampton,The Rose Bowl,6/16/2012,male,ODI,,England,West Indies,England,114,0,,West Indies,field,IR Bell
+872,London,Kennington Oval,6/19/2012,male,ODI,,England,West Indies,England,0,8,,England,field,AN Cook
+873,Belfast,"Civil Service Cricket Club, Stormont",6/23/2012,male,ODI,,Ireland,Australia,No Result,0,0,,Australia,field,
+874,London,Lord's,6/29/2012,male,ODI,,England,Australia,England,15,0,,Australia,field,EJG Morgan
+875,London,Kennington Oval,7/1/2012,male,ODI,,England,Australia,England,0,6,,Australia,bat,RS Bopara
+876,Chester-le-Street,Riverside Ground,7/7/2012,male,ODI,,England,Australia,England,0,8,,England,field,ST Finn
+877,Manchester,Old Trafford,7/10/2012,male,ODI,,England,Australia,England,0,7,,England,field,RS Bopara
+878,Cardiff,Sophia Gardens,8/24/2012,male,ODI,,England,South Africa,No Result,0,0,,South Africa,field,
+879,Southampton,The Rose Bowl,8/28/2012,male,ODI,,England,South Africa,South Africa,80,0,,South Africa,bat,HM Amla
+880,London,Kennington Oval,8/31/2012,male,ODI,,England,South Africa,England,0,4,,South Africa,bat,EJG Morgan
+881,London,Lord's,9/2/2012,male,ODI,,England,South Africa,England,0,6,,England,field,IR Bell
+882,Nottingham,Trent Bridge,9/5/2012,male,ODI,,England,South Africa,South Africa,0,7,,England,bat,HM Amla
+883,Mirpur,Shere Bangla National Stadium,3/11/2012,male,ODI,,Bangladesh,Pakistan,Pakistan,21,0,,Bangladesh,field,Mohammad Hafeez
+884,Mirpur,Shere Bangla National Stadium,3/13/2012,male,ODI,,India,Sri Lanka,India,50,0,,Sri Lanka,field,V Kohli
+885,Mirpur,Shere Bangla National Stadium,3/15/2012,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,6,,Sri Lanka,bat,Aizaz Cheema
+886,Mirpur,Shere Bangla National Stadium,3/16/2012,male,ODI,,Bangladesh,India,Bangladesh,0,5,,Bangladesh,field,Shakib Al Hasan
+887,Mirpur,Shere Bangla National Stadium,3/18/2012,male,ODI,,India,Pakistan,India,0,6,,Pakistan,bat,V Kohli
+888,Mirpur,Shere Bangla National Stadium,3/20/2012,male,ODI,,Bangladesh,Sri Lanka,Bangladesh,0,5,,Bangladesh,field,Shakib Al Hasan
+889,Mirpur,Shere Bangla National Stadium,3/22/2012,male,ODI,,Bangladesh,Pakistan,Pakistan,2,0,,Bangladesh,field,Shahid Afridi
+890,Cuttack,Barabati Stadium,11/29/2011,male,ODI,,India,West Indies,India,0,1,,India,field,RG Sharma
+891,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,12/2/2011,male,ODI,,India,West Indies,India,0,5,,India,field,V Kohli
+892,Ahmedabad,"Sardar Patel Stadium, Motera",12/5/2011,male,ODI,,India,West Indies,West Indies,16,0,,India,field,R Rampaul
+893,Indore,Holkar Cricket Stadium,12/8/2011,male,ODI,,India,West Indies,India,153,0,,India,bat,V Sehwag
+894,Chennai,"MA Chidambaram Stadium, Chepauk",12/11/2011,male,ODI,,India,West Indies,India,34,0,,India,bat,MK Tiwary
+895,Mirpur,Shere Bangla National Stadium,12/1/2011,male,ODI,,Bangladesh,Pakistan,Pakistan,0,5,,Bangladesh,bat,Shahid Afridi
+896,Mirpur,Shere Bangla National Stadium,12/3/2011,male,ODI,,Bangladesh,Pakistan,Pakistan,76,0,,Pakistan,bat,Nasir Hossain
+897,Chittagong,Zahur Ahmed Chowdhury Stadium,12/6/2011,male,ODI,,Bangladesh,Pakistan,Pakistan,58,0,,Pakistan,bat,Umar Akmal
+898,St Vincent,"Arnos Vale Ground, Kingstown",3/16/2012,male,ODI,,West Indies,Australia,Australia,64,0,,Australia,bat,GJ Bailey
+899,St Vincent,"Arnos Vale Ground, Kingstown",3/18/2012,male,ODI,,West Indies,Australia,West Indies,0,5,,West Indies,field,SP Narine
+900,St Vincent,"Arnos Vale Ground, Kingstown",3/20/2012,male,ODI,,West Indies,Australia,No Result,0,0,,Australia,bat,MEK Hussey
+901,St Lucia,"Beausejour Stadium, Gros Islet",3/23/2012,male,ODI,,West Indies,Australia,West Indies,42,0,,Australia,field,KA Pollard
+902,St Lucia,"Beausejour Stadium, Gros Islet",3/25/2012,male,ODI,,West Indies,Australia,Australia,30,0,,West Indies,field,DJG Sammy
+903,,Mombasa Sports Club Ground,2/18/2012,male,ODI,,Kenya,Ireland,Kenya,0,7,,Ireland,bat,T Mishra
+904,,Mombasa Sports Club Ground,2/20/2012,male,ODI,,Kenya,Ireland,Ireland,117,0,,Ireland,bat,EC Joyce
+905,,Sharjah Cricket Stadium,3/29/2012,male,ODI,,Afghanistan,Netherlands,Netherlands,0,9,,Afghanistan,bat,
+906,,Sharjah Cricket Stadium,2/10/2012,male,ODI,,Afghanistan,Pakistan,Pakistan,0,7,,Afghanistan,bat,Shahid Afridi
+907,Dublin,Clontarf Cricket Club Ground,7/5/2012,male,ODI,,Ireland,Afghanistan,Ireland,59,0,,Afghanistan,field,
+908,Jamaica,"Sabina Park, Kingston",7/5/2012,male,ODI,,West Indies,New Zealand,West Indies,0,9,,West Indies,field,AD Russell
+909,Jamaica,"Sabina Park, Kingston",7/7/2012,male,ODI,,West Indies,New Zealand,West Indies,55,0,,New Zealand,field,MN Samuels
+910,St Kitts,"Warner Park, Basseterre",7/11/2012,male,ODI,,West Indies,New Zealand,New Zealand,88,0,,West Indies,field,RJ Nicol
+911,St Kitts,"Warner Park, Basseterre",7/14/2012,male,ODI,,West Indies,New Zealand,West Indies,24,0,,West Indies,bat,SP Narine
+912,St Kitts,"Warner Park, Basseterre",7/16/2012,male,ODI,,West Indies,New Zealand,West Indies,20,0,,West Indies,bat,SP Narine
+913,,Pallekele International Cricket Stadium,6/7/2012,male,ODI,,Sri Lanka,Pakistan,Pakistan,0,6,,Sri Lanka,bat,Umar Gul
+914,,Pallekele International Cricket Stadium,6/9/2012,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,76,0,,Sri Lanka,bat,NLTC Perera
+915,Colombo,R Premadasa Stadium,6/13/2012,male,ODI,,Sri Lanka,Pakistan,No Result,0,0,,Pakistan,bat,
+916,Colombo,R Premadasa Stadium,6/16/2012,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,44,0,,Sri Lanka,bat,NLTC Perera
+917,Colombo,R Premadasa Stadium,6/18/2012,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,0,2,,Pakistan,bat,AD Mathews
+918,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/21/2012,male,ODI,,Sri Lanka,India,India,21,0,,India,bat,V Kohli
+919,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/24/2012,male,ODI,,Sri Lanka,India,Sri Lanka,0,9,,India,bat,NLTC Perera
+920,Colombo,R Premadasa Stadium,7/28/2012,male,ODI,,Sri Lanka,India,India,0,5,,Sri Lanka,bat,SK Raina
+921,Colombo,R Premadasa Stadium,7/31/2012,male,ODI,,Sri Lanka,India,India,0,6,,Sri Lanka,bat,V Kohli
+922,,Pallekele International Cricket Stadium,8/4/2012,male,ODI,,Sri Lanka,India,India,20,0,,India,bat,IK Pathan
+923,Rajkot,Saurashtra Cricket Association Stadium,1/11/2013,male,ODI,,India,England,England,9,0,,England,bat,JC Tredwell
+924,Kochi,Nehru Stadium,1/15/2013,male,ODI,,India,England,India,127,0,,India,bat,RA Jadeja
+925,Ranchi,JSCA International Stadium Complex,1/19/2013,male,ODI,,India,England,India,0,7,,India,field,V Kohli
+926,Chandigarh,"Punjab Cricket Association Stadium, Mohali",1/23/2013,male,ODI,,India,England,India,0,5,,India,field,SK Raina
+927,Dharamsala,Himachal Pradesh Cricket Association Stadium,1/27/2013,male,ODI,,India,England,England,0,7,,England,field,IR Bell
+928,London,Lord's,5/31/2013,male,ODI,,England,New Zealand,New Zealand,0,5,,New Zealand,field,MJ Guptill
+929,Southampton,The Rose Bowl,6/2/2013,male,ODI,,England,New Zealand,New Zealand,86,0,,New Zealand,bat,MJ Guptill
+930,Nottingham,Trent Bridge,6/5/2013,male,ODI,,England,New Zealand,England,34,0,,New Zealand,field,JC Buttler
+931,Dublin,"The Village, Malahide",9/3/2013,male,ODI,,Ireland,England,England,0,6,,England,field,EJG Morgan
+932,Manchester,Old Trafford,9/8/2013,male,ODI,,England,Australia,Australia,88,0,,England,field,MJ Clarke
+933,Birmingham,Edgbaston,9/11/2013,male,ODI,,England,Australia,No Result,0,0,,Australia,field,
+934,Cardiff,Sophia Gardens,9/14/2013,male,ODI,,England,Australia,England,0,3,,England,field,JC Buttler
+935,Southampton,The Rose Bowl,9/16/2013,male,ODI,,England,Australia,Australia,49,0,,Australia,bat,SR Watson
+936,London,Kennington Oval,6/19/2013,male,ODI,,England,South Africa,England,0,7,,England,field,JC Tredwell
+937,Cardiff,Sophia Gardens,6/20/2013,male,ODI,,India,Sri Lanka,India,0,8,,India,field,I Sharma
+938,Birmingham,Edgbaston,6/23/2013,male,ODI,,England,India,India,5,0,,England,field,RA Jadeja
+939,Paarl,Boland Park,1/19/2013,male,ODI,,South Africa,New Zealand,New Zealand,0,1,,New Zealand,field,JEC Franklin
+940,Kimberley,De Beers Diamond Oval,1/22/2013,male,ODI,,South Africa,New Zealand,New Zealand,27,0,,South Africa,field,KS Williamson
+941,Potchefstroom,Senwes Park,1/25/2013,male,ODI,,South Africa,New Zealand,South Africa,0,1,,New Zealand,bat,GC Smith
+942,Bloemfontein,Chevrolet Park,3/10/2013,male,ODI,,South Africa,Pakistan,South Africa,125,0,,Pakistan,field,CA Ingram
+943,Centurion,SuperSport Park,3/15/2013,male,ODI,,South Africa,Pakistan,Pakistan,0,6,,South Africa,bat,Mohammad Irfan
+944,Johannesburg,New Wanderers Stadium,3/17/2013,male,ODI,,South Africa,Pakistan,South Africa,34,0,,Pakistan,field,HM Amla
+945,Durban,Kingsmead,3/21/2013,male,ODI,,South Africa,Pakistan,Pakistan,0,3,,South Africa,bat,Misbah-ul-Haq
+946,Benoni,Willowmoore Park,3/24/2013,male,ODI,,South Africa,Pakistan,South Africa,0,6,,Pakistan,bat,AB de Villiers
+947,Hamilton,Seddon Park,2/17/2013,male,ODI,,New Zealand,England,New Zealand,0,3,,New Zealand,field,BB McCullum
+948,Napier,McLean Park,2/20/2013,male,ODI,,New Zealand,England,England,0,8,,England,field,
+949,Auckland,Eden Park,2/23/2013,male,ODI,,New Zealand,England,England,0,5,,England,field,
+950,,Sharjah Cricket Stadium,8/28/2012,male,ODI,,Australia,Pakistan,Australia,0,4,,Pakistan,bat,MA Starc
+951,Abu Dhabi,Sheikh Zayed Stadium,8/31/2012,male,ODI,,Australia,Pakistan,Pakistan,0,7,,Australia,bat,Nasir Jamshed
+952,,Sharjah Cricket Stadium,9/3/2012,male,ODI,,Australia,Pakistan,Australia,0,3,,Australia,field,MEK Hussey
+953,,Sharjah Cricket Association Stadium,8/25/2012,male,ODI,,Afghanistan,Australia,Australia,66,0,,Australia,bat,MA Starc
+954,,Melbourne Cricket Ground,1/11/2013,male,ODI,,Australia,Sri Lanka,Australia,107,0,,Australia,bat,PJ Hughes
+955,,Adelaide Oval,1/13/2013,male,ODI,,Australia,Sri Lanka,Sri Lanka,0,8,,Sri Lanka,field,HDRL Thirimanne
+956,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/18/2013,male,ODI,,Australia,Sri Lanka,Sri Lanka,0,4,,Australia,bat,KMDN Kulasekara
+957,,Sydney Cricket Ground,1/20/2013,male,ODI,,Australia,Sri Lanka,No Result,0,0,,Australia,bat,
+958,Hobart,Bellerive Oval,1/23/2013,male,ODI,,Australia,Sri Lanka,Australia,32,0,,Sri Lanka,field,PJ Hughes
+959,Perth,Western Australia Cricket Association Ground,2/1/2013,male,ODI,,Australia,West Indies,Australia,0,9,,West Indies,bat,MA Starc
+960,Perth,Western Australia Cricket Association Ground,2/3/2013,male,ODI,,Australia,West Indies,Australia,54,0,,West Indies,field,GJ Bailey
+961,Canberra,Manuka Oval,2/6/2013,male,ODI,,Australia,West Indies,Australia,39,0,,Australia,bat,SR Watson
+962,,Sydney Cricket Ground,2/8/2013,male,ODI,,Australia,West Indies,Australia,0,5,,West Indies,bat,KA Pollard
+963,,Melbourne Cricket Ground,2/10/2013,male,ODI,,Australia,West Indies,Australia,17,0,,West Indies,field,AC Voges
+964,Cardiff,Sophia Gardens,6/6/2013,male,ODI,,India,South Africa,India,26,0,,South Africa,field,S Dhawan
+965,London,Kennington Oval,6/7/2013,male,ODI,,Pakistan,West Indies,West Indies,0,2,,West Indies,field,KAJ Roach
+966,Birmingham,Edgbaston,6/8/2013,male,ODI,,England,Australia,England,48,0,,England,bat,IR Bell
+967,Cardiff,Sophia Gardens,6/9/2013,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,1,,Sri Lanka,bat,NL McCullum
+968,Birmingham,Edgbaston,6/10/2013,male,ODI,,Pakistan,South Africa,South Africa,67,0,,South Africa,bat,HM Amla
+969,London,Kennington Oval,6/11/2013,male,ODI,,India,West Indies,India,0,8,,India,field,RA Jadeja
+970,Birmingham,Edgbaston,6/12/2013,male,ODI,,Australia,New Zealand,No Result,0,0,,Australia,bat,
+971,London,Kennington Oval,6/13/2013,male,ODI,,England,Sri Lanka,Sri Lanka,0,7,,Sri Lanka,field,KC Sangakkara
+972,Cardiff,Sophia Gardens,6/14/2013,male,ODI,,South Africa,West Indies,No Result,0,0,,West Indies,field,CA Ingram
+973,Birmingham,Edgbaston,6/15/2013,male,ODI,,India,Pakistan,India,0,8,,India,field,B Kumar
+974,Cardiff,Sophia Gardens,6/16/2013,male,ODI,,England,New Zealand,England,10,0,,New Zealand,field,AN Cook
+975,London,Kennington Oval,6/17/2013,male,ODI,,Australia,Sri Lanka,Sri Lanka,20,0,,Australia,field,DPMD Jayawardene
+976,,Pallekele International Cricket Stadium,11/4/2012,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,14,0,,New Zealand,bat,SL Malinga
+977,,Pallekele International Cricket Stadium,11/6/2012,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,0,7,,Sri Lanka,field,TM Dilshan
+978,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",11/10/2012,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,0,7,,Sri Lanka,field,BMAJ Mendis
+979,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",11/12/2012,male,ODI,,Sri Lanka,New Zealand,No Result,0,0,,New Zealand,field,
+980,Khulna,Sheikh Abu Naser Stadium,11/30/2012,male,ODI,,Bangladesh,West Indies,Bangladesh,0,7,,West Indies,bat,Sohag Gazi
+981,Khulna,Sheikh Abu Naser Stadium,12/2/2012,male,ODI,,Bangladesh,West Indies,Bangladesh,160,0,,West Indies,field,Anamul Haque
+982,Mirpur,Shere Bangla National Stadium,12/5/2012,male,ODI,,Bangladesh,West Indies,West Indies,0,4,,West Indies,field,MN Samuels
+983,Mirpur,Shere Bangla National Stadium,12/7/2012,male,ODI,,Bangladesh,West Indies,West Indies,75,0,,Bangladesh,field,DJG Sammy
+984,Mirpur,Shere Bangla National Stadium,12/8/2012,male,ODI,,Bangladesh,West Indies,Bangladesh,0,2,,Bangladesh,field,Mahmudullah
+985,Chennai,"MA Chidambaram Stadium, Chepauk",12/30/2012,male,ODI,,India,Pakistan,Pakistan,0,6,,Pakistan,field,MS Dhoni
+986,Kolkata,Eden Gardens,1/3/2013,male,ODI,,India,Pakistan,Pakistan,85,0,,India,field,Nasir Jamshed
+987,Delhi,Feroz Shah Kotla,1/6/2013,male,ODI,,India,Pakistan,India,10,0,,India,bat,MS Dhoni
+988,Dubai,ICC Global Cricket Academy,3/11/2013,male,ODI,,Canada,Kenya,Kenya,0,6,,Canada,bat,E Otieno
+989,Grenada,"National Cricket Stadium, St George's",2/22/2013,male,ODI,,West Indies,Zimbabwe,West Indies,156,0,,Zimbabwe,field,J Charles
+990,Grenada,"National Cricket Stadium, St George's",2/26/2013,male,ODI,,West Indies,Zimbabwe,West Indies,0,5,,Zimbabwe,bat,DM Bravo
+991,Jamaica,"Sabina Park, Kingston",6/28/2013,male,ODI,,West Indies,Sri Lanka,West Indies,0,6,,West Indies,field,CH Gayle
+992,Jamaica,"Sabina Park, Kingston",6/30/2013,male,ODI,,West Indies,India,West Indies,0,1,,West Indies,field,J Charles
+993,Jamaica,"Sabina Park, Kingston",7/2/2013,male,ODI,,India,Sri Lanka,Sri Lanka,161,0,,India,field,WU Tharanga
+994,Trinidad,"Queen's Park Oval, Port of Spain",7/5/2013,male,ODI,,West Indies,India,India,102,0,,West Indies,field,V Kohli
+995,Trinidad,"Queen's Park Oval, Port of Spain",7/7/2013,male,ODI,,West Indies,Sri Lanka,Sri Lanka,39,0,,West Indies,field,KC Sangakkara
+996,Trinidad,"Queen's Park Oval, Port of Spain",7/9/2013,male,ODI,,India,Sri Lanka,India,81,0,,Sri Lanka,field,B Kumar
+997,Trinidad,"Queen's Park Oval, Port of Spain",7/11/2013,male,ODI,,India,Sri Lanka,India,0,1,,India,field,MS Dhoni
+998,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",5/17/2013,male,ODI,,Scotland,Pakistan,Pakistan,96,0,,Pakistan,bat,Misbah-ul-Haq
+999,Dublin,Clontarf Cricket Club Ground,5/23/2013,male,ODI,,Ireland,Pakistan,No Result,0,0,,Pakistan,bat,KJ O'Brien
+1000,Dublin,Clontarf Cricket Club Ground,5/26/2013,male,ODI,,Ireland,Pakistan,Pakistan,0,2,,Pakistan,field,Kamran Akmal
+1001,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",3/23/2013,male,ODI,,Sri Lanka,Bangladesh,Sri Lanka,0,8,,Sri Lanka,field,TM Dilshan
+1002,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",3/25/2013,male,ODI,,Sri Lanka,Bangladesh,No Result,0,0,,Bangladesh,field,
+1003,,Pallekele International Cricket Stadium,3/28/2013,male,ODI,,Sri Lanka,Bangladesh,Bangladesh,0,3,,Sri Lanka,bat,TM Dilshan
+1004,Bulawayo,Queens Sports Club,5/3/2013,male,ODI,,Zimbabwe,Bangladesh,Bangladesh,121,0,,Zimbabwe,field,Ziaur Rahman
+1005,Bulawayo,Queens Sports Club,5/5/2013,male,ODI,,Zimbabwe,Bangladesh,Zimbabwe,0,6,,Zimbabwe,field,SC Williams
+1006,Bulawayo,Queens Sports Club,5/8/2013,male,ODI,,Zimbabwe,Bangladesh,Zimbabwe,0,7,,Zimbabwe,field,V Sibanda
+1007,Amstelveen,VRA Ground,7/7/2013,male,ODI,,Netherlands,Ireland,Ireland,88,0,,Ireland,bat,KJ O'Brien
+1008,Colombo,R Premadasa Stadium,7/20/2013,male,ODI,,Sri Lanka,South Africa,Sri Lanka,180,0,,South Africa,field,KC Sangakkara
+1009,Colombo,R Premadasa Stadium,7/23/2013,male,ODI,,Sri Lanka,South Africa,Sri Lanka,17,0,,Sri Lanka,bat,LD Chandimal
+1010,,Pallekele International Cricket Stadium,7/26/2013,male,ODI,,Sri Lanka,South Africa,South Africa,56,0,,South Africa,bat,DA Miller
+1011,,Pallekele International Cricket Stadium,7/28/2013,male,ODI,,Sri Lanka,South Africa,Sri Lanka,0,8,,South Africa,bat,TM Dilshan
+1012,Colombo,R Premadasa Stadium,7/31/2013,male,ODI,,Sri Lanka,South Africa,Sri Lanka,128,0,,Sri Lanka,bat,TM Dilshan
+1013,,Melbourne Cricket Ground,1/12/2014,male,ODI,,Australia,England,Australia,0,6,,England,bat,AJ Finch
+1014,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/17/2014,male,ODI,,Australia,England,Australia,0,1,,England,bat,JP Faulkner
+1015,,Sydney Cricket Ground,1/19/2014,male,ODI,,Australia,England,Australia,0,7,,England,bat,DA Warner
+1016,Perth,Western Australia Cricket Association Ground,1/24/2014,male,ODI,,Australia,England,England,57,0,,Australia,field,BA Stokes
+1017,,Adelaide Oval,1/26/2014,male,ODI,,Australia,England,Australia,5,0,,Australia,bat,JP Faulkner
+1018,Antigua,"Sir Vivian Richards Stadium, North Sound",2/28/2014,male,ODI,,West Indies,England,West Indies,15,0,,England,field,DJ Bravo
+1019,Antigua,"Sir Vivian Richards Stadium, North Sound",3/2/2014,male,ODI,,West Indies,England,England,0,3,,England,field,SD Parry
+1020,Antigua,"Sir Vivian Richards Stadium, North Sound",3/5/2014,male,ODI,,West Indies,England,England,25,0,,West Indies,field,JE Root
+1021,,Harare Sports Club,7/24/2013,male,ODI,,Zimbabwe,India,India,0,6,,India,field,V Kohli
+1022,,Harare Sports Club,7/26/2013,male,ODI,,Zimbabwe,India,India,58,0,,Zimbabwe,field,S Dhawan
+1023,,Harare Sports Club,7/28/2013,male,ODI,,Zimbabwe,India,India,0,7,,India,field,A Mishra
+1024,Bulawayo,Queens Sports Club,8/1/2013,male,ODI,,Zimbabwe,India,India,0,9,,India,field,MM Sharma
+1025,Bulawayo,Queens Sports Club,8/3/2013,male,ODI,,Zimbabwe,India,India,0,7,,India,field,A Mishra
+1026,Guyana,Providence Stadium,7/14/2013,male,ODI,,West Indies,Pakistan,Pakistan,126,0,,West Indies,field,Shahid Afridi
+1027,Guyana,Providence Stadium,7/16/2013,male,ODI,,West Indies,Pakistan,West Indies,37,0,,Pakistan,field,SP Narine
+1028,St Lucia,"Beausejour Stadium, Gros Islet",7/19/2013,male,ODI,,West Indies,Pakistan,No Result,0,0,,West Indies,field,Misbah-ul-Haq
+1029,St Lucia,"Beausejour Stadium, Gros Islet",7/21/2013,male,ODI,,West Indies,Pakistan,Pakistan,0,6,,Pakistan,field,MN Samuels
+1030,St Lucia,"Beausejour Stadium, Gros Islet",7/24/2013,male,ODI,,West Indies,Pakistan,Pakistan,0,4,,Pakistan,field,Misbah-ul-Haq
+1031,Pune,Maharashtra Cricket Association Stadium,10/13/2013,male,ODI,,India,Australia,Australia,72,0,,Australia,bat,GJ Bailey
+1032,Jaipur,Sawai Mansingh Stadium,10/16/2013,male,ODI,,India,Australia,India,0,9,,Australia,bat,RG Sharma
+1033,Chandigarh,"Punjab Cricket Association Stadium, Mohali",10/19/2013,male,ODI,,India,Australia,Australia,0,4,,Australia,field,JP Faulkner
+1034,Ranchi,JSCA International Stadium Complex,10/23/2013,male,ODI,,India,Australia,No Result,0,0,,India,field,
+1035,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",10/30/2013,male,ODI,,India,Australia,India,0,6,,India,field,V Kohli
+1036,Bangalore,M Chinnaswamy Stadium,11/2/2013,male,ODI,,India,Australia,India,57,0,,Australia,field,RG Sharma
+1037,Johannesburg,New Wanderers Stadium,12/5/2013,male,ODI,,South Africa,India,South Africa,141,0,,India,field,Q de Kock
+1038,Durban,Kingsmead,12/8/2013,male,ODI,,South Africa,India,South Africa,134,0,,India,field,Q de Kock
+1039,Centurion,SuperSport Park,12/11/2013,male,ODI,,South Africa,India,No Result,0,0,,South Africa,bat,
+1040,,Sharjah Cricket Stadium,10/30/2013,male,ODI,,Pakistan,South Africa,South Africa,1,0,,South Africa,bat,WD Parnell
+1041,,Dubai International Cricket Stadium,11/1/2013,male,ODI,,Pakistan,South Africa,Pakistan,66,0,,Pakistan,bat,Shahid Afridi
+1042,Abu Dhabi,Sheikh Zayed Stadium,11/6/2013,male,ODI,,Pakistan,South Africa,South Africa,68,0,,South Africa,bat,F du Plessis
+1043,Abu Dhabi,Sheikh Zayed Stadium,11/8/2013,male,ODI,,Pakistan,South Africa,South Africa,28,0,,South Africa,bat,DW Steyn
+1044,,Sharjah Cricket Stadium,11/11/2013,male,ODI,,Pakistan,South Africa,South Africa,117,0,,South Africa,bat,AB de Villiers
+1045,Christchurch,Hagley Oval,2/14/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,98,0,,Sri Lanka,field,CJ Anderson
+1046,,Melbourne Cricket Ground,2/14/2015,male,ODI,,Australia,England,Australia,111,0,,England,field,AJ Finch
+1047,Hamilton,Seddon Park,2/15/2015,male,ODI,,South Africa,Zimbabwe,South Africa,62,0,,Zimbabwe,field,DA Miller
+1048,,Adelaide Oval,2/15/2015,male,ODI,,India,Pakistan,India,76,0,,India,bat,V Kohli
+1049,Nelson,Saxton Oval,2/16/2015,male,ODI,,Ireland,West Indies,Ireland,0,4,,Ireland,field,PR Stirling
+1050,Dunedin,University Oval,2/17/2015,male,ODI,,New Zealand,Scotland,New Zealand,0,3,,New Zealand,field,TA Boult
+1051,Canberra,Manuka Oval,2/18/2015,male,ODI,,Afghanistan,Bangladesh,Bangladesh,105,0,,Bangladesh,bat,Mushfiqur Rahim
+1052,Nelson,Saxton Oval,2/19/2015,male,ODI,,United Arab Emirates,Zimbabwe,Zimbabwe,0,4,,Zimbabwe,field,SC Williams
+1053,Wellington,Westpac Stadium,2/20/2015,male,ODI,,New Zealand,England,New Zealand,0,8,,England,bat,TG Southee
+1054,Christchurch,Hagley Oval,2/21/2015,male,ODI,,Pakistan,West Indies,West Indies,150,0,,Pakistan,field,AD Russell
+1055,Dunedin,University Oval,2/22/2015,male,ODI,,Afghanistan,Sri Lanka,Sri Lanka,0,4,,Sri Lanka,field,DPMD Jayawardene
+1056,,Melbourne Cricket Ground,2/22/2015,male,ODI,,India,South Africa,India,130,0,,India,bat,S Dhawan
+1057,Christchurch,Hagley Oval,2/23/2015,male,ODI,,England,Scotland,England,119,0,,Scotland,field,MM Ali
+1058,Canberra,Manuka Oval,2/24/2015,male,ODI,,West Indies,Zimbabwe,West Indies,73,0,,West Indies,bat,CH Gayle
+1059,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2/25/2015,male,ODI,,Ireland,United Arab Emirates,Ireland,0,2,,Ireland,field,GC Wilson
+1060,Dunedin,University Oval,2/26/2015,male,ODI,,Afghanistan,Scotland,Afghanistan,0,1,,Afghanistan,field,Samiullah Shenwari
+1061,,Melbourne Cricket Ground,2/26/2015,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,92,0,,Sri Lanka,bat,TM Dilshan
+1062,,Sydney Cricket Ground,2/27/2015,male,ODI,,South Africa,West Indies,South Africa,257,0,,South Africa,bat,AB de Villiers
+1063,Auckland,Eden Park,2/28/2015,male,ODI,,New Zealand,Australia,New Zealand,0,1,,Australia,bat,TA Boult
+1064,Perth,Western Australia Cricket Association Ground,2/28/2015,male,ODI,,India,United Arab Emirates,India,0,9,,United Arab Emirates,bat,R Ashwin
+1065,Wellington,Westpac Stadium,3/1/2015,male,ODI,,England,Sri Lanka,Sri Lanka,0,9,,England,bat,KC Sangakkara
+1066,Brisbane,"Brisbane Cricket Ground, Woolloongabba",3/1/2015,male,ODI,,Pakistan,Zimbabwe,Pakistan,20,0,,Pakistan,bat,Wahab Riaz
+1067,Canberra,Manuka Oval,3/3/2015,male,ODI,,Ireland,South Africa,South Africa,201,0,,South Africa,bat,HM Amla
+1068,Napier,McLean Park,3/4/2015,male,ODI,,Pakistan,United Arab Emirates,Pakistan,129,0,,United Arab Emirates,field,Ahmed Shehzad
+1069,Perth,Western Australia Cricket Association Ground,3/4/2015,male,ODI,,Australia,Afghanistan,Australia,275,0,,Afghanistan,field,DA Warner
+1070,Nelson,Saxton Oval,3/5/2015,male,ODI,,Bangladesh,Scotland,Bangladesh,0,6,,Bangladesh,field,KJ Coetzer
+1071,Perth,Western Australia Cricket Association Ground,3/6/2015,male,ODI,,India,West Indies,India,0,4,,West Indies,bat,Mohammed Shami
+1072,Auckland,Eden Park,3/7/2015,male,ODI,,Pakistan,South Africa,Pakistan,29,0,,South Africa,field,Sarfraz Ahmed
+1073,Hobart,Bellerive Oval,3/7/2015,male,ODI,,Ireland,Zimbabwe,Ireland,5,0,,Zimbabwe,field,EC Joyce
+1074,Napier,McLean Park,3/8/2015,male,ODI,,New Zealand,Afghanistan,New Zealand,0,6,,Afghanistan,bat,DL Vettori
+1075,,Sydney Cricket Ground,3/8/2015,male,ODI,,Australia,Sri Lanka,Australia,64,0,,Australia,bat,GJ Maxwell
+1076,,Adelaide Oval,3/9/2015,male,ODI,,Bangladesh,England,Bangladesh,15,0,,England,field,Mahmudullah
+1077,Hamilton,Seddon Park,3/10/2015,male,ODI,,India,Ireland,India,0,8,,Ireland,bat,S Dhawan
+1078,Hobart,Bellerive Oval,3/11/2015,male,ODI,,Scotland,Sri Lanka,Sri Lanka,148,0,,Sri Lanka,bat,KC Sangakkara
+1079,Wellington,Westpac Stadium,3/12/2015,male,ODI,,South Africa,United Arab Emirates,South Africa,146,0,,United Arab Emirates,field,AB de Villiers
+1080,Hamilton,Seddon Park,3/13/2015,male,ODI,,New Zealand,Bangladesh,New Zealand,0,3,,New Zealand,field,MJ Guptill
+1081,,Sydney Cricket Ground,3/13/2015,male,ODI,,Afghanistan,England,England,0,9,,England,field,CJ Jordan
+1082,Auckland,Eden Park,3/14/2015,male,ODI,,India,Zimbabwe,India,0,6,,India,field,SK Raina
+1083,Hobart,Bellerive Oval,3/14/2015,male,ODI,,Australia,Scotland,Australia,0,7,,Australia,field,MA Starc
+1084,Napier,McLean Park,3/15/2015,male,ODI,,United Arab Emirates,West Indies,West Indies,0,6,,West Indies,field,JO Holder
+1085,,Adelaide Oval,3/15/2015,male,ODI,,Ireland,Pakistan,Pakistan,0,7,,Ireland,bat,Sarfraz Ahmed
+1086,,Sydney Cricket Ground,3/18/2015,male,ODI,,South Africa,Sri Lanka,South Africa,0,9,,Sri Lanka,bat,Imran Tahir
+1087,,Melbourne Cricket Ground,3/19/2015,male,ODI,,Bangladesh,India,India,109,0,,India,bat,RG Sharma
+1088,,Adelaide Oval,3/20/2015,male,ODI,,Australia,Pakistan,Australia,0,6,,Pakistan,bat,JR Hazlewood
+1089,Wellington,Westpac Stadium,3/21/2015,male,ODI,,New Zealand,West Indies,New Zealand,143,0,,New Zealand,bat,MJ Guptill
+1090,Auckland,Eden Park,3/24/2015,male,ODI,,New Zealand,South Africa,New Zealand,0,4,,South Africa,bat,GD Elliott
+1091,,Sydney Cricket Ground,3/26/2015,male,ODI,,Australia,India,Australia,95,0,,Australia,bat,SPD Smith
+1092,,Melbourne Cricket Ground,3/29/2015,male,ODI,,Australia,New Zealand,Australia,0,7,,New Zealand,bat,JP Faulkner
+1093,,Sharjah Cricket Stadium,12/18/2013,male,ODI,,Pakistan,Sri Lanka,Pakistan,11,0,,Pakistan,bat,Mohammad Hafeez
+1094,,Dubai International Cricket Stadium,12/20/2013,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,0,2,,Sri Lanka,field,AD Mathews
+1095,,Sharjah Cricket Stadium,12/22/2013,male,ODI,,Pakistan,Sri Lanka,Pakistan,113,0,,Sri Lanka,field,Mohammad Hafeez
+1096,Abu Dhabi,Sheikh Zayed Stadium,12/25/2013,male,ODI,,Pakistan,Sri Lanka,Pakistan,0,8,,Sri Lanka,bat,Mohammad Hafeez
+1097,Abu Dhabi,Sheikh Zayed Stadium,12/27/2013,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,0,2,,Pakistan,bat,LD Chandimal
+1098,,Harare Sports Club,8/27/2013,male,ODI,,Zimbabwe,Pakistan,Zimbabwe,0,7,,Pakistan,bat,H Masakadza
+1099,,Harare Sports Club,8/29/2013,male,ODI,,Zimbabwe,Pakistan,Pakistan,90,0,,Zimbabwe,field,Mohammad Hafeez
+1100,,Harare Sports Club,8/31/2013,male,ODI,,Zimbabwe,Pakistan,Pakistan,108,0,,Zimbabwe,field,Misbah-ul-Haq
+1101,King City,Maple Leaf North-West Ground,8/27/2013,male,ODI,,Canada,Netherlands,No Result,0,0,,Canada,field,
+1102,King City,Maple Leaf North-West Ground,8/29/2013,male,ODI,,Canada,Netherlands,Netherlands,0,9,,Netherlands,field,T van der Gugten
+1103,Belfast,"Civil Service Cricket Club, Stormont",9/6/2013,male,ODI,,Ireland,Scotland,Ireland,0,1,,Scotland,bat,
+1104,Auckland,Eden Park,12/26/2013,male,ODI,,New Zealand,West Indies,West Indies,0,2,,West Indies,field,DJG Sammy
+1105,,Queenstown Events Centre,1/1/2014,male,ODI,,New Zealand,West Indies,New Zealand,159,0,,West Indies,field,CJ Anderson
+1106,Nelson,Saxton Oval,1/4/2014,male,ODI,,New Zealand,West Indies,New Zealand,58,0,,New Zealand,bat,MJ Guptill
+1107,Hamilton,Seddon Park,1/8/2014,male,ODI,,New Zealand,West Indies,West Indies,203,0,,New Zealand,field,DJ Bravo
+1108,Napier,McLean Park,1/19/2014,male,ODI,,New Zealand,India,New Zealand,24,0,,India,field,CJ Anderson
+1109,Hamilton,Seddon Park,1/22/2014,male,ODI,,New Zealand,India,New Zealand,15,0,,India,field,KS Williamson
+1110,Auckland,Eden Park,1/25/2014,male,ODI,,New Zealand,India,No Result,0,0,,India,field,RA Jadeja
+1111,Hamilton,Seddon Park,1/28/2014,male,ODI,,New Zealand,India,New Zealand,0,7,,India,bat,LRPL Taylor
+1112,Wellington,Westpac Stadium,1/31/2014,male,ODI,,New Zealand,India,New Zealand,87,0,,India,field,LRPL Taylor
+1113,Cardiff,Sophia Gardens,8/27/2014,male,ODI,,England,India,India,133,0,,England,field,SK Raina
+1114,Nottingham,Trent Bridge,8/30/2014,male,ODI,,England,India,India,0,6,,India,field,R Ashwin
+1115,Birmingham,Edgbaston,9/2/2014,male,ODI,,England,India,India,0,9,,India,field,AM Rahane
+1116,Leeds,Headingley,9/5/2014,male,ODI,,England,India,England,41,0,,India,field,JE Root
+1117,London,Kennington Oval,5/22/2014,male,ODI,,England,Sri Lanka,England,81,0,,Sri Lanka,field,CJ Jordan
+1118,Chester-le-Street,Riverside Ground,5/25/2014,male,ODI,,England,Sri Lanka,Sri Lanka,157,0,,England,field,TM Dilshan
+1119,Manchester,Old Trafford,5/28/2014,male,ODI,,England,Sri Lanka,England,0,10,,England,field,CJ Jordan
+1120,London,Lord's,5/31/2014,male,ODI,,England,Sri Lanka,Sri Lanka,7,0,,England,field,JC Buttler
+1121,Birmingham,Edgbaston,6/3/2014,male,ODI,,England,Sri Lanka,Sri Lanka,0,6,,England,bat,HDRL Thirimanne
+1122,Mirpur,Shere Bangla National Stadium,10/29/2013,male,ODI,,Bangladesh,New Zealand,Bangladesh,43,0,,New Zealand,field,Rubel Hossain
+1123,Mirpur,Shere Bangla National Stadium,10/31/2013,male,ODI,,Bangladesh,New Zealand,Bangladesh,40,0,,Bangladesh,bat,Sohag Gazi
+1124,Fatullah,Khan Shaheb Osman Ali Stadium,11/3/2013,male,ODI,,Bangladesh,New Zealand,Bangladesh,0,4,,Bangladesh,field,Shamsur Rahman
+1125,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",11/10/2013,male,ODI,,Sri Lanka,New Zealand,No Result,0,0,,New Zealand,field,
+1126,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",11/12/2013,male,ODI,,Sri Lanka,New Zealand,New Zealand,0,4,,Sri Lanka,bat,TWM Latham
+1127,,Rangiri Dambulla International Stadium,11/16/2013,male,ODI,,Sri Lanka,New Zealand,Sri Lanka,36,0,,New Zealand,field,SMSM Senanayake
+1128,Kochi,Nehru Stadium,11/21/2013,male,ODI,,India,West Indies,India,0,6,,West Indies,bat,V Kohli
+1129,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,11/24/2013,male,ODI,,India,West Indies,West Indies,0,2,,West Indies,field,DJG Sammy
+1130,Kanpur,Green Park,11/27/2013,male,ODI,,India,West Indies,India,0,5,,India,field,S Dhawan
+1131,Aberdeen,Mannofield Park,5/9/2014,male,ODI,,Scotland,England,England,39,0,,Scotland,field,MA Leask
+1132,Cape Town,Newlands,11/24/2013,male,ODI,,South Africa,Pakistan,Pakistan,23,0,,Pakistan,bat,Anwar Ali
+1133,Port Elizabeth,St George's Park,11/27/2013,male,ODI,,South Africa,Pakistan,Pakistan,1,0,,South Africa,field,Ahmed Shehzad
+1134,Centurion,SuperSport Park,11/30/2013,male,ODI,,South Africa,Pakistan,South Africa,0,4,,South Africa,field,VD Philander
+1135,Mirpur,Shere Bangla National Stadium,2/17/2014,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,13,0,,Bangladesh,field,NLTC Perera
+1136,Mirpur,Shere Bangla National Stadium,2/20/2014,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,61,0,,Sri Lanka,bat,KC Sangakkara
+1137,Mirpur,Shere Bangla National Stadium,2/22/2014,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,0,6,,Sri Lanka,field,MDKJ Perera
+1138,Christchurch,Hagley Oval,1/23/2014,male,ODI,,Canada,Scotland,Scotland,170,0,,Canada,field,CS MacLeod
+1139,Lincoln,Bert Sutcliffe Oval,1/23/2014,male,ODI,,Kenya,Netherlands,Kenya,0,4,,Kenya,field,IA Karim
+1140,Mount Maunganui,Bay Oval,1/28/2014,male,ODI,,Canada,Netherlands,Netherlands,0,8,,Canada,bat,MJG Rippon
+1141,Christchurch,Hagley Oval,1/30/2014,male,ODI,,Kenya,Scotland,Scotland,0,3,,Kenya,bat,PL Mommsen
+1142,Jamaica,"Sabina Park, Kingston",2/23/2014,male,ODI,,West Indies,Ireland,West Indies,0,4,,Ireland,bat,DJ Bravo
+1143,Dublin,Clontarf Cricket Club Ground,5/6/2014,male,ODI,,Ireland,Sri Lanka,Sri Lanka,79,0,,Ireland,field,BAW Mendis
+1144,Fatullah,Khan Shaheb Osman Ali Stadium,2/25/2014,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,12,0,,Sri Lanka,bat,SL Malinga
+1145,Fatullah,Khan Shaheb Osman Ali Stadium,2/26/2014,male,ODI,,Bangladesh,India,India,0,6,,India,field,V Kohli
+1146,Fatullah,Khan Shaheb Osman Ali Stadium,2/27/2014,male,ODI,,Afghanistan,Pakistan,Pakistan,72,0,,Afghanistan,field,Umar Akmal
+1147,Fatullah,Khan Shaheb Osman Ali Stadium,2/28/2014,male,ODI,,India,Sri Lanka,Sri Lanka,0,2,,Sri Lanka,field,KC Sangakkara
+1148,Fatullah,Khan Shaheb Osman Ali Stadium,3/1/2014,male,ODI,,Bangladesh,Afghanistan,Afghanistan,32,0,,Bangladesh,field,Samiullah Shenwari
+1149,Mirpur,Shere Bangla National Stadium,3/2/2014,male,ODI,,India,Pakistan,Pakistan,0,1,,Pakistan,field,Mohammad Hafeez
+1150,Mirpur,Shere Bangla National Stadium,3/3/2014,male,ODI,,Afghanistan,Sri Lanka,Sri Lanka,129,0,,Sri Lanka,bat,KC Sangakkara
+1151,Mirpur,Shere Bangla National Stadium,3/4/2014,male,ODI,,Bangladesh,Pakistan,Pakistan,0,3,,Bangladesh,bat,Shahid Afridi
+1152,Mirpur,Shere Bangla National Stadium,3/5/2014,male,ODI,,Afghanistan,India,India,0,8,,India,field,RA Jadeja
+1153,Mirpur,Shere Bangla National Stadium,3/6/2014,male,ODI,,Bangladesh,Sri Lanka,Sri Lanka,0,3,,Bangladesh,bat,AD Mathews
+1154,Mirpur,Shere Bangla National Stadium,3/8/2014,male,ODI,,Pakistan,Sri Lanka,Sri Lanka,0,5,,Pakistan,bat,SL Malinga
+1155,Durban,Kingsmead,1/16/2015,male,ODI,,South Africa,West Indies,South Africa,61,0,,South Africa,bat,AB de Villiers
+1156,Johannesburg,New Wanderers Stadium,1/18/2015,male,ODI,,South Africa,West Indies,South Africa,148,0,,West Indies,field,AB de Villiers
+1157,East London,Buffalo Park,1/21/2015,male,ODI,,South Africa,West Indies,South Africa,0,9,,West Indies,bat,VD Philander
+1158,Port Elizabeth,St George's Park,1/25/2015,male,ODI,,South Africa,West Indies,West Indies,0,1,,West Indies,field,AD Russell
+1159,Centurion,SuperSport Park,1/28/2015,male,ODI,,South Africa,West Indies,South Africa,131,0,,West Indies,field,RR Rossouw
+1160,,Sharjah Cricket Stadium,10/7/2014,male,ODI,,Australia,Pakistan,Australia,93,0,,Australia,bat,SPD Smith
+1161,,Dubai International Cricket Stadium,10/10/2014,male,ODI,,Australia,Pakistan,Australia,0,5,,Pakistan,bat,GJ Maxwell
+1162,Abu Dhabi,Sheikh Zayed Stadium,10/12/2014,male,ODI,,Australia,Pakistan,Australia,1,0,,Australia,bat,GJ Maxwell
+1163,Dublin,"The Village, Malahide",9/8/2014,male,ODI,,Ireland,Scotland,Ireland,0,7,,Ireland,field,
+1164,Dublin,"The Village, Malahide",9/10/2014,male,ODI,,Ireland,Scotland,Ireland,0,3,,Ireland,field,
+1165,Dublin,"The Village, Malahide",9/12/2014,male,ODI,,Ireland,Scotland,Scotland,0,8,,Scotland,field,
+1166,Colombo,R Premadasa Stadium,7/6/2014,male,ODI,,Sri Lanka,South Africa,South Africa,75,0,,South Africa,bat,HM Amla
+1167,,Pallekele International Cricket Stadium,7/9/2014,male,ODI,,Sri Lanka,South Africa,Sri Lanka,87,0,,Sri Lanka,bat,TM Dilshan
+1168,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/12/2014,male,ODI,,Sri Lanka,South Africa,South Africa,82,0,,South Africa,bat,AB de Villiers
+1169,Grenada,"National Cricket Stadium, St George's",8/20/2014,male,ODI,,West Indies,Bangladesh,West Indies,0,3,,West Indies,field,KA Pollard
+1170,Grenada,"National Cricket Stadium, St George's",8/22/2014,male,ODI,,West Indies,Bangladesh,West Indies,177,0,,Bangladesh,field,SP Narine
+1171,St Kitts,"Warner Park, Basseterre",8/25/2014,male,ODI,,West Indies,Bangladesh,West Indies,91,0,,West Indies,bat,D Ramdin
+1172,Bulawayo,Queens Sports Club,8/17/2014,male,ODI,,Zimbabwe,South Africa,South Africa,93,0,,Zimbabwe,field,HM Amla
+1173,Bulawayo,Queens Sports Club,8/19/2014,male,ODI,,Zimbabwe,South Africa,South Africa,61,0,,Zimbabwe,field,WD Parnell
+1174,Bulawayo,Queens Sports Club,8/21/2014,male,ODI,,Zimbabwe,South Africa,South Africa,0,7,,South Africa,field,Q de Kock
+1175,,Harare Sports Club,8/25/2014,male,ODI,,Zimbabwe,Australia,Australia,198,0,,Zimbabwe,field,MR Marsh
+1176,,Harare Sports Club,8/27/2014,male,ODI,,Australia,South Africa,South Africa,0,7,,South Africa,field,AB de Villiers
+1177,,Harare Sports Club,8/29/2014,male,ODI,,Zimbabwe,South Africa,South Africa,61,0,,Zimbabwe,field,P Utseya
+1178,,Harare Sports Club,8/31/2014,male,ODI,,Zimbabwe,Australia,Zimbabwe,0,3,,Australia,bat,E Chigumbura
+1179,,Harare Sports Club,9/2/2014,male,ODI,,Australia,South Africa,Australia,62,0,,South Africa,field,MR Marsh
+1180,,Harare Sports Club,9/4/2014,male,ODI,,Zimbabwe,South Africa,South Africa,63,0,,Zimbabwe,field,F du Plessis
+1181,,Harare Sports Club,9/6/2014,male,ODI,,Australia,South Africa,South Africa,0,6,,South Africa,field,DW Steyn
+1182,Kuala Lumpur,Kinrara Academy Oval,5/2/2014,male,ODI,,Afghanistan,United Arab Emirates,Afghanistan,70,0,,United Arab Emirates,field,Mohammad Nabi
+1183,Kuala Lumpur,Kinrara Academy Oval,5/4/2014,male,ODI,,Hong Kong,United Arab Emirates,United Arab Emirates,0,2,,United Arab Emirates,field,Mohammad Shahzad (2)
+1184,,Dubai International Cricket Stadium,12/8/2014,male,ODI,,New Zealand,Pakistan,Pakistan,0,3,,Pakistan,field,Haris Sohail
+1185,,Sharjah Cricket Stadium,12/12/2014,male,ODI,,New Zealand,Pakistan,New Zealand,0,4,,Pakistan,bat,KS Williamson
+1186,,Sharjah Cricket Stadium,12/14/2014,male,ODI,,New Zealand,Pakistan,Pakistan,147,0,,Pakistan,bat,Ahmed Shehzad
+1187,Abu Dhabi,Sheikh Zayed Stadium,12/17/2014,male,ODI,,New Zealand,Pakistan,New Zealand,7,0,,New Zealand,bat,KS Williamson
+1188,Abu Dhabi,Sheikh Zayed Stadium,12/19/2014,male,ODI,,New Zealand,Pakistan,New Zealand,68,0,,New Zealand,bat,MJ Henry
+1189,Birmingham,Edgbaston,6/9/2015,male,ODI,,England,New Zealand,England,210,0,,New Zealand,field,JC Buttler
+1190,London,Kennington Oval,6/12/2015,male,ODI,,England,New Zealand,New Zealand,13,0,,New Zealand,bat,LRPL Taylor
+1191,Southampton,The Rose Bowl,6/14/2015,male,ODI,,England,New Zealand,New Zealand,0,3,,England,bat,KS Williamson
+1192,Nottingham,Trent Bridge,6/17/2015,male,ODI,,England,New Zealand,England,0,7,,New Zealand,bat,EJG Morgan
+1193,Chester-le-Street,Riverside Ground,6/20/2015,male,ODI,,England,New Zealand,England,0,3,,England,field,JM Bairstow
+1194,Belfast,"Civil Service Cricket Club, Stormont",8/27/2015,male,ODI,,Ireland,Australia,Australia,23,0,,Australia,bat,DA Warner
+1195,Southampton,The Rose Bowl,9/3/2015,male,ODI,,England,Australia,Australia,59,0,,Australia,bat,MS Wade
+1196,London,Lord's,9/5/2015,male,ODI,,England,Australia,Australia,64,0,,England,field,MR Marsh
+1197,Manchester,Old Trafford,9/8/2015,male,ODI,,England,Australia,England,93,0,,England,bat,JWA Taylor
+1198,Leeds,Headingley,9/11/2015,male,ODI,,England,Australia,England,0,3,,Australia,bat,EJG Morgan
+1199,Manchester,Old Trafford,9/13/2015,male,ODI,,England,Australia,Australia,0,8,,England,bat,MR Marsh
+1200,Mirpur,Shere Bangla National Stadium,6/15/2014,male,ODI,,Bangladesh,India,India,0,7,,Bangladesh,bat,AM Rahane
+1201,Mirpur,Shere Bangla National Stadium,6/17/2014,male,ODI,,Bangladesh,India,India,47,0,,Bangladesh,field,STR Binny
+1202,Mirpur,Shere Bangla National Stadium,6/19/2014,male,ODI,,Bangladesh,India,No Result,0,0,,India,bat,
+1203,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",8/23/2014,male,ODI,,Sri Lanka,Pakistan,Pakistan,0,4,,Pakistan,field,Sohaib Maqsood
+1204,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",8/26/2014,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,77,0,,Sri Lanka,bat,NLTC Perera
+1205,,Rangiri Dambulla International Stadium,8/30/2014,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,0,7,,Pakistan,bat,NLTC Perera
+1206,Mount Maunganui,Bay Oval,10/21/2014,male,ODI,,New Zealand,South Africa,South Africa,0,6,,South Africa,field,AB de Villiers
+1207,Mount Maunganui,Bay Oval,10/24/2014,male,ODI,,New Zealand,South Africa,South Africa,72,0,,New Zealand,field,HM Amla
+1208,Hamilton,Seddon Park,10/27/2014,male,ODI,,New Zealand,South Africa,No Result,0,0,,New Zealand,field,
+1209,Christchurch,Hagley Oval,1/11/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,3,,Sri Lanka,bat,CJ Anderson
+1210,Hamilton,Seddon Park,1/15/2015,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,0,6,,New Zealand,bat,TM Dilshan
+1211,Auckland,Eden Park,1/17/2015,male,ODI,,New Zealand,Sri Lanka,No Result,0,0,,Sri Lanka,field,
+1212,Nelson,Saxton Oval,1/20/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,4,,Sri Lanka,bat,KS Williamson
+1213,Dunedin,University Oval,1/23/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,108,0,,Sri Lanka,field,GD Elliott
+1214,Dunedin,University Oval,1/25/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,120,0,,New Zealand,bat,CJ Anderson
+1215,Wellington,Westpac Stadium,1/29/2015,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,34,0,,Sri Lanka,bat,KC Sangakkara
+1216,Wellington,Westpac Stadium,1/31/2015,male,ODI,,New Zealand,Pakistan,New Zealand,0,7,,New Zealand,field,GD Elliott
+1217,Napier,McLean Park,2/3/2015,male,ODI,,New Zealand,Pakistan,New Zealand,119,0,,New Zealand,bat,KS Williamson
+1218,Colombo,R Premadasa Stadium,11/26/2014,male,ODI,,Sri Lanka,England,Sri Lanka,25,0,,England,field,TM Dilshan
+1219,Colombo,R Premadasa Stadium,11/29/2014,male,ODI,,Sri Lanka,England,Sri Lanka,0,8,,England,bat,DPMD Jayawardene
+1220,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",12/3/2014,male,ODI,,Sri Lanka,England,England,0,5,,Sri Lanka,bat,JC Buttler
+1221,Colombo,R Premadasa Stadium,12/7/2014,male,ODI,,Sri Lanka,England,Sri Lanka,0,6,,England,bat,KC Sangakkara
+1222,,Pallekele International Cricket Stadium,12/10/2014,male,ODI,,Sri Lanka,England,England,0,5,,England,field,JE Root
+1223,,Pallekele International Cricket Stadium,12/13/2014,male,ODI,,Sri Lanka,England,Sri Lanka,90,0,,Sri Lanka,bat,KC Sangakkara
+1224,Colombo,R Premadasa Stadium,12/16/2014,male,ODI,,Sri Lanka,England,Sri Lanka,87,0,,Sri Lanka,bat,TM Dilshan
+1225,Perth,Western Australia Cricket Association Ground,11/14/2014,male,ODI,,Australia,South Africa,Australia,32,0,,South Africa,field,NM Coulter-Nile
+1226,Perth,Western Australia Cricket Association Ground,11/16/2014,male,ODI,,Australia,South Africa,South Africa,0,3,,Australia,bat,M Morkel
+1227,Canberra,Manuka Oval,11/19/2014,male,ODI,,Australia,South Africa,Australia,73,0,,Australia,bat,SPD Smith
+1228,,Melbourne Cricket Ground,11/21/2014,male,ODI,,Australia,South Africa,Australia,0,3,,South Africa,bat,SPD Smith
+1229,,Sydney Cricket Ground,11/23/2014,male,ODI,,Australia,South Africa,Australia,0,2,,South Africa,bat,Q de Kock
+1230,,Melbourne Cricket Ground,1/18/2015,male,ODI,,Australia,India,Australia,0,4,,India,bat,MA Starc
+1231,,Sydney Cricket Ground,1/16/2015,male,ODI,,Australia,England,Australia,0,3,,England,bat,MA Starc
+1232,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/20/2015,male,ODI,,England,India,England,0,9,,India,bat,ST Finn
+1233,Hobart,Bellerive Oval,1/23/2015,male,ODI,,Australia,England,Australia,0,3,,Australia,field,SPD Smith
+1234,,Sydney Cricket Ground,1/26/2015,male,ODI,,Australia,India,No Result,0,0,,Australia,field,
+1235,Perth,Western Australia Cricket Association Ground,1/30/2015,male,ODI,,England,India,England,0,3,,England,field,JWA Taylor
+1236,Perth,Western Australia Cricket Association Ground,2/1/2015,male,ODI,,Australia,England,Australia,112,0,,England,field,GJ Maxwell
+1237,Bulawayo,Queens Sports Club,7/20/2014,male,ODI,,Zimbabwe,Afghanistan,Zimbabwe,0,8,,Zimbabwe,field,Sikandar Raza
+1238,Bulawayo,Queens Sports Club,7/22/2014,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,0,2,,Afghanistan,field,H Masakadza
+1239,Bulawayo,Queens Sports Club,7/24/2014,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,100,0,,Zimbabwe,field,DT Tiripano
+1240,Chittagong,Zahur Ahmed Chowdhury Stadium,11/21/2014,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,87,0,,Zimbabwe,field,Shakib Al Hasan
+1241,Chittagong,Zahur Ahmed Chowdhury Stadium,11/23/2014,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,68,0,,Bangladesh,bat,Mashrafe Mortaza
+1242,Mirpur,Shere Bangla National Stadium,11/26/2014,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,124,0,,Zimbabwe,field,Anamul Haque
+1243,Mirpur,Shere Bangla National Stadium,11/28/2014,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,21,0,,Bangladesh,bat,Mahmudullah
+1244,Mirpur,Shere Bangla National Stadium,12/1/2014,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,0,5,,Zimbabwe,bat,Taijul Islam
+1245,Dublin,"The Village, Malahide",5/8/2015,male,ODI,,Ireland,England,No Result,0,0,,England,field,
+1246,Kochi,Nehru Stadium,10/8/2014,male,ODI,,India,West Indies,West Indies,124,0,,India,field,MN Samuels
+1247,Delhi,Feroz Shah Kotla,10/11/2014,male,ODI,,India,West Indies,India,48,0,,India,bat,Mohammed Shami
+1248,Dharmasala,Himachal Pradesh Cricket Association Stadium,10/17/2014,male,ODI,,India,West Indies,India,59,0,,West Indies,field,V Kohli
+1249,Cuttack,Barabati Stadium,11/2/2014,male,ODI,,India,Sri Lanka,India,169,0,,Sri Lanka,field,AM Rahane
+1250,Ahmedabad,"Sardar Patel Stadium, Motera",11/6/2014,male,ODI,,India,Sri Lanka,India,0,6,,Sri Lanka,bat,AT Rayudu
+1251,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",11/9/2014,male,ODI,,India,Sri Lanka,India,0,6,,Sri Lanka,bat,DPMD Jayawardene
+1252,Kolkata,Eden Gardens,11/13/2014,male,ODI,,India,Sri Lanka,India,153,0,,India,bat,RG Sharma
+1253,Ranchi,JSCA International Stadium Complex,11/16/2014,male,ODI,,India,Sri Lanka,India,0,3,,Sri Lanka,bat,AD Mathews
+1254,Bloemfontein,Mangaung Oval,2/3/2016,male,ODI,,South Africa,England,England,39,0,,England,bat,Q de Kock
+1255,Port Elizabeth,St George's Park,2/6/2016,male,ODI,,South Africa,England,England,0,5,,South Africa,bat,AD Hales
+1256,Centurion,SuperSport Park,2/9/2016,male,ODI,,South Africa,England,South Africa,0,7,,England,bat,Q de Kock
+1257,Johannesburg,New Wanderers Stadium,2/12/2016,male,ODI,,South Africa,England,South Africa,0,1,,South Africa,field,CH Morris
+1258,Cape Town,Newlands,2/14/2016,male,ODI,,South Africa,England,South Africa,0,5,,South Africa,field,AB de Villiers
+1259,Dubai,ICC Academy,11/28/2014,male,ODI,,United Arab Emirates,Afghanistan,United Arab Emirates,0,5,,Afghanistan,bat,Amjad Ali
+1260,Dubai,ICC Academy,11/30/2014,male,ODI,,United Arab Emirates,Afghanistan,United Arab Emirates,0,6,,United Arab Emirates,field,Khurram Khan
+1261,,Dubai International Cricket Stadium,1/12/2015,male,ODI,,Ireland,Scotland,Ireland,0,3,,Ireland,field,NJ O'Brien
+1262,,Dubai International Cricket Stadium,1/17/2015,male,ODI,,Afghanistan,Ireland,Afghanistan,71,0,,Ireland,field,Najibullah Zadran
+1263,Dubai,ICC Academy,1/8/2015,male,ODI,,Afghanistan,Scotland,Afghanistan,0,8,,Afghanistan,field,Javed Ahmadi
+1264,Abu Dhabi,Sheikh Zayed Stadium,1/14/2015,male,ODI,,Afghanistan,Scotland,Scotland,150,0,,Scotland,bat,JH Davey
+1265,Mirpur,Shere Bangla National Stadium,7/10/2015,male,ODI,,Bangladesh,South Africa,South Africa,0,8,,Bangladesh,bat,K Rabada
+1266,Mirpur,Shere Bangla National Stadium,7/12/2015,male,ODI,,Bangladesh,South Africa,Bangladesh,0,7,,South Africa,bat,Soumya Sarkar
+1267,Chittagong,Zahur Ahmed Chowdhury Stadium,7/15/2015,male,ODI,,Bangladesh,South Africa,Bangladesh,0,9,,South Africa,bat,Soumya Sarkar
+1268,Centurion,SuperSport Park,8/19/2015,male,ODI,,South Africa,New Zealand,South Africa,20,0,,New Zealand,field,HM Amla
+1269,Potchefstroom,Senwes Park,8/23/2015,male,ODI,,South Africa,New Zealand,New Zealand,0,8,,South Africa,bat,MJ Guptill
+1270,Durban,Kingsmead,8/26/2015,male,ODI,,South Africa,New Zealand,South Africa,62,0,,South Africa,bat,AB de Villiers
+1271,Mirpur,Shere Bangla National Stadium,4/17/2015,male,ODI,,Bangladesh,Pakistan,Bangladesh,79,0,,Bangladesh,bat,Mushfiqur Rahim
+1272,Mirpur,Shere Bangla National Stadium,4/19/2015,male,ODI,,Bangladesh,Pakistan,Bangladesh,0,7,,Pakistan,bat,Tamim Iqbal
+1273,Mirpur,Shere Bangla National Stadium,4/22/2015,male,ODI,,Bangladesh,Pakistan,Bangladesh,0,8,,Pakistan,bat,Soumya Sarkar
+1274,,Rangiri Dambulla International Stadium,7/11/2015,male,ODI,,Sri Lanka,Pakistan,Pakistan,0,6,,Pakistan,field,Mohammad Hafeez
+1275,,Pallekele International Cricket Stadium,7/15/2015,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,0,2,,Pakistan,bat,MDKJ Perera
+1276,Colombo,R Premadasa Stadium,7/19/2015,male,ODI,,Sri Lanka,Pakistan,Pakistan,135,0,,Pakistan,bat,Sarfraz Ahmed
+1277,Colombo,R Premadasa Stadium,7/22/2015,male,ODI,,Sri Lanka,Pakistan,Pakistan,0,7,,Sri Lanka,bat,Ahmed Shehzad
+1278,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7/26/2015,male,ODI,,Sri Lanka,Pakistan,Sri Lanka,165,0,,Sri Lanka,bat,MDKJ Perera
+1279,Lahore,Gaddafi Stadium,5/26/2015,male,ODI,,Pakistan,Zimbabwe,Pakistan,41,0,,Pakistan,bat,Shoaib Malik
+1280,Lahore,Gaddafi Stadium,5/29/2015,male,ODI,,Pakistan,Zimbabwe,Pakistan,0,6,,Pakistan,field,Azhar Ali
+1281,Lahore,Gaddafi Stadium,5/31/2015,male,ODI,,Pakistan,Zimbabwe,No Result,0,0,,Pakistan,bat,
+1282,Mirpur,Shere Bangla National Stadium,6/18/2015,male,ODI,,Bangladesh,India,Bangladesh,79,0,,Bangladesh,bat,Mustafizur Rahman
+1283,Mirpur,Shere Bangla National Stadium,6/21/2015,male,ODI,,Bangladesh,India,Bangladesh,0,6,,India,bat,Mustafizur Rahman
+1284,Mirpur,Shere Bangla National Stadium,6/24/2015,male,ODI,,Bangladesh,India,India,77,0,,Bangladesh,field,SK Raina
+1285,,Harare Sports Club,7/10/2015,male,ODI,,Zimbabwe,India,India,4,0,,Zimbabwe,field,AT Rayudu
+1286,,Harare Sports Club,7/12/2015,male,ODI,,Zimbabwe,India,India,62,0,,Zimbabwe,field,M Vijay
+1287,,Harare Sports Club,7/14/2015,male,ODI,,Zimbabwe,India,India,83,0,,Zimbabwe,field,KM Jadhav
+1288,,Harare Sports Club,8/2/2015,male,ODI,,Zimbabwe,New Zealand,Zimbabwe,0,7,,Zimbabwe,field,CR Ervine
+1289,,Harare Sports Club,8/4/2015,male,ODI,,Zimbabwe,New Zealand,New Zealand,0,10,,Zimbabwe,bat,MJ Guptill
+1290,,Harare Sports Club,8/7/2015,male,ODI,,Zimbabwe,New Zealand,New Zealand,38,0,,Zimbabwe,field,KS Williamson
+1291,Perth,Western Australia Cricket Association Ground,1/12/2016,male,ODI,,Australia,India,Australia,0,5,,India,bat,SPD Smith
+1292,Brisbane,"Brisbane Cricket Ground, Woolloongabba",1/15/2016,male,ODI,,Australia,India,Australia,0,7,,India,bat,RG Sharma
+1293,,Melbourne Cricket Ground,1/17/2016,male,ODI,,Australia,India,Australia,0,3,,Australia,field,GJ Maxwell
+1294,Canberra,Manuka Oval,1/20/2016,male,ODI,,Australia,India,Australia,25,0,,Australia,bat,KW Richardson
+1295,,Sydney Cricket Ground,1/23/2016,male,ODI,,Australia,India,India,0,6,,India,field,MK Pandey
+1296,Abu Dhabi,Sheikh Zayed Stadium,11/11/2015,male,ODI,,England,Pakistan,Pakistan,0,6,,England,bat,Mohammad Hafeez
+1297,Abu Dhabi,Sheikh Zayed Stadium,11/13/2015,male,ODI,,England,Pakistan,England,95,0,,England,bat,AD Hales
+1298,,Sharjah Cricket Stadium,11/17/2015,male,ODI,,England,Pakistan,England,0,6,,Pakistan,bat,JWA Taylor
+1299,,Dubai International Cricket Stadium,11/20/2015,male,ODI,,England,Pakistan,England,84,0,,England,bat,JC Buttler
+1300,Kanpur,Green Park,10/11/2015,male,ODI,,India,South Africa,South Africa,5,0,,South Africa,bat,AB de Villiers
+1301,Indore,Holkar Cricket Stadium,10/14/2015,male,ODI,,India,South Africa,India,22,0,,India,bat,MS Dhoni
+1302,Rajkot,Saurashtra Cricket Association Stadium,10/18/2015,male,ODI,,India,South Africa,South Africa,18,0,,South Africa,bat,M Morkel
+1303,Chennai,"MA Chidambaram Stadium, Chepauk",10/22/2015,male,ODI,,India,South Africa,India,35,0,,India,bat,V Kohli
+1304,Mumbai,Wankhede Stadium,10/25/2015,male,ODI,,India,South Africa,South Africa,214,0,,South Africa,bat,Q de Kock
+1305,Dubai,ICC Academy,11/16/2015,male,ODI,,United Arab Emirates,Hong Kong,Hong Kong,89,0,,Hong Kong,bat,MS Chapman
+1306,Dublin,"The Village, Malahide",6/18/2016,male,ODI,,Ireland,Sri Lanka,Sri Lanka,136,0,,Ireland,field,
+1307,Nottingham,Trent Bridge,6/21/2016,male,ODI,,England,Sri Lanka,No Result,0,0,,England,field,CR Woakes
+1308,Birmingham,Edgbaston,6/24/2016,male,ODI,,England,Sri Lanka,England,0,10,,Sri Lanka,bat,JJ Roy
+1309,Bristol,County Ground,6/26/2016,male,ODI,,England,Sri Lanka,No Result,0,0,,England,field,
+1310,London,Kennington Oval,6/29/2016,male,ODI,,England,Sri Lanka,England,0,6,,England,field,JJ Roy
+1311,Cardiff,Sophia Gardens,7/2/2016,male,ODI,,England,Sri Lanka,England,122,0,,Sri Lanka,field,JC Buttler
+1312,Dublin,"The Village, Malahide",8/18/2016,male,ODI,,Ireland,Pakistan,Pakistan,255,0,,Ireland,field,
+1313,Southampton,The Rose Bowl,8/24/2016,male,ODI,,England,Pakistan,England,44,0,,Pakistan,bat,JJ Roy
+1314,London,Lord's,8/27/2016,male,ODI,,England,Pakistan,England,0,4,,Pakistan,bat,JE Root
+1315,Nottingham,Trent Bridge,8/30/2016,male,ODI,,England,Pakistan,England,169,0,,England,bat,AD Hales
+1316,Leeds,Headingley,9/1/2016,male,ODI,,England,Pakistan,England,0,4,,Pakistan,bat,JM Bairstow
+1317,Cardiff,Sophia Gardens,9/4/2016,male,ODI,,England,Pakistan,Pakistan,0,4,,Pakistan,field,Sarfraz Ahmed
+1318,Christchurch,Hagley Oval,12/26/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,7,,Sri Lanka,bat,MJ Henry
+1319,Christchurch,Hagley Oval,12/28/2015,male,ODI,,New Zealand,Sri Lanka,New Zealand,0,10,,Sri Lanka,bat,MJ Guptill
+1320,Nelson,Saxton Oval,12/31/2015,male,ODI,,New Zealand,Sri Lanka,Sri Lanka,0,8,,New Zealand,bat,MD Gunathilaka
+1321,Nelson,Saxton Oval,1/2/2016,male,ODI,,New Zealand,Sri Lanka,No Result,0,0,,Sri Lanka,field,
+1322,Mount Maunganui,Bay Oval,1/5/2016,male,ODI,,New Zealand,Sri Lanka,New Zealand,36,0,,Sri Lanka,field,MJ Henry
+1323,Wellington,Basin Reserve,1/25/2016,male,ODI,,New Zealand,Pakistan,New Zealand,70,0,,Pakistan,field,HM Nicholls
+1324,Auckland,Eden Park,2/3/2016,male,ODI,,New Zealand,Australia,New Zealand,159,0,,Australia,field,MJ Guptill
+1325,Wellington,Westpac Stadium,2/6/2016,male,ODI,,New Zealand,Australia,Australia,0,4,,New Zealand,bat,MR Marsh
+1326,Hamilton,Seddon Park,2/8/2016,male,ODI,,New Zealand,Australia,New Zealand,55,0,,Australia,field,IS Sodhi
+1327,Auckland,Eden Park,1/31/2016,male,ODI,,New Zealand,Pakistan,New Zealand,0,3,,Pakistan,bat,MJ Guptill
+1328,Colombo,R Premadasa Stadium,11/1/2015,male,ODI,,Sri Lanka,West Indies,Sri Lanka,0,1,,Sri Lanka,field,TM Dilshan
+1329,Colombo,R Premadasa Stadium,11/4/2015,male,ODI,,Sri Lanka,West Indies,Sri Lanka,0,8,,West Indies,bat,MDKJ Perera
+1330,,Pallekele International Cricket Stadium,11/7/2015,male,ODI,,Sri Lanka,West Indies,Sri Lanka,19,0,,Sri Lanka,field,MN Samuels
+1331,,Harare Sports Club,10/1/2015,male,ODI,,Zimbabwe,Pakistan,Pakistan,131,0,,Zimbabwe,field,Yasir Shah
+1332,,Harare Sports Club,10/3/2015,male,ODI,,Zimbabwe,Pakistan,Zimbabwe,5,0,,Pakistan,field,E Chigumbura
+1333,,Harare Sports Club,10/5/2015,male,ODI,,Zimbabwe,Pakistan,Pakistan,0,7,,Pakistan,field,Bilal Asif
+1334,,Harare Sports Club,10/9/2015,male,ODI,,Zimbabwe,Ireland,Zimbabwe,0,2,,Zimbabwe,field,Sikandar Raza
+1335,,Harare Sports Club,10/11/2015,male,ODI,,Zimbabwe,Ireland,Zimbabwe,0,5,,Zimbabwe,field,CR Ervine
+1336,,Harare Sports Club,10/13/2015,male,ODI,,Zimbabwe,Ireland,Ireland,0,2,,Ireland,field,TJ Murtagh
+1337,Bulawayo,Queens Sports Club,10/16/2015,male,ODI,,Zimbabwe,Afghanistan,Zimbabwe,0,8,,Afghanistan,bat,WP Masakadza
+1338,Bulawayo,Queens Sports Club,10/18/2015,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,58,0,,Afghanistan,bat,Mohammad Nabi
+1339,Bulawayo,Queens Sports Club,10/22/2015,male,ODI,,Zimbabwe,Afghanistan,Afghanistan,0,3,,Zimbabwe,bat,Mohammad Shahzad
+1340,Mirpur,Shere Bangla National Stadium,11/7/2015,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,145,0,,Zimbabwe,field,Mushfiqur Rahim
+1341,Mirpur,Shere Bangla National Stadium,11/9/2015,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,58,0,,Zimbabwe,field,Imrul Kayes
+1342,Mirpur,Shere Bangla National Stadium,11/11/2015,male,ODI,,Bangladesh,Zimbabwe,Bangladesh,61,0,,Bangladesh,bat,Tamim Iqbal
+1343,Guyana,Providence Stadium,6/3/2016,male,ODI,,West Indies,South Africa,West Indies,0,4,,South Africa,bat,SP Narine
+1344,Guyana,Providence Stadium,6/5/2016,male,ODI,,West Indies,Australia,Australia,0,6,,Australia,field,NM Lyon
+1345,Guyana,Providence Stadium,6/7/2016,male,ODI,,Australia,South Africa,South Africa,47,0,,South Africa,bat,F Behardien
+1346,St Kitts,"Warner Park, Basseterre",6/11/2016,male,ODI,,Australia,South Africa,Australia,36,0,,Australia,bat,DA Warner
+1347,St Kitts,"Warner Park, Basseterre",6/13/2016,male,ODI,,West Indies,Australia,West Indies,0,4,,West Indies,field,MN Samuels
+1348,St Kitts,"Warner Park, Basseterre",6/15/2016,male,ODI,,West Indies,South Africa,South Africa,139,0,,West Indies,field,Imran Tahir
+1349,Barbados,"Kensington Oval, Bridgetown",6/19/2016,male,ODI,,Australia,South Africa,No Result,0,0,,Australia,field,
+1350,Barbados,"Kensington Oval, Bridgetown",6/21/2016,male,ODI,,West Indies,Australia,Australia,0,6,,Australia,field,MN Samuels
+1351,Barbados,"Kensington Oval, Bridgetown",6/24/2016,male,ODI,,West Indies,South Africa,West Indies,100,0,,South Africa,field,DM Bravo
+1352,Barbados,"Kensington Oval, Bridgetown",6/26/2016,male,ODI,,West Indies,Australia,Australia,58,0,,Australia,bat,MR Marsh
+1353,Benoni,Willowmoore Park,9/25/2016,male,ODI,,South Africa,Ireland,South Africa,206,0,,Ireland,field,T Bavuma
+1354,Benoni,Willowmoore Park,9/27/2016,male,ODI,,Australia,Ireland,Australia,0,9,,Ireland,bat,UT Khawaja
+1355,Centurion,SuperSport Park,9/30/2016,male,ODI,,South Africa,Australia,South Africa,0,6,,South Africa,field,Q de Kock
+1356,Johannesburg,New Wanderers Stadium,10/2/2016,male,ODI,,South Africa,Australia,South Africa,142,0,,Australia,field,F du Plessis
+1357,Durban,Kingsmead,10/5/2016,male,ODI,,South Africa,Australia,South Africa,0,4,,Australia,bat,DA Miller
+1358,Port Elizabeth,St George's Park,10/9/2016,male,ODI,,South Africa,Australia,South Africa,0,6,,Australia,bat,KJ Abbott
+1359,Cape Town,Newlands,10/12/2016,male,ODI,,South Africa,Australia,South Africa,31,0,,South Africa,bat,DA Warner
+1360,Port Elizabeth,St George's Park,1/28/2017,male,ODI,,South Africa,Sri Lanka,South Africa,0,8,,South Africa,field,Imran Tahir
+1361,Durban,Kingsmead,2/1/2017,male,ODI,,South Africa,Sri Lanka,South Africa,121,0,,Sri Lanka,field,F du Plessis
+1362,Johannesburg,New Wanderers Stadium,2/4/2017,male,ODI,,South Africa,Sri Lanka,South Africa,0,7,,South Africa,field,D Pretorius
+1363,Cape Town,Newlands,2/7/2017,male,ODI,,South Africa,Sri Lanka,South Africa,40,0,,South Africa,bat,F du Plessis
+1364,Centurion,SuperSport Park,2/10/2017,male,ODI,,South Africa,Sri Lanka,South Africa,88,0,,Sri Lanka,field,HM Amla
+1365,,Sharjah Cricket Stadium,12/25/2015,male,ODI,,Afghanistan,Zimbabwe,Afghanistan,49,0,,Afghanistan,bat,Amir Hamza
+1366,,Sharjah Cricket Stadium,12/29/2015,male,ODI,,Afghanistan,Zimbabwe,Afghanistan,0,4,,Zimbabwe,bat,Mohammad Shahzad
+1367,,Sharjah Cricket Stadium,1/2/2016,male,ODI,,Afghanistan,Zimbabwe,Zimbabwe,117,0,,Zimbabwe,bat,H Masakadza
+1368,,Sharjah Cricket Stadium,1/4/2016,male,ODI,,Afghanistan,Zimbabwe,Zimbabwe,65,0,,Zimbabwe,bat,CJ Chibhabha
+1369,,Sharjah Cricket Stadium,1/6/2016,male,ODI,,Afghanistan,Zimbabwe,Afghanistan,0,2,,Zimbabwe,bat,Gulbadin Naib
+1370,Colombo,R Premadasa Stadium,8/21/2016,male,ODI,,Sri Lanka,Australia,Australia,0,3,,Australia,field,JP Faulkner
+1371,Colombo,R Premadasa Stadium,8/24/2016,male,ODI,,Sri Lanka,Australia,Sri Lanka,82,0,,Sri Lanka,bat,AD Mathews
+1372,,Rangiri Dambulla International Stadium,8/28/2016,male,ODI,,Sri Lanka,Australia,Australia,0,2,,Sri Lanka,bat,GJ Bailey
+1373,,Rangiri Dambulla International Stadium,8/31/2016,male,ODI,,Sri Lanka,Australia,Australia,0,6,,Sri Lanka,bat,JW Hastings
+1374,,Pallekele International Cricket Stadium,9/1/2016,male,ODI,,Sri Lanka,Australia,Australia,0,5,,Sri Lanka,bat,DA Warner
+1375,Belfast,"Civil Service Cricket Club, Stormont",7/12/2016,male,ODI,,Ireland,Afghanistan,Afghanistan,39,0,,Ireland,field,
+1376,Belfast,"Civil Service Cricket Club, Stormont",7/17/2016,male,ODI,,Ireland,Afghanistan,Afghanistan,79,0,,Afghanistan,bat,
+1377,Belfast,"Civil Service Cricket Club, Stormont",7/19/2016,male,ODI,,Ireland,Afghanistan,Ireland,12,0,,Afghanistan,field,
+1378,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",8/14/2016,male,ODI,,Scotland,United Arab Emirates,Scotland,98,0,,United Arab Emirates,field,
+1379,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",8/16/2016,male,ODI,,Scotland,United Arab Emirates,Scotland,0,7,,United Arab Emirates,bat,
